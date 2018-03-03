@@ -1,0 +1,4858 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <ZNIEFF>
+  <PDF_DIFFUSE>true</PDF_DIFFUSE>
+  <EDIT>
+   <EDIT_ROW>
+    <DATE_EDIT>08/11/2017</DATE_EDIT>
+   </EDIT_ROW>
+  </EDIT>
+  <NM_SFFZN>820003420</NM_SFFZN>
+  <VOLET_ZNIEFF>CONT</VOLET_ZNIEFF>
+  <TERRITOIRE>METROP</TERRITOIRE>
+  <NM_SFFZN_PARENT/>
+  <NM_REGZN>0713</NM_REGZN>
+  <LB_ZN>« SERRES » CEVENOLS AUTOUR DU TANARGUE</LB_ZN>
+  <TY_ZONE>2</TY_ZONE>
+  <SU_ZN>7855,91</SU_ZN>
+  <PROF_MINI/>
+  <PROF_MAXI/>
+  <ALT_MINI/>
+  <ALT_MAXI/>
+  <X_L2E>744414</X_L2E>
+  <Y_L2E>1957448</Y_L2E>
+  <TY_ZONE>2</TY_ZONE>
+  <FG_EVOL>MJ</FG_EVOL>
+  <FG_EVOL_ANC>TR</FG_EVOL_ANC>
+  <FG_CONTOUR>true</FG_CONTOUR>
+  <TX_GEO/>
+  <TX_ACTH/>
+  <TX_MESPRO/>
+  <TX_HYDRO/>
+  <TX_GRANULO/>
+  <TX_INTERET/>
+  <TX_FACT/>
+  <DATE_EVOL>09/02/2015</DATE_EVOL>
+  <DATE_EDIT_CSRPN>17/12/2009</DATE_EDIT_CSRPN>
+  <DATE_ACTUEL_CSRPN/>
+  <DATE_PRE_DIFF>01/01/1900</DATE_PRE_DIFF>
+  <DATE_ACT_DIFF>06/04/2011</DATE_ACT_DIFF>
+  <PROSPECTION>
+   <PROSPECTION_ROW>
+    <CD_PROSPECT>1</CD_PROSPECT>
+    <NOM_COURT_PROSPECTION>Algues</NOM_COURT_PROSPECTION>
+    <NB_PROSPECT>0</NB_PROSPECT>
+    <LB_PROSPECT>Aucun</LB_PROSPECT>
+    <TYPE_PROSPECT>ESPECE</TYPE_PROSPECT>
+    <FG_TERRE>true</FG_TERRE>
+    <FG_MER>true</FG_MER>
+   </PROSPECTION_ROW>
+   <PROSPECTION_ROW>
+    <CD_PROSPECT>2</CD_PROSPECT>
+    <NOM_COURT_PROSPECTION>Amphibiens</NOM_COURT_PROSPECTION>
+    <NB_PROSPECT>1</NB_PROSPECT>
+    <LB_PROSPECT>Faible</LB_PROSPECT>
+    <TYPE_PROSPECT>ESPECE</TYPE_PROSPECT>
+    <FG_TERRE>true</FG_TERRE>
+    <FG_MER>false</FG_MER>
+   </PROSPECTION_ROW>
+   <PROSPECTION_ROW>
+    <CD_PROSPECT>3</CD_PROSPECT>
+    <NOM_COURT_PROSPECTION>Autre Faunes</NOM_COURT_PROSPECTION>
+    <NB_PROSPECT>1</NB_PROSPECT>
+    <LB_PROSPECT>Faible</LB_PROSPECT>
+    <TYPE_PROSPECT>ESPECE</TYPE_PROSPECT>
+    <FG_TERRE>true</FG_TERRE>
+    <FG_MER>true</FG_MER>
+   </PROSPECTION_ROW>
+   <PROSPECTION_ROW>
+    <CD_PROSPECT>4</CD_PROSPECT>
+    <NOM_COURT_PROSPECTION>Bryophytes</NOM_COURT_PROSPECTION>
+    <NB_PROSPECT>1</NB_PROSPECT>
+    <LB_PROSPECT>Faible</LB_PROSPECT>
+    <TYPE_PROSPECT>ESPECE</TYPE_PROSPECT>
+    <FG_TERRE>true</FG_TERRE>
+    <FG_MER>false</FG_MER>
+   </PROSPECTION_ROW>
+   <PROSPECTION_ROW>
+    <CD_PROSPECT>6</CD_PROSPECT>
+    <NOM_COURT_PROSPECTION>Habitats</NOM_COURT_PROSPECTION>
+    <NB_PROSPECT>0</NB_PROSPECT>
+    <LB_PROSPECT>Aucun</LB_PROSPECT>
+    <TYPE_PROSPECT>HABITAT</TYPE_PROSPECT>
+    <FG_TERRE>true</FG_TERRE>
+    <FG_MER>false</FG_MER>
+   </PROSPECTION_ROW>
+   <PROSPECTION_ROW>
+    <CD_PROSPECT>8</CD_PROSPECT>
+    <NOM_COURT_PROSPECTION>Lichens</NOM_COURT_PROSPECTION>
+    <NB_PROSPECT>0</NB_PROSPECT>
+    <LB_PROSPECT>Aucun</LB_PROSPECT>
+    <TYPE_PROSPECT>ESPECE</TYPE_PROSPECT>
+    <FG_TERRE>true</FG_TERRE>
+    <FG_MER>true</FG_MER>
+   </PROSPECTION_ROW>
+   <PROSPECTION_ROW>
+    <CD_PROSPECT>9</CD_PROSPECT>
+    <NOM_COURT_PROSPECTION>Mammifères</NOM_COURT_PROSPECTION>
+    <NB_PROSPECT>1</NB_PROSPECT>
+    <LB_PROSPECT>Faible</LB_PROSPECT>
+    <TYPE_PROSPECT>ESPECE</TYPE_PROSPECT>
+    <FG_TERRE>true</FG_TERRE>
+    <FG_MER>true</FG_MER>
+   </PROSPECTION_ROW>
+   <PROSPECTION_ROW>
+    <CD_PROSPECT>10</CD_PROSPECT>
+    <NOM_COURT_PROSPECTION>Oiseaux</NOM_COURT_PROSPECTION>
+    <NB_PROSPECT>1</NB_PROSPECT>
+    <LB_PROSPECT>Faible</LB_PROSPECT>
+    <TYPE_PROSPECT>ESPECE</TYPE_PROSPECT>
+    <FG_TERRE>true</FG_TERRE>
+    <FG_MER>true</FG_MER>
+   </PROSPECTION_ROW>
+   <PROSPECTION_ROW>
+    <CD_PROSPECT>11</CD_PROSPECT>
+    <NOM_COURT_PROSPECTION>Phanérogames</NOM_COURT_PROSPECTION>
+    <NB_PROSPECT>1</NB_PROSPECT>
+    <LB_PROSPECT>Faible</LB_PROSPECT>
+    <TYPE_PROSPECT>ESPECE</TYPE_PROSPECT>
+    <FG_TERRE>true</FG_TERRE>
+    <FG_MER>true</FG_MER>
+   </PROSPECTION_ROW>
+   <PROSPECTION_ROW>
+    <CD_PROSPECT>12</CD_PROSPECT>
+    <NOM_COURT_PROSPECTION>Poissons</NOM_COURT_PROSPECTION>
+    <NB_PROSPECT>1</NB_PROSPECT>
+    <LB_PROSPECT>Faible</LB_PROSPECT>
+    <TYPE_PROSPECT>ESPECE</TYPE_PROSPECT>
+    <FG_TERRE>true</FG_TERRE>
+    <FG_MER>true</FG_MER>
+   </PROSPECTION_ROW>
+   <PROSPECTION_ROW>
+    <CD_PROSPECT>13</CD_PROSPECT>
+    <NOM_COURT_PROSPECTION>Ptéridophytes</NOM_COURT_PROSPECTION>
+    <NB_PROSPECT>1</NB_PROSPECT>
+    <LB_PROSPECT>Faible</LB_PROSPECT>
+    <TYPE_PROSPECT>ESPECE</TYPE_PROSPECT>
+    <FG_TERRE>true</FG_TERRE>
+    <FG_MER>false</FG_MER>
+   </PROSPECTION_ROW>
+   <PROSPECTION_ROW>
+    <CD_PROSPECT>14</CD_PROSPECT>
+    <NOM_COURT_PROSPECTION>Reptiles</NOM_COURT_PROSPECTION>
+    <NB_PROSPECT>1</NB_PROSPECT>
+    <LB_PROSPECT>Faible</LB_PROSPECT>
+    <TYPE_PROSPECT>ESPECE</TYPE_PROSPECT>
+    <FG_TERRE>true</FG_TERRE>
+    <FG_MER>false</FG_MER>
+   </PROSPECTION_ROW>
+   <PROSPECTION_ROW>
+    <CD_PROSPECT>24</CD_PROSPECT>
+    <NOM_COURT_PROSPECTION>Mollusques</NOM_COURT_PROSPECTION>
+    <NB_PROSPECT>0</NB_PROSPECT>
+    <LB_PROSPECT>Aucun</LB_PROSPECT>
+    <TYPE_PROSPECT>ESPECE</TYPE_PROSPECT>
+    <FG_TERRE>true</FG_TERRE>
+    <FG_MER>true</FG_MER>
+   </PROSPECTION_ROW>
+   <PROSPECTION_ROW>
+    <CD_PROSPECT>31</CD_PROSPECT>
+    <NOM_COURT_PROSPECTION>Crustacés</NOM_COURT_PROSPECTION>
+    <NB_PROSPECT>0</NB_PROSPECT>
+    <LB_PROSPECT>Aucun</LB_PROSPECT>
+    <TYPE_PROSPECT>ESPECE</TYPE_PROSPECT>
+    <FG_TERRE>true</FG_TERRE>
+    <FG_MER>true</FG_MER>
+   </PROSPECTION_ROW>
+   <PROSPECTION_ROW>
+    <CD_PROSPECT>32</CD_PROSPECT>
+    <NOM_COURT_PROSPECTION>Arachnides</NOM_COURT_PROSPECTION>
+    <NB_PROSPECT>0</NB_PROSPECT>
+    <LB_PROSPECT>Aucun</LB_PROSPECT>
+    <TYPE_PROSPECT>ESPECE</TYPE_PROSPECT>
+    <FG_TERRE>true</FG_TERRE>
+    <FG_MER>false</FG_MER>
+   </PROSPECTION_ROW>
+   <PROSPECTION_ROW>
+    <CD_PROSPECT>33</CD_PROSPECT>
+    <NOM_COURT_PROSPECTION>Myriapodes</NOM_COURT_PROSPECTION>
+    <NB_PROSPECT>0</NB_PROSPECT>
+    <LB_PROSPECT>Aucun</LB_PROSPECT>
+    <TYPE_PROSPECT>ESPECE</TYPE_PROSPECT>
+    <FG_TERRE>true</FG_TERRE>
+    <FG_MER>false</FG_MER>
+   </PROSPECTION_ROW>
+   <PROSPECTION_ROW>
+    <CD_PROSPECT>34</CD_PROSPECT>
+    <NOM_COURT_PROSPECTION>Odonates</NOM_COURT_PROSPECTION>
+    <NB_PROSPECT>0</NB_PROSPECT>
+    <LB_PROSPECT>Aucun</LB_PROSPECT>
+    <TYPE_PROSPECT>ESPECE</TYPE_PROSPECT>
+    <FG_TERRE>true</FG_TERRE>
+    <FG_MER>false</FG_MER>
+   </PROSPECTION_ROW>
+   <PROSPECTION_ROW>
+    <CD_PROSPECT>35</CD_PROSPECT>
+    <NOM_COURT_PROSPECTION>Orthoptères</NOM_COURT_PROSPECTION>
+    <NB_PROSPECT>0</NB_PROSPECT>
+    <LB_PROSPECT>Aucun</LB_PROSPECT>
+    <TYPE_PROSPECT>ESPECE</TYPE_PROSPECT>
+    <FG_TERRE>true</FG_TERRE>
+    <FG_MER>false</FG_MER>
+   </PROSPECTION_ROW>
+   <PROSPECTION_ROW>
+    <CD_PROSPECT>36</CD_PROSPECT>
+    <NOM_COURT_PROSPECTION>Lépidoptères</NOM_COURT_PROSPECTION>
+    <NB_PROSPECT>1</NB_PROSPECT>
+    <LB_PROSPECT>Faible</LB_PROSPECT>
+    <TYPE_PROSPECT>ESPECE</TYPE_PROSPECT>
+    <FG_TERRE>true</FG_TERRE>
+    <FG_MER>false</FG_MER>
+   </PROSPECTION_ROW>
+   <PROSPECTION_ROW>
+    <CD_PROSPECT>37</CD_PROSPECT>
+    <NOM_COURT_PROSPECTION>Coléoptères</NOM_COURT_PROSPECTION>
+    <NB_PROSPECT>0</NB_PROSPECT>
+    <LB_PROSPECT>Aucun</LB_PROSPECT>
+    <TYPE_PROSPECT>ESPECE</TYPE_PROSPECT>
+    <FG_TERRE>true</FG_TERRE>
+    <FG_MER>false</FG_MER>
+   </PROSPECTION_ROW>
+   <PROSPECTION_ROW>
+    <CD_PROSPECT>38</CD_PROSPECT>
+    <NOM_COURT_PROSPECTION>Diptères</NOM_COURT_PROSPECTION>
+    <NB_PROSPECT>0</NB_PROSPECT>
+    <LB_PROSPECT>Aucun</LB_PROSPECT>
+    <TYPE_PROSPECT>ESPECE</TYPE_PROSPECT>
+    <FG_TERRE>true</FG_TERRE>
+    <FG_MER>false</FG_MER>
+   </PROSPECTION_ROW>
+   <PROSPECTION_ROW>
+    <CD_PROSPECT>39</CD_PROSPECT>
+    <NOM_COURT_PROSPECTION>Hyménoptères</NOM_COURT_PROSPECTION>
+    <NB_PROSPECT>0</NB_PROSPECT>
+    <LB_PROSPECT>Aucun</LB_PROSPECT>
+    <TYPE_PROSPECT>ESPECE</TYPE_PROSPECT>
+    <FG_TERRE>true</FG_TERRE>
+    <FG_MER>false</FG_MER>
+   </PROSPECTION_ROW>
+   <PROSPECTION_ROW>
+    <CD_PROSPECT>40</CD_PROSPECT>
+    <NOM_COURT_PROSPECTION>Autres ordres d'Hexapodes</NOM_COURT_PROSPECTION>
+    <NB_PROSPECT>0</NB_PROSPECT>
+    <LB_PROSPECT>Aucun</LB_PROSPECT>
+    <TYPE_PROSPECT>ESPECE</TYPE_PROSPECT>
+    <FG_TERRE>true</FG_TERRE>
+    <FG_MER>false</FG_MER>
+   </PROSPECTION_ROW>
+   <PROSPECTION_ROW>
+    <CD_PROSPECT>41</CD_PROSPECT>
+    <NOM_COURT_PROSPECTION>Hémiptères</NOM_COURT_PROSPECTION>
+    <NB_PROSPECT>0</NB_PROSPECT>
+    <LB_PROSPECT>Aucun</LB_PROSPECT>
+    <TYPE_PROSPECT>ESPECE</TYPE_PROSPECT>
+    <FG_TERRE>true</FG_TERRE>
+    <FG_MER>false</FG_MER>
+   </PROSPECTION_ROW>
+   <PROSPECTION_ROW>
+    <CD_PROSPECT>42</CD_PROSPECT>
+    <NOM_COURT_PROSPECTION>Ascomycètes</NOM_COURT_PROSPECTION>
+    <NB_PROSPECT>0</NB_PROSPECT>
+    <LB_PROSPECT>Aucun</LB_PROSPECT>
+    <TYPE_PROSPECT>ESPECE</TYPE_PROSPECT>
+    <FG_TERRE>true</FG_TERRE>
+    <FG_MER>false</FG_MER>
+   </PROSPECTION_ROW>
+   <PROSPECTION_ROW>
+    <CD_PROSPECT>43</CD_PROSPECT>
+    <NOM_COURT_PROSPECTION>Basidiomycètes</NOM_COURT_PROSPECTION>
+    <NB_PROSPECT>0</NB_PROSPECT>
+    <LB_PROSPECT>Aucun</LB_PROSPECT>
+    <TYPE_PROSPECT>ESPECE</TYPE_PROSPECT>
+    <FG_TERRE>true</FG_TERRE>
+    <FG_MER>false</FG_MER>
+   </PROSPECTION_ROW>
+   <PROSPECTION_ROW>
+    <CD_PROSPECT>44</CD_PROSPECT>
+    <NOM_COURT_PROSPECTION>Autres Fonges</NOM_COURT_PROSPECTION>
+    <NB_PROSPECT>0</NB_PROSPECT>
+    <LB_PROSPECT>Aucun</LB_PROSPECT>
+    <TYPE_PROSPECT>ESPECE</TYPE_PROSPECT>
+    <FG_TERRE>true</FG_TERRE>
+    <FG_MER>false</FG_MER>
+   </PROSPECTION_ROW>
+  </PROSPECTION>
+  <HYDROLOGIE>
+  </HYDROLOGIE>
+  <LB_REDAC>DIREN RHONE-ALPES (CHATELAIN Marc)</LB_REDAC>
+  <CD_SIG_REG>INSEER82</CD_SIG_REG>
+  <LB_REG>Rhône-Alpes</LB_REG>
+  <TX_GENE/>
+  <TX_DELIM><p>Cette zone très peu peuplée, qui conserve globalement un degré de « naturalité » élevé, englobe des milieux naturels particulièrement diversifiés. L'extension des landes et des boisements lâches témoigne de façon éloquente de la reconquête forestière consécutive au recul de l'agriculture.</p><p></p><p></p><p></p><p>Ces massifs cévenols assurent la transition entre une flore typiquement montagnarde (dont des plantes endémiques du Massif Central : Arabette des Cévennes, Œillet du granite…), et une flore plus thermophile qui prend pied sur les versants bien exposés. Les boisements appartiennent au domaine montagnard, dominé par le Sapin pectiné et le Hêtre auxquels se mêlent l&apos;Epicéa (qui n'est pas indigène dans le Massif Central) et divers feuillus (sorbiers, érables…). La composition de ces forêts est cependant influencée par leur mode de gestion, mais certains secteurs sont peu exploités (Bois du Bouquet…).</p><p></p><p>Sur les sommets et sur certaines pentes sèches, des landes rases à Callune, myrtille et Genêt purgatif contribuent aussi à l&apos;intérêt de ce secteur. Cette dernière espèce caractérise les landes de montagnes inféodées à des situations sèches et chaudes ; c&apos;est l&apos;une des espèces emblématiques de la haute Ardèche et des Cévennes.</p><p></p><p>De nombreuses tourbières parsèment les hauts bassins versants des multiples cours d&apos;eau qui y prennent leur source.</p><p></p><p>Au Tanargue, le milieu souterrain superficiel associé aux éboulis présente en outre un très grand intérêt entomologique. En effet, les cavités ménagées par les blocs piègent débris végétaux et humidité, propices à la vie d'espèces reliques autrefois inféodées aux bordures des névés, et largement répandues lors des périodes froides. C'est le cas d'un rare coléoptère du genre Nebria.</p><p></p><p></p><p></p><p>Le zonage de type II traduit le bon état de conservation général de cet ensemble, au sein duquel la richesse du patrimoine biologique est retranscrite par une vaste zone de type I, centrée sur le Tanargue et délimitant les espaces abritant les habitats ou les espèces les plus remarquables (habitats forestiers, zones humides, cours d'eau…).</p><p></p><p>Il souligne également particulièrement les fonctionnalités naturelles liées :</p><p></p><p>- à la préservation des populations animales ou végétales, en tant que zone de passages et d'échanges entre les Cévennes et le piémont méditerranéen, zone d'alimentation ou de reproduction, entre autres pour l'avifaune dont de nombreux rapaces ou passereaux montagnards (Venturon montagnard…) et inféodés aux landes, les mammifères (Crossope de Miller, Loutre…) et reptiles ;</p><p></p><p>- Au régime hydraulique en ce qui concerne les zones humides, dont des tourbières(expansion naturelle des crues, ralentissement du ruissellement, soutien naturel d'étiage, auto-épuration des eaux).</p><p></p><p></p><p></p><p>Ce zonage traduit enfin la sensibilité du bassin versant de certains cours d'eau abritant encore des espèces remarquables, dont certaines particulièrement fragiles (Ecrevisse à pattes blanches).</p><p></p><p></p><p></p><p>L'intérêt paysager d'un tel ensemble est également à souligner.</p></TX_DELIM>
+  <TX_TYPO/>
+  <FG_SUPP>false</FG_SUPP>
+  <DATE_CREA>08/06/10</DATE_CREA>
+  <DATE_MODIF>31/03/11</DATE_MODIF>
+  <TYPE1_INCLU>
+  </TYPE1_INCLU>
+  <INCLU_DANS_TYPE2>
+  </INCLU_DANS_TYPE2>
+  <DEPT>
+   <DEPT_ROW>
+    <LB_ADM_TR>Ardèche</LB_ADM_TR>
+   </DEPT_ROW>
+  </DEPT>
+  <COM>
+   <COM_ROW>
+    <LB_ADM_TR>Rocher</LB_ADM_TR>
+    <CD_INSEE>07193</CD_INSEE>
+   </COM_ROW>
+   <COM_ROW>
+    <LB_ADM_TR>Valgorge</LB_ADM_TR>
+    <CD_INSEE>07329</CD_INSEE>
+   </COM_ROW>
+   <COM_ROW>
+    <LB_ADM_TR>Loubaresse</LB_ADM_TR>
+    <CD_INSEE>07144</CD_INSEE>
+   </COM_ROW>
+   <COM_ROW>
+    <LB_ADM_TR>Souche</LB_ADM_TR>
+    <CD_INSEE>07315</CD_INSEE>
+   </COM_ROW>
+   <COM_ROW>
+    <LB_ADM_TR>Laboule</LB_ADM_TR>
+    <CD_INSEE>07118</CD_INSEE>
+   </COM_ROW>
+   <COM_ROW>
+    <LB_ADM_TR>Joannas</LB_ADM_TR>
+    <CD_INSEE>07109</CD_INSEE>
+   </COM_ROW>
+   <COM_ROW>
+    <LB_ADM_TR>Prunet</LB_ADM_TR>
+    <CD_INSEE>07187</CD_INSEE>
+   </COM_ROW>
+   <COM_ROW>
+    <LB_ADM_TR>Borne</LB_ADM_TR>
+    <CD_INSEE>07038</CD_INSEE>
+   </COM_ROW>
+   <COM_ROW>
+    <LB_ADM_TR>Rocles</LB_ADM_TR>
+    <CD_INSEE>07196</CD_INSEE>
+   </COM_ROW>
+   <COM_ROW>
+    <LB_ADM_TR>Jaujac</LB_ADM_TR>
+    <CD_INSEE>07107</CD_INSEE>
+   </COM_ROW>
+  </COM>
+  <DELIM>
+   <DELIM_ROW>
+    <LB_DELIMITATION>Répartition des espèces (faune, flore)</LB_DELIMITATION>
+    <CD_DELIMITATION>1</CD_DELIMITATION>
+   </DELIM_ROW>
+   <DELIM_ROW>
+    <LB_DELIMITATION>Répartition et agencement des habitats</LB_DELIMITATION>
+    <CD_DELIMITATION>2</CD_DELIMITATION>
+   </DELIM_ROW>
+  </DELIM>
+  <ESPECE>
+   <ESPECE_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Amphibiens</GROUPE>
+    <CD_NOM>351</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Rana temporaria Linnaeus, 1758</NOM_COMPLET>
+    <NOM_VERN>Grenouille rousse</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>RI</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Bryophytes</GROUPE>
+    <CD_NOM>3885</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Buxbaumia viridis (Moug. ex Lam. &amp; DC.) Brid. ex Moug. &amp; Nestl.</NOM_COMPLET>
+    <NOM_VERN/>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Crustacés</GROUPE>
+    <CD_NOM>18437</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Austropotamobius pallipes (Lereboullet, 1858)</NOM_COMPLET>
+    <NOM_VERN>Écrevisse à pieds blancs (L'), Écrevisse à pattes blanches (L'), Écrevisse pallipède (L')</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>RI</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Lépidoptères</GROUPE>
+    <CD_NOM>53979</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Lycaena dispar (Haworth, 1802)</NOM_COMPLET>
+    <NOM_VERN>Cuivré des marais (Le), Grand Cuivré (Le), Grand Argus satiné (Le), Argus satiné à taches noires (Le), Lycène disparate (Le), Cuivré de la Parelle-d'eau (Le)</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>RI</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Lépidoptères</GROUPE>
+    <CD_NOM>54080</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Maculinea alcon (Denis &amp; Schiffermüller, 1775)</NOM_COMPLET>
+    <NOM_VERN>Azuré de la Pulmonaire (L'), Azuré des Mouillères (L'), Protée (Le), Argus Protée (L'), Azuré de la Gentiane pneumonanthe (L')</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>RI</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Mammifères</GROUPE>
+    <CD_NOM>61678</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Lepus europaeus Pallas, 1778</NOM_COMPLET>
+    <NOM_VERN>Lièvre d'Europe</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>RI</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Mammifères</GROUPE>
+    <CD_NOM>60630</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Lutra lutra (Linnaeus, 1758)</NOM_COMPLET>
+    <NOM_VERN>Loutre d'Europe, Loutre commune, Loutre</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>RI</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Mammifères</GROUPE>
+    <CD_NOM>60119</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Neomys anomalus Cabrera, 1907</NOM_COMPLET>
+    <NOM_VERN>Crossope de Miller, Musaraigne de Miller</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>RI</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <CD_NOM>2891</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Accipiter gentilis (Linnaeus, 1758)</NOM_COMPLET>
+    <NOM_VERN>Autour des palombes</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>RI</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <CD_NOM>3533</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Aegolius funereus (Linnaeus, 1758)</NOM_COMPLET>
+    <NOM_VERN>Nyctale de Tengmalm, Chouette de Tengmalm</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>RI</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <CD_NOM>3726</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Anthus pratensis (Linnaeus, 1758)</NOM_COMPLET>
+    <NOM_VERN>Pipit farlouse</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>RI</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <CD_NOM>3493</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Bubo bubo (Linnaeus, 1758)</NOM_COMPLET>
+    <NOM_VERN>Grand-duc d'Europe</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>RI</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <CD_NOM>4586</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Carduelis spinus (Linnaeus, 1758)</NOM_COMPLET>
+    <NOM_VERN>Tarin des aulnes</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>RI</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <CD_NOM>3784</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Certhia familiaris Linnaeus, 1758</NOM_COMPLET>
+    <NOM_VERN>Grimpereau des bois</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>RI</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <CD_NOM>2873</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Circaetus gallicus (Gmelin, 1788)</NOM_COMPLET>
+    <NOM_VERN>Circaète Jean-le-Blanc</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>RI</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <CD_NOM>2887</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Circus pygargus (Linnaeus, 1758)</NOM_COMPLET>
+    <NOM_VERN>Busard cendré</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>RI</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <CD_NOM>4510</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Corvus corax Linnaeus, 1758</NOM_COMPLET>
+    <NOM_VERN>Grand corbeau</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>RI</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <CD_NOM>4663</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Emberiza cia Linnaeus, 1766</NOM_COMPLET>
+    <NOM_VERN>Bruant fou</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>RI</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <CD_NOM>4665</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Emberiza hortulana Linnaeus, 1758</NOM_COMPLET>
+    <NOM_VERN>Bruant ortolan</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>RI</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <CD_NOM>2938</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Falco peregrinus Tunstall, 1771</NOM_COMPLET>
+    <NOM_VERN>Faucon pèlerin</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>RI</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <CD_NOM>4330</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Ficedula hypoleuca (Pallas, 1764)</NOM_COMPLET>
+    <NOM_VERN>Gobemouche noir</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>RI</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <CD_NOM>4568</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Fringilla montifringilla Linnaeus, 1758</NOM_COMPLET>
+    <NOM_VERN>Pinson du nord, Pinson des Ardennes</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>RI</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <CD_NOM>3694</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Hirundo rupestris Scopoli, 1769</NOM_COMPLET>
+    <NOM_VERN>Hirondelle de rochers</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>RI</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <CD_NOM>4167</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Locustella naevia (Boddaert, 1783)</NOM_COMPLET>
+    <NOM_VERN>Locustelle tachetée</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>RI</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <CD_NOM>3670</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Lullula arborea (Linnaeus, 1758)</NOM_COMPLET>
+    <NOM_VERN>Alouette lulu</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>RI</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <CD_NOM>4084</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Monticola saxatilis (Linnaeus, 1758)</NOM_COMPLET>
+    <NOM_VERN>Monticole de roche, Merle de roche</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>RI</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <CD_NOM>4064</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Oenanthe oenanthe (Linnaeus, 1758)</NOM_COMPLET>
+    <NOM_VERN>Traquet motteux</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>RI</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <CD_NOM>2559</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Scolopax rusticola Linnaeus, 1758</NOM_COMPLET>
+    <NOM_VERN>Bécasse des bois</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>RI</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <CD_NOM>4574</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Serinus citrinella (Pallas, 1764)</NOM_COMPLET>
+    <NOM_VERN>Venturon montagnard</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>RI</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <CD_NOM>4221</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Sylvia undata (Boddaert, 1783)</NOM_COMPLET>
+    <NOM_VERN>Fauvette pitchou</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>RI</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>79741</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Acer dasycarpum Ehrh., 1789</NOM_COMPLET>
+    <NOM_VERN>Érable argenté, Érable de Virginie, Érable à sirop</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>79763</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Acer monspessulanum L., 1753</NOM_COMPLET>
+    <NOM_VERN>Érable de Montpellier, Agas, Azerou</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>80034</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Aconitum lycoctonum L., 1753</NOM_COMPLET>
+    <NOM_VERN>Aconit tue-loup</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>80037</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Aconitum napellus L., 1753</NOM_COMPLET>
+    <NOM_VERN>Aconit napel, Casque</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>80070</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Aconitum vulparia Rchb., 1819</NOM_COMPLET>
+    <NOM_VERN>Coqueluchon jaune</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>81543</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Allium victorialis L., 1753</NOM_COMPLET>
+    <NOM_VERN>Ail victoriale, Herbe à neuf chemises, Ail de la Sainte-Victoire</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>83021</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Antirrhinum asarina L., 1753</NOM_COMPLET>
+    <NOM_VERN>Muflier asaret, Petit Asaret</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>83300</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Arabis cebennensis DC., 1821</NOM_COMPLET>
+    <NOM_VERN>Arabette des Cévennes</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>84229</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Asarina procumbens Mill., 1768</NOM_COMPLET>
+    <NOM_VERN>Muflier asaret, Petit Asaret</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>89663</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Centaurea pectinata L., 1763</NOM_COMPLET>
+    <NOM_VERN>Centaurée pectinée</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>91059</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Chrysanthemum monspeliense L., 1753</NOM_COMPLET>
+    <NOM_VERN>Marguerite de Montpellier, Marguerite des Cévennes</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>91118</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Chrysosplenium alternifolium L., 1753</NOM_COMPLET>
+    <NOM_VERN>Dorine à feuilles alternes, Cresson de rocher, Cresson doré, Hépatique dorée</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>91256</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Circaea alpina L., 1753</NOM_COMPLET>
+    <NOM_VERN>Circée des Alpes</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>92217</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Comarum palustre L., 1753</NOM_COMPLET>
+    <NOM_VERN>Potentille des marais</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>94728</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Dianthus deltoides L., 1753</NOM_COMPLET>
+    <NOM_VERN>Oeillet couché</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>94755</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Dianthus graniticus Jord., 1849</NOM_COMPLET>
+    <NOM_VERN>Œillet des terrains granitiques</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>94765</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Dianthus hyssopifolius L., 1755</NOM_COMPLET>
+    <NOM_VERN>Oeillet de Montpellier</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>133851</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Dianthus hyssopifolius subsp. monspessulanus (L.) Graebn. &amp; P.Graebn., 1922</NOM_COMPLET>
+    <NOM_VERN>Oeillet de Montpellier</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>94783</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Dianthus monspessulanus L., 1759</NOM_COMPLET>
+    <NOM_VERN>Oeillet de Montpellier</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>95442</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Drosera rotundifolia L., 1753</NOM_COMPLET>
+    <NOM_VERN>Rossolis à feuilles rondes</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>96861</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Eriophorum vaginatum L., 1753</NOM_COMPLET>
+    <NOM_VERN>Linaigrette vaginée, Linaigrette engainée</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>99922</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Gentiana pneumonanthe L., 1753</NOM_COMPLET>
+    <NOM_VERN>Gentiane des marais, Gentiane pulmonaire des marais, Gentiane pneumonanthe</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>100551</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Goodyera repens (L.) R.Br., 1813</NOM_COMPLET>
+    <NOM_VERN>Goodyère rampante</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>103292</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Hypericum linariifolium Vahl, 1790</NOM_COMPLET>
+    <NOM_VERN>Millepertuis à feuilles de lin, Millepertuis à feuilles de saule, Millepertuis à feuilles linéaires</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>105517</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Leontodon pyrenaicus Gouan, 1773</NOM_COMPLET>
+    <NOM_VERN>Liondent des Pyrénées</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>105803</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Leucanthemum monspeliense (L.) H.J.Coste, 1903</NOM_COMPLET>
+    <NOM_VERN>Marguerite de Montpellier, Marguerite des Cévennes</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>105808</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Leucanthemum palmatum Lam., 1779</NOM_COMPLET>
+    <NOM_VERN>Marguerite de Montpellier, Marguerite des Cévennes</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>106367</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Listera cordata (L.) R.Br., 1813</NOM_COMPLET>
+    <NOM_VERN>Listère à feuilles cordées</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>112590</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Pedicularis palustris L., 1753</NOM_COMPLET>
+    <NOM_VERN>Pédiculaire des marais, Tartarie rouge</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>112601</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Pedicularis sylvatica L., 1753</NOM_COMPLET>
+    <NOM_VERN>Pédiculaire des forêts, Pédiculaire des bois, Herbe aux poux</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>112778</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Petasites albus (L.) Gaertn., 1791</NOM_COMPLET>
+    <NOM_VERN>Pétasite blanc</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>113826</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Plantago carinata Schrad. ex Mert. &amp; W.D.J.Koch, 1823</NOM_COMPLET>
+    <NOM_VERN>Plantain recourbé</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>113874</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Plantago holosteum Scop., 1771</NOM_COMPLET>
+    <NOM_VERN>Plantain caréné, Plantain recourbé</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>113945</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Plantago recurvata sensu P.Fourn., 1938</NOM_COMPLET>
+    <NOM_VERN>Plantain recourbé</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>115587</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Potentilla palustris (L.) Scop., 1771</NOM_COMPLET>
+    <NOM_VERN>Potentille des marais</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>115631</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Potentilla rupestris L., 1753</NOM_COMPLET>
+    <NOM_VERN>Potentille des rochers</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>118476</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Rosa rubrifolia Vill., 1788</NOM_COMPLET>
+    <NOM_VERN>Rosier des Vosges, Rosier glauque</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>120987</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Saxifraga biflora All., 1773</NOM_COMPLET>
+    <NOM_VERN>Saxifrage à deux fleurs, Saxifrage à fleurs par deux</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>121083</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Saxifraga hypnoides L., 1753</NOM_COMPLET>
+    <NOM_VERN>Saxirage hypnum, Saxifrage Mousse</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>121144</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Saxifraga pedemontana All., 1785</NOM_COMPLET>
+    <NOM_VERN>Saxifrage du Piémont</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>140674</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Saxifraga pedemontana subsp. prostii (Sternb.) D.A.Webb, 1963</NOM_COMPLET>
+    <NOM_VERN>Saxifrage de Prost</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>121156</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Saxifraga prostii Sternb., 1831</NOM_COMPLET>
+    <NOM_VERN>Saxifrage de Prost</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>121960</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Scorzonera humilis L., 1753</NOM_COMPLET>
+    <NOM_VERN>Scorsonère des prés, Petit scorsonère, Scorzonère humble</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>121985</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Scorzonera tenuifolia Schrad. ex DC., 1838</NOM_COMPLET>
+    <NOM_VERN>Scorsonère des prés, Petit scorsonère, Scorzonère humble</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>125226</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Streptopus amplexifolius (L.) DC., 1805</NOM_COMPLET>
+    <NOM_VERN>Streptope à feuilles embrassantes, Uvulaire, Uvulaire à feuilles embrassantes, Sceau-de-Salomon rameux</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>126325</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Thlaspi alpestre L., 1763</NOM_COMPLET>
+    <NOM_VERN>Tabouret bleuâtre</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>126400</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Thlaspi sylvestre Jord., 1846</NOM_COMPLET>
+    <NOM_VERN>Tabouret bleuâtre</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Phanérogames</GROUPE>
+    <CD_NOM>126552</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Thymus nitens Lamotte, 1881</NOM_COMPLET>
+    <NOM_VERN>Thym luisant</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Poissons</GROUPE>
+    <CD_NOM>69182</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Cottus gobio Linnaeus, 1758</NOM_COMPLET>
+    <NOM_VERN>Chabot, Chabot commun</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>RI</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Ptéridophytes</GROUPE>
+    <CD_NOM>81556</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Allosorus crispus (L.) Röhl., 1813</NOM_COMPLET>
+    <NOM_VERN>Cryptogramme crispée, Allosore crispé</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Ptéridophytes</GROUPE>
+    <CD_NOM>84487</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Asplenium foreziense Legrand, 1885</NOM_COMPLET>
+    <NOM_VERN>Doradille du Forez</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Ptéridophytes</GROUPE>
+    <CD_NOM>93469</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Cryptogramma crispa (L.) R.Br., 1842</NOM_COMPLET>
+    <NOM_VERN>Cryptogramme crispée, Allosore crispé</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Ptéridophytes</GROUPE>
+    <CD_NOM>93595</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Currania dryopteris (L.) Wherry, 1942</NOM_COMPLET>
+    <NOM_VERN>Polypode du chêne, Dryoptéris de Linné, Lastrée du chêne</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Ptéridophytes</GROUPE>
+    <CD_NOM>95573</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Dryopteris linnaeana C.Chr., 1905</NOM_COMPLET>
+    <NOM_VERN>Polypode du chêne, Dryoptéris de Linné, Lastrée du chêne</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Ptéridophytes</GROUPE>
+    <CD_NOM>100636</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Gymnocarpium dryopteris (L.) Newman, 1851</NOM_COMPLET>
+    <NOM_VERN>Polypode du chêne, Dryoptéris de Linné, Lastrée du chêne</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Ptéridophytes</GROUPE>
+    <CD_NOM>103034</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Huperzia selago (L.) Bernh. ex Schrank &amp; Mart., 1829</NOM_COMPLET>
+    <NOM_VERN>Lycopode sélagine, Lycopode dressé</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Ptéridophytes</GROUPE>
+    <CD_NOM>107000</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Lycopodium annotinum L., 1753</NOM_COMPLET>
+    <NOM_VERN>Lycopode à feuilles de genévrier, Lycopode à rameaux d'un an</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Ptéridophytes</GROUPE>
+    <CD_NOM>107003</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Lycopodium clavatum L., 1753</NOM_COMPLET>
+    <NOM_VERN>Lycopode en massue, Éguaire</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Ptéridophytes</GROUPE>
+    <CD_NOM>107022</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Lycopodium selago L., 1753</NOM_COMPLET>
+    <NOM_VERN>Lycopode sélagine, Lycopode dressé</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Ptéridophytes</GROUPE>
+    <CD_NOM>114956</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Polypodium dryopteris L., 1753</NOM_COMPLET>
+    <NOM_VERN>Polypode du chêne, Dryoptéris de Linné, Lastrée du chêne</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>R</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Reptiles</GROUPE>
+    <CD_NOM>77600</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Lacerta agilis Linnaeus, 1758</NOM_COMPLET>
+    <NOM_VERN>Lézard des souches</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>RI</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Reptiles</GROUPE>
+    <CD_NOM>77692</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Lacerta vivipara Jacquin, 1787</NOM_COMPLET>
+    <NOM_VERN>Lézard vivipare</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>RI</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+   <ESPECE_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Reptiles</GROUPE>
+    <CD_NOM>78141</CD_NOM>
+    <FG_CONF>false</FG_CONF>
+    <FG_ESP>D</FG_ESP>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <DATE_CREA>09/06/10</DATE_CREA>
+    <DATE_MODIF>31/03/11</DATE_MODIF>
+    <NOM_COMPLET>Vipera berus (Linnaeus, 1758)</NOM_COMPLET>
+    <NOM_VERN>Vipère péliade</NOM_VERN>
+    <ORIGINE>parent</ORIGINE>
+    <ESPECE_INFO>
+     <ESPECE_INFO_ROW>
+      <STATUT_BIO_ESP>RI</STATUT_BIO_ESP>
+      <CD_ABOND/>
+      <NB_I_ABOND/>
+      <NB_S_ABOND/>
+      <AN_I_OBS/>
+      <AN_S_OBS/>
+      <FG_APPAR>false</FG_APPAR>
+      <FG_DISPAR>false</FG_DISPAR>
+      <FG_NONREV>false</FG_NONREV>
+      <AUTEUR/>
+      <AN_PUBLI/>
+      <LB_SOURCE/>
+      <TY_SOURCE/>
+     </ESPECE_INFO_ROW>
+    </ESPECE_INFO>
+   </ESPECE_ROW>
+  </ESPECE>
+  <TYPO_INFO>
+  </TYPO_INFO>
+  <ESPECE_TYPO>
+  </ESPECE_TYPO>
+  <FACTEUR>
+  </FACTEUR>
+  <GEOMORPHOLOGIE>
+  </GEOMORPHOLOGIE>
+  <STATUT_PROPRIETE>
+  </STATUT_PROPRIETE>
+  <ACTIVITE_HUMAINE>
+  </ACTIVITE_HUMAINE>
+  <INTERREG>
+   <INTERREG_ROW>
+    <ID_INTERREG>15844</ID_INTERREG>
+    <FG_PRIORITE>true</FG_PRIORITE>
+    <LB_REG>Rhône-Alpes</LB_REG>
+   </INTERREG_ROW>
+  </INTERREG>
+  <INTERET>
+   <INTERET_ROW>
+    <LB_INTER>Auto-épuration des eaux</LB_INTER>
+    <LB_TYPE>Intérêt fonctionnel</LB_TYPE>
+    <CD_TYPE>F</CD_TYPE>
+    <CD_INTER>66</CD_INTER>
+    <ID_ZNIEFF>14801</ID_ZNIEFF>
+    <DETERMINANT>0</DETERMINANT>
+    <TYPE/>
+   </INTERET_ROW>
+   <INTERET_ROW>
+    <LB_INTER>Ecologique</LB_INTER>
+    <LB_TYPE>Intérêt patrimonial</LB_TYPE>
+    <CD_TYPE>P</CD_TYPE>
+    <CD_INTER>2</CD_INTER>
+    <ID_ZNIEFF>14801</ID_ZNIEFF>
+    <DETERMINANT>0</DETERMINANT>
+    <TYPE>E</TYPE>
+   </INTERET_ROW>
+   <INTERET_ROW>
+    <LB_INTER>Faunistique</LB_INTER>
+    <LB_TYPE>Intérêt patrimonial</LB_TYPE>
+    <CD_TYPE>P</CD_TYPE>
+    <CD_INTER>12</CD_INTER>
+    <ID_ZNIEFF>14801</ID_ZNIEFF>
+    <DETERMINANT>0</DETERMINANT>
+    <TYPE>E</TYPE>
+   </INTERET_ROW>
+   <INTERET_ROW>
+    <LB_INTER>Poissons</LB_INTER>
+    <LB_TYPE>Intérêt patrimonial</LB_TYPE>
+    <CD_TYPE>P</CD_TYPE>
+    <CD_INTER>13</CD_INTER>
+    <ID_ZNIEFF>14801</ID_ZNIEFF>
+    <DETERMINANT>1</DETERMINANT>
+    <TYPE>E</TYPE>
+   </INTERET_ROW>
+   <INTERET_ROW>
+    <LB_INTER>Amphibiens</LB_INTER>
+    <LB_TYPE>Intérêt patrimonial</LB_TYPE>
+    <CD_TYPE>P</CD_TYPE>
+    <CD_INTER>14</CD_INTER>
+    <ID_ZNIEFF>14801</ID_ZNIEFF>
+    <DETERMINANT>1</DETERMINANT>
+    <TYPE>E</TYPE>
+   </INTERET_ROW>
+   <INTERET_ROW>
+    <LB_INTER>Reptiles</LB_INTER>
+    <LB_TYPE>Intérêt patrimonial</LB_TYPE>
+    <CD_TYPE>P</CD_TYPE>
+    <CD_INTER>15</CD_INTER>
+    <ID_ZNIEFF>14801</ID_ZNIEFF>
+    <DETERMINANT>1</DETERMINANT>
+    <TYPE>E</TYPE>
+   </INTERET_ROW>
+   <INTERET_ROW>
+    <LB_INTER>Oiseaux</LB_INTER>
+    <LB_TYPE>Intérêt patrimonial</LB_TYPE>
+    <CD_TYPE>P</CD_TYPE>
+    <CD_INTER>16</CD_INTER>
+    <ID_ZNIEFF>14801</ID_ZNIEFF>
+    <DETERMINANT>1</DETERMINANT>
+    <TYPE>E</TYPE>
+   </INTERET_ROW>
+   <INTERET_ROW>
+    <LB_INTER>Mammifères</LB_INTER>
+    <LB_TYPE>Intérêt patrimonial</LB_TYPE>
+    <CD_TYPE>P</CD_TYPE>
+    <CD_INTER>17</CD_INTER>
+    <ID_ZNIEFF>14801</ID_ZNIEFF>
+    <DETERMINANT>1</DETERMINANT>
+    <TYPE>E</TYPE>
+   </INTERET_ROW>
+   <INTERET_ROW>
+    <LB_INTER>Autre Faune (préciser)</LB_INTER>
+    <LB_TYPE>Intérêt patrimonial</LB_TYPE>
+    <CD_TYPE>P</CD_TYPE>
+    <CD_INTER>39</CD_INTER>
+    <ID_ZNIEFF>14801</ID_ZNIEFF>
+    <DETERMINANT>0</DETERMINANT>
+    <TYPE>E</TYPE>
+   </INTERET_ROW>
+   <INTERET_ROW>
+    <LB_INTER>Insectes</LB_INTER>
+    <LB_TYPE>Intérêt patrimonial</LB_TYPE>
+    <CD_TYPE>P</CD_TYPE>
+    <CD_INTER>41</CD_INTER>
+    <ID_ZNIEFF>14801</ID_ZNIEFF>
+    <DETERMINANT>0</DETERMINANT>
+    <TYPE>E</TYPE>
+   </INTERET_ROW>
+   <INTERET_ROW>
+    <LB_INTER>Floristique</LB_INTER>
+    <LB_TYPE>Intérêt patrimonial</LB_TYPE>
+    <CD_TYPE>P</CD_TYPE>
+    <CD_INTER>42</CD_INTER>
+    <ID_ZNIEFF>14801</ID_ZNIEFF>
+    <DETERMINANT>0</DETERMINANT>
+    <TYPE>E</TYPE>
+   </INTERET_ROW>
+   <INTERET_ROW>
+    <LB_INTER>Bryophytes</LB_INTER>
+    <LB_TYPE>Intérêt patrimonial</LB_TYPE>
+    <CD_TYPE>P</CD_TYPE>
+    <CD_INTER>44</CD_INTER>
+    <ID_ZNIEFF>14801</ID_ZNIEFF>
+    <DETERMINANT>1</DETERMINANT>
+    <TYPE>E</TYPE>
+   </INTERET_ROW>
+   <INTERET_ROW>
+    <LB_INTER>Ptéridophytes</LB_INTER>
+    <LB_TYPE>Intérêt patrimonial</LB_TYPE>
+    <CD_TYPE>P</CD_TYPE>
+    <CD_INTER>45</CD_INTER>
+    <ID_ZNIEFF>14801</ID_ZNIEFF>
+    <DETERMINANT>1</DETERMINANT>
+    <TYPE>E</TYPE>
+   </INTERET_ROW>
+   <INTERET_ROW>
+    <LB_INTER>Phanérogames</LB_INTER>
+    <LB_TYPE>Intérêt patrimonial</LB_TYPE>
+    <CD_TYPE>P</CD_TYPE>
+    <CD_INTER>46</CD_INTER>
+    <ID_ZNIEFF>14801</ID_ZNIEFF>
+    <DETERMINANT>1</DETERMINANT>
+    <TYPE>E</TYPE>
+   </INTERET_ROW>
+   <INTERET_ROW>
+    <LB_INTER>Expansion naturelle des crues</LB_INTER>
+    <LB_TYPE>Intérêt fonctionnel</LB_TYPE>
+    <CD_TYPE>F</CD_TYPE>
+    <CD_INTER>63</CD_INTER>
+    <ID_ZNIEFF>14801</ID_ZNIEFF>
+    <DETERMINANT>0</DETERMINANT>
+    <TYPE/>
+   </INTERET_ROW>
+   <INTERET_ROW>
+    <LB_INTER>Ralentissement du ruissellement</LB_INTER>
+    <LB_TYPE>Intérêt fonctionnel</LB_TYPE>
+    <CD_TYPE>F</CD_TYPE>
+    <CD_INTER>64</CD_INTER>
+    <ID_ZNIEFF>14801</ID_ZNIEFF>
+    <DETERMINANT>0</DETERMINANT>
+    <TYPE/>
+   </INTERET_ROW>
+   <INTERET_ROW>
+    <LB_INTER>Soutien naturel d'étiage</LB_INTER>
+    <LB_TYPE>Intérêt fonctionnel</LB_TYPE>
+    <CD_TYPE>F</CD_TYPE>
+    <CD_INTER>65</CD_INTER>
+    <ID_ZNIEFF>14801</ID_ZNIEFF>
+    <DETERMINANT>0</DETERMINANT>
+    <TYPE/>
+   </INTERET_ROW>
+   <INTERET_ROW>
+    <LB_INTER>Role naturel de protection contre l'érosion des sols</LB_INTER>
+    <LB_TYPE>Intérêt fonctionnel</LB_TYPE>
+    <CD_TYPE>F</CD_TYPE>
+    <CD_INTER>70</CD_INTER>
+    <ID_ZNIEFF>14801</ID_ZNIEFF>
+    <DETERMINANT>0</DETERMINANT>
+    <TYPE/>
+   </INTERET_ROW>
+   <INTERET_ROW>
+    <LB_INTER>Corridor écologique, zone de passages, zone d'échanges</LB_INTER>
+    <LB_TYPE>Intérêt fonctionnel</LB_TYPE>
+    <CD_TYPE>F</CD_TYPE>
+    <CD_INTER>76</CD_INTER>
+    <ID_ZNIEFF>14801</ID_ZNIEFF>
+    <DETERMINANT>0</DETERMINANT>
+    <TYPE/>
+   </INTERET_ROW>
+   <INTERET_ROW>
+    <LB_INTER>Etapes migratoires, zones de stationnement, dortoirs</LB_INTER>
+    <LB_TYPE>Intérêt fonctionnel</LB_TYPE>
+    <CD_TYPE>F</CD_TYPE>
+    <CD_INTER>77</CD_INTER>
+    <ID_ZNIEFF>14801</ID_ZNIEFF>
+    <DETERMINANT>0</DETERMINANT>
+    <TYPE/>
+   </INTERET_ROW>
+   <INTERET_ROW>
+    <LB_INTER>Zone particulière d'alimentation</LB_INTER>
+    <LB_TYPE>Intérêt fonctionnel</LB_TYPE>
+    <CD_TYPE>F</CD_TYPE>
+    <CD_INTER>78</CD_INTER>
+    <ID_ZNIEFF>14801</ID_ZNIEFF>
+    <DETERMINANT>0</DETERMINANT>
+    <TYPE/>
+   </INTERET_ROW>
+   <INTERET_ROW>
+    <LB_INTER>Zone particulière liée à la reproduction</LB_INTER>
+    <LB_TYPE>Intérêt fonctionnel</LB_TYPE>
+    <CD_TYPE>F</CD_TYPE>
+    <CD_INTER>79</CD_INTER>
+    <ID_ZNIEFF>14801</ID_ZNIEFF>
+    <DETERMINANT>0</DETERMINANT>
+    <TYPE/>
+   </INTERET_ROW>
+   <INTERET_ROW>
+    <LB_INTER>Paysager</LB_INTER>
+    <LB_TYPE>Intérêt complémentaire</LB_TYPE>
+    <CD_TYPE>C</CD_TYPE>
+    <CD_INTER>83</CD_INTER>
+    <ID_ZNIEFF>14801</ID_ZNIEFF>
+    <DETERMINANT>0</DETERMINANT>
+    <TYPE/>
+   </INTERET_ROW>
+  </INTERET>
+  <PROTECTION>
+  </PROTECTION>
+  <SOURCE>
+   <SOURCE_ROW>
+    <LB_SOURCE>Actualisation des données sur les sites à écrevisses à pieds blancs du Parc Naturel Régional du Pilat (Loire)</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>GRES P.</AUTEUR>
+    <AN_PUBLI>2004</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Apport de la phytosociologie à l&apos;élaboration d&apos;une typologie de stations potentiellement forestières : exemple des landes du Vivarais Cévenol</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>DELPECH R.</AUTEUR>
+    <AN_PUBLI>1985</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Apport de la phytosociologie à l&apos;élaboration d&apos;une typologie de stations potentiellement forestières : exemple des landes du Vivarais Cévenol</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>DELPECH R. </AUTEUR>
+    <AN_PUBLI>1985</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Atlas des oiseaux nicheurs de Rhône-Alpes</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>CORA</AUTEUR>
+    <AN_PUBLI>2003</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Caractérisation des végétations du Parc naturel régional des Monts d&apos;Ardèche</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>CHOISNET G.</AUTEUR>
+    <AN_PUBLI>2005</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Caractérisation des végétations du Parc naturel régional des Monts d&apos;Ardèche</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>CHOISNET G.</AUTEUR>
+    <AN_PUBLI>2005</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Comparaisons entre quelques mégaphorbiaies des Alpes du Nord et du Massif central</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>DELPECH R., FOUCAULT B. de</AUTEUR>
+    <AN_PUBLI>1985</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Comparaisons entre quelques mégaphorbiaies des Alpes du Nord et du Massif central</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>DELPECH R., FOUCAULT B. de</AUTEUR>
+    <AN_PUBLI>1985</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Contrat-environnement pour la création du Parc naturel régional de la châtaigneraie et des sucs d&apos;Ardèche.</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>Comité d&apos;étude pour la création du parc naturel régional de la châtaigneraie d&apos;Ardèche</AUTEUR>
+    <AN_PUBLI>1997</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Dalle rocheuse suintante dans la haute vallée de la Beaume, Valgorge, Ardèche</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>MICHAU D.</AUTEUR>
+    <AN_PUBLI>2006</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Dalle rocheuse suintante dans la haute vallée de la Beaume, Valgorge, Ardèche</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>MICHAU D.</AUTEUR>
+    <AN_PUBLI>2006</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Différentes communications sur certaines espèces</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>KERVYN A., BAYLE B., CHARRAIX J.</AUTEUR>
+    <AN_PUBLI>2000</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Différentes communications sur certaines espèces</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>KERVYN A., BAYLE B., CHARRAIX J.</AUTEUR>
+    <AN_PUBLI>2000</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Document d&apos;objectifs - Site Natura 2000 FR 8201670 &quot;Cévennes ardéchoises, partie Rivières de la Beaume, de la Drobie et du vallon du Roubreau&quot; (B26r)</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>Mosaïque Environnement</AUTEUR>
+    <AN_PUBLI>2003</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Document d&apos;objectifs - Site Natura 2000 FR 8201670 &quot;Zones humides, landes, pelouses, forêts et habitats rocheux des Cévennes Ardéchoises&quot; - Analyse, inventaire et programme d&apos;actions - 2004-2009</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>ONF Agence Drôme Ardèche</AUTEUR>
+    <AN_PUBLI>2004</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Document d&apos;objectifs - Site Natura 2000 FR 8201670 &quot;Zones humides, landes, pelouses, forêts et habitats rocheux des Cévennes Ardéchoises&quot; - Analyse, inventaire et programme d&apos;actions 2004-2009</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>ONF Agence Drôme Ardèche</AUTEUR>
+    <AN_PUBLI>2004</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Document d&apos;objectifs - Site Natura 2000 FR 8201670 &quot;Zones humides, landes, pelouses, forêts et habitats rocheux des Cévennes Ardéchoises&quot; - Complément d&apos;inventaires sur la zone d&apos;extension proposée - 2004-2009</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>ONF Agence Drôme Ardèche</AUTEUR>
+    <AN_PUBLI>2004</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Document d&apos;objectifs : Site Natura 2000 FR 8201670 &quot;Zones humides, landes, pelouses, forêts et habitats rocheux des Cévennes Ardéchoises&quot; - Complément d&apos;inventaires sur la zone d&apos;extension proposée - 2004-2009</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>ONF Agence Drôme Ardèche</AUTEUR>
+    <AN_PUBLI>2004</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Document d&apos;objectifs B20 Tome 1 - Milieux alluviaux et aquatiques de l&apos;Allier et ses affluents&quot; - Période 2004-2009</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>Biotope</AUTEUR>
+    <AN_PUBLI>2003</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Document d&apos;objectifs des rivières de la Beaume, de la Drobie et du vallon de Roubreau</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>Agence Mosaïque Environnement</AUTEUR>
+    <AN_PUBLI>2003</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Etat des populations d&apos;écrevisse à pieds blancs (Austropotamobius pallipes) - Ravins rhodaniens du Parc Naturel régional du Pilat</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>FROMENT B. ; PETIT-MARTENON V.</AUTEUR>
+    <AN_PUBLI>2001</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Etude des écrevisses dans  les zones éligibles de la directive &quot;Habitats&quot; du département de la Drôme</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>VIERON J.P., FATON J.M.</AUTEUR>
+    <AN_PUBLI>1998</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Etude diagnostic des sites B20, B21 et B26 pro parte inventoriés au titre de la Directive 92/43/CEE en Ardèche</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>PETETIN A., HUGONNOT V.</AUTEUR>
+    <AN_PUBLI>1998</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Etude diagnostic des sites B20, B21 et B26 pro parte inventoriés au titre de la Directive 92/43/CEE en Ardèche</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>PETETIN A., HUGONNOT V.</AUTEUR>
+    <AN_PUBLI>1998</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Flore d&apos;Auvergne</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>GRENIER E.</AUTEUR>
+    <AN_PUBLI>1992</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Flore d&apos;Auvergne</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>GRENIER E.</AUTEUR>
+    <AN_PUBLI>1992</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Haut-Rhône - Chautagne - Lavours - Bourget - Document d&apos;objectifs - volume annexe</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>GROSSI J.L.</AUTEUR>
+    <AN_PUBLI>1998</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Inventaire des espèces rares ou menacées du département de l&apos;Ardèche</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>DESCOINGS B.M., MANDIN J.P.</AUTEUR>
+    <AN_PUBLI>1984</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Inventaire des espèces rares ou menacées du département de l&apos;Ardèche</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>DESCOINGS B.M., MANDIN J.P.</AUTEUR>
+    <AN_PUBLI>1984</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Inventaire des Orchidées d&apos;Ardèche - Bilan provisoire fin 99</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>BAYLE B.</AUTEUR>
+    <AN_PUBLI>1999</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Inventaire des Orchidées d&apos;Ardèche - Bilan provisoire fin 99</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>BAYLE B.</AUTEUR>
+    <AN_PUBLI>1999</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Inventaire des tourbières de la région Rhône-Alpes : département de l&apos;Ardèche</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>MONCEIX V., PIERRON V., JULLIAN L., COÏC B.</AUTEUR>
+    <AN_PUBLI/>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Inventaire des tourbières de la région Rhône-Alpes : département de l&apos;Ardèche</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>MONCEIX V., PIERRON V., JULLIAN L., COÏC B.</AUTEUR>
+    <AN_PUBLI>1900</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Inventaire et étude sur l&apos;écrevisse à pieds blancs (Austropotamobius pallipes)</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>BALIAN C.</AUTEUR>
+    <AN_PUBLI>2000</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>La Loutre d&apos;Europe : description, répartition, habitat, moeurs, observation...</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>ETIENNE P.</AUTEUR>
+    <AN_PUBLI>2005</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>La loutre d&apos;Europe : histoire d&apos;une sauvegarde</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>BOUCHARDY C.</AUTEUR>
+    <AN_PUBLI>2001</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Le statut de la loutre dans le bassin du Rhône 1982-1992</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>MICHELOT J.L. </AUTEUR>
+    <AN_PUBLI>1992</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Les écrevisses européennes autochtones en relation avec l&apos;occupation des sols et la détérioration de l&apos;habitat, plus spécialement Austropotamobius torrentium : CRAYNET meeting, Innsbruck, Autriche, 8-11septembre 2004 (volume 3)</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>Bulletin Français de la Pêche et de la Pisciculture</AUTEUR>
+    <AN_PUBLI>2004</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Les Maculinea (Lepidoptera, Lycaenidae) des zones humides : l&apos;exemple de la Réserve naturelle du Marais de Lavours (Ain, France)</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>ROZIER Y.</AUTEUR>
+    <AN_PUBLI>1998</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Les papillons de jour de France, Belgique et Luxembourg et leurs chenilles</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>LAFRANCHIS T.</AUTEUR>
+    <AN_PUBLI>2000</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Les ptéridophytes du département de l&apos;Ardèche (France)</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>BOUDRIE M., DESCOINGS B.M., MANDIN J.P.</AUTEUR>
+    <AN_PUBLI>2005</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Les ptéridophytes du département de l&apos;Ardèche (France)</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>BOUDRIE M., DESCOINGS B.M., MANDIN J.P.</AUTEUR>
+    <AN_PUBLI>2005</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Loutres</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>TULLOCH B., CEBAL V.(traducteur)</AUTEUR>
+    <AN_PUBLI>1998</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>On a trouvé ... On a retrouvé</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>MANDIN J.P.</AUTEUR>
+    <AN_PUBLI>1996</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>On a trouvé ... On a retrouvé</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>MANDIN J.P.</AUTEUR>
+    <AN_PUBLI>1996</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>On a trouvé... On a retrouvé</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>MANDIN J.P.</AUTEUR>
+    <AN_PUBLI>2002</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>On a trouvé... On a retrouvé</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>MICHAU D.</AUTEUR>
+    <AN_PUBLI>2000</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>On a trouvé...On a retrouvé</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>MANDIN J.P.</AUTEUR>
+    <AN_PUBLI>1995</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>On a trouvé...On a retrouvé</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>MANDIN J.P.</AUTEUR>
+    <AN_PUBLI>1995</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Préservation de Maculinea alcon (Lep., Lycaenidae) en Limousin : exemples de gestion écologique</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>CHABROL L., GAILLARD N., DELMAS S. et al.</AUTEUR>
+    <AN_PUBLI>2001</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Projet de charte constitutive</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>PNR Monts d&apos;Ardèche</AUTEUR>
+    <AN_PUBLI>1999</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Projet de charte constitutive. Document annexe 1 : liste des communes du périmètre d&apos;étude, statuts du syndicat mixte de gestion, marque du par cet emblème figuratif, fonctionnement des commissions thématiques, fonctionnement du conseil scientifique</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>PNR Monts d&apos;Ardèche</AUTEUR>
+    <AN_PUBLI>1999</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Projet de charte constitutive. Document annexe 2 : convention d&apos;application avec l&apos;Etat</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>PNR Monts d&apos;Ardèche</AUTEUR>
+    <AN_PUBLI>1999</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Projet de charte constitutive. Documents d&apos;accompagnement : moyens humains, moyens financiers, partenaires.</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>PNR Monts d&apos;Ardèche</AUTEUR>
+    <AN_PUBLI>1999</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Quelques données sur les &quot;microphorbiaies&quot; à Viola biflora de Haute-Maurienne</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>FOUCAULT B. de, DELPECH R.</AUTEUR>
+    <AN_PUBLI>1985</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Quelques données sur les &quot;microphorbiaies&quot; à Viola biflora de Haute-Maurienne</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>FOUCAULT B. de, DELPECH R.</AUTEUR>
+    <AN_PUBLI>1985</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Quelques plantes nouvelles pour le département de l&apos;Ardèche</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>DESCOINGS B.M.</AUTEUR>
+    <AN_PUBLI>1986</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Quelques plantes nouvelles pour le département de l&apos;Ardèche</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>DESCOINGS B.M.</AUTEUR>
+    <AN_PUBLI>1986</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Répartition de la loutre (Lutra lutra L.) dans le bassin versant Rhône-Méditerranée du département de l&apos;Ardèche</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>BENDELE R.</AUTEUR>
+    <AN_PUBLI>2000</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Reptiles et amphibiens de Rhône-Alpes : atlas préliminaire, hors série n°1</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>CORA</AUTEUR>
+    <AN_PUBLI>2002</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Sortie du dimanche 10 juillet 2005 : station de La Croix-de-Bauzon (Ardèche)</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>MICHAU D., BAUVET C.</AUTEUR>
+    <AN_PUBLI>2005</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Sortie du dimanche 10 juillet 2005 : station de La Croix-de-Bauzon (Ardèche)</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>MICHAU D., BAUVET C.</AUTEUR>
+    <AN_PUBLI>2005</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Sortie du 19 juin 1994 à Jaujac (Ardèche)</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>DUMAS A., MANDIN J.P.</AUTEUR>
+    <AN_PUBLI>1994</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Sortie du 19 juin 1994 à Jaujac (Ardèche)</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>DUMAS A., MANDIN J.P.</AUTEUR>
+    <AN_PUBLI>1994</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Sortie du 23 juillet 1995 au Rocher d&apos;Abraham (Ardèche)</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>DUMAS A.</AUTEUR>
+    <AN_PUBLI>1995</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Sortie du 23 juillet 1995 au Rocher d&apos;Abraham (Ardèche)</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>DUMAS A.</AUTEUR>
+    <AN_PUBLI>1995</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Sortie du 8 juin 1997 sur le Tarnargue - Croix de Bauzon (Ardèche).</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>MICHAU D.</AUTEUR>
+    <AN_PUBLI>1997</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Sortie du 8 juin 1997 sur le Tarnargue - Croix de Bauzon (Ardèche).</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>MICHAU D.</AUTEUR>
+    <AN_PUBLI>1997</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Statut de la loutre dans le bassin du Rhône et le département de l&apos;Ardèche</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>MICHELOT J.L., BENDELE R.</AUTEUR>
+    <AN_PUBLI>1995</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Suivi des milieux sensibles de la région Rhône-Alpes</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>CHOISNET G.</AUTEUR>
+    <AN_PUBLI>2005</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Suivi des milieux sensibles de la région Rhône-Alpes</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>CHOISNET G.</AUTEUR>
+    <AN_PUBLI>2005</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Suivi des populations d&apos;écrevisses à pieds blancs dans le PNR du Pilat</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>FAURE J.P.</AUTEUR>
+    <AN_PUBLI>2004</AN_PUBLI>
+   </SOURCE_ROW>
+   <SOURCE_ROW>
+    <LB_SOURCE>Suivi Maculinea - Marais des Bidonnes - été 1997</LB_SOURCE>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>ROZIER Y.</AUTEUR>
+    <AN_PUBLI>1997</AN_PUBLI>
+   </SOURCE_ROW>
+  </SOURCE>
+  <ZNI>
+  </ZNI>
+  <ESPECE_PROT>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Amphibiens</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>351</CD_NOM>
+    <NOM_COMPLET>Rana temporaria Linnaeus, 1758</NOM_COMPLET>
+    <SHORT_CITATION>Directive 92/43/CEE (Directive européenne dite Directive Habitats-Faune-Flore)</SHORT_CITATION>
+    <URL><![CDATA[http://bd.eionet.europa.eu/activities/Natura_2000/reference_portal]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Amphibiens</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>351</CD_NOM>
+    <NOM_COMPLET>Rana temporaria Linnaeus, 1758</NOM_COMPLET>
+    <SHORT_CITATION>Listes des amphibiens et des reptiles protégés sur l'ensemble du territoire français et les modalités de leur protection</SHORT_CITATION>
+    <URL><![CDATA[http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000017876248]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Crustacés</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>18437</CD_NOM>
+    <NOM_COMPLET>Austropotamobius pallipes (Lereboullet, 1858)</NOM_COMPLET>
+    <SHORT_CITATION>Directive 92/43/CEE (Directive européenne dite Directive Habitats-Faune-Flore)</SHORT_CITATION>
+    <URL><![CDATA[http://bd.eionet.europa.eu/activities/Natura_2000/reference_portal]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Crustacés</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>18437</CD_NOM>
+    <NOM_COMPLET>Austropotamobius pallipes (Lereboullet, 1858)</NOM_COMPLET>
+    <SHORT_CITATION>Protection des écrevisses autochtones sur le territoire français métropolitain</SHORT_CITATION>
+    <URL><![CDATA[http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=20000128&numTexte=59&pageDebut=01474&pageFin=01474]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Insectes</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>53979</CD_NOM>
+    <NOM_COMPLET>Lycaena dispar (Haworth, 1802)</NOM_COMPLET>
+    <SHORT_CITATION>Directive 92/43/CEE (Directive européenne dite Directive Habitats-Faune-Flore)</SHORT_CITATION>
+    <URL><![CDATA[http://bd.eionet.europa.eu/activities/Natura_2000/reference_portal]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Insectes</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>53979</CD_NOM>
+    <NOM_COMPLET>Lycaena dispar (Haworth, 1802)</NOM_COMPLET>
+    <SHORT_CITATION>Liste des insectes protégés sur l'ensemble du territoire et les modalités de leur protection</SHORT_CITATION>
+    <URL><![CDATA[http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000465500]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Insectes</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>54080</CD_NOM>
+    <NOM_COMPLET>Maculinea alcon (Denis &amp; Schiffermüller, 1775)</NOM_COMPLET>
+    <SHORT_CITATION>Liste des insectes protégés sur l'ensemble du territoire et les modalités de leur protection</SHORT_CITATION>
+    <URL><![CDATA[http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000465500]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Mammifères</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>60119</CD_NOM>
+    <NOM_COMPLET>Neomys anomalus Cabrera, 1907</NOM_COMPLET>
+    <SHORT_CITATION>Liste des mammifères terrestres protégés sur l'ensemble du territoire français et les modalités de leur protection</SHORT_CITATION>
+    <URL><![CDATA[http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000649682]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Mammifères</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>60630</CD_NOM>
+    <NOM_COMPLET>Lutra lutra (Linnaeus, 1758)</NOM_COMPLET>
+    <SHORT_CITATION>Directive 92/43/CEE (Directive européenne dite Directive Habitats-Faune-Flore)</SHORT_CITATION>
+    <URL><![CDATA[http://bd.eionet.europa.eu/activities/Natura_2000/reference_portal]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Mammifères</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>60630</CD_NOM>
+    <NOM_COMPLET>Lutra lutra (Linnaeus, 1758)</NOM_COMPLET>
+    <SHORT_CITATION>Liste des espèces de vertébrés protégées menacées d'extinction en France et dont l'aire de répartition excède le territoire d'un département</SHORT_CITATION>
+    <URL><![CDATA[http://www.legifrance.gouv.fr/WAspad/UnTexteDeJorf?numjo=ATEN9980224A]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Mammifères</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>60630</CD_NOM>
+    <NOM_COMPLET>Lutra lutra (Linnaeus, 1758)</NOM_COMPLET>
+    <SHORT_CITATION>Liste des mammifères terrestres protégés sur l'ensemble du territoire français et les modalités de leur protection</SHORT_CITATION>
+    <URL><![CDATA[http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000649682]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Mammifères</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>61678</CD_NOM>
+    <NOM_COMPLET>Lepus europaeus Pallas, 1778</NOM_COMPLET>
+    <SHORT_CITATION>Liste des espèces de gibier dont la chasse est autorisée</SHORT_CITATION>
+    <URL><![CDATA[http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000296288&fastPos=20&fastReqId=341347806&categorieLien=cid&oldAction=rechTexte]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>2559</CD_NOM>
+    <NOM_COMPLET>Scolopax rusticola Linnaeus, 1758</NOM_COMPLET>
+    <SHORT_CITATION>Liste des espèces de gibier dont la chasse est autorisée</SHORT_CITATION>
+    <URL><![CDATA[http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000296288&fastPos=20&fastReqId=341347806&categorieLien=cid&oldAction=rechTexte]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>2559</CD_NOM>
+    <NOM_COMPLET>Scolopax rusticola Linnaeus, 1758</NOM_COMPLET>
+    <SHORT_CITATION>Protection et commercialisation de certaines espèces d'oiseaux sur le territoire français national</SHORT_CITATION>
+    <URL><![CDATA[http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000021309438]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>2873</CD_NOM>
+    <NOM_COMPLET>Circaetus gallicus (Gmelin, 1788)</NOM_COMPLET>
+    <SHORT_CITATION>Directive 79/409/CEE (Directive européenne dite Directive Oiseaux)</SHORT_CITATION>
+    <URL><![CDATA[http://bd.eionet.europa.eu/activities/Natura_2000/reference_portal]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>2873</CD_NOM>
+    <NOM_COMPLET>Circaetus gallicus (Gmelin, 1788)</NOM_COMPLET>
+    <SHORT_CITATION>Liste des oiseaux protégés sur l'ensemble du territoire et les modalités de leur protection</SHORT_CITATION>
+    <URL><![CDATA[http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000021384277]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>2887</CD_NOM>
+    <NOM_COMPLET>Circus pygargus (Linnaeus, 1758)</NOM_COMPLET>
+    <SHORT_CITATION>Directive 79/409/CEE (Directive européenne dite Directive Oiseaux)</SHORT_CITATION>
+    <URL><![CDATA[http://bd.eionet.europa.eu/activities/Natura_2000/reference_portal]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>2887</CD_NOM>
+    <NOM_COMPLET>Circus pygargus (Linnaeus, 1758)</NOM_COMPLET>
+    <SHORT_CITATION>Liste des oiseaux protégés sur l'ensemble du territoire et les modalités de leur protection</SHORT_CITATION>
+    <URL><![CDATA[http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000021384277]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>2891</CD_NOM>
+    <NOM_COMPLET>Accipiter gentilis (Linnaeus, 1758)</NOM_COMPLET>
+    <SHORT_CITATION>Liste des oiseaux protégés sur l'ensemble du territoire et les modalités de leur protection</SHORT_CITATION>
+    <URL><![CDATA[http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000021384277]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>2938</CD_NOM>
+    <NOM_COMPLET>Falco peregrinus Tunstall, 1771</NOM_COMPLET>
+    <SHORT_CITATION>Directive 79/409/CEE (Directive européenne dite Directive Oiseaux)</SHORT_CITATION>
+    <URL><![CDATA[http://bd.eionet.europa.eu/activities/Natura_2000/reference_portal]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>2938</CD_NOM>
+    <NOM_COMPLET>Falco peregrinus Tunstall, 1771</NOM_COMPLET>
+    <SHORT_CITATION>Liste des oiseaux protégés sur l'ensemble du territoire et les modalités de leur protection</SHORT_CITATION>
+    <URL><![CDATA[http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000021384277]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>2938</CD_NOM>
+    <NOM_COMPLET>Falco peregrinus Tunstall, 1771</NOM_COMPLET>
+    <SHORT_CITATION>Liste des oiseaux représentés dans le département de la Guyane protégés sur l'ensemble du territoire et les modalités de leur protection</SHORT_CITATION>
+    <URL><![CDATA[https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000030439398]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>3493</CD_NOM>
+    <NOM_COMPLET>Bubo bubo (Linnaeus, 1758)</NOM_COMPLET>
+    <SHORT_CITATION>Directive 79/409/CEE (Directive européenne dite Directive Oiseaux)</SHORT_CITATION>
+    <URL><![CDATA[http://bd.eionet.europa.eu/activities/Natura_2000/reference_portal]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>3493</CD_NOM>
+    <NOM_COMPLET>Bubo bubo (Linnaeus, 1758)</NOM_COMPLET>
+    <SHORT_CITATION>Liste des oiseaux protégés sur l'ensemble du territoire et les modalités de leur protection</SHORT_CITATION>
+    <URL><![CDATA[http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000021384277]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>3533</CD_NOM>
+    <NOM_COMPLET>Aegolius funereus (Linnaeus, 1758)</NOM_COMPLET>
+    <SHORT_CITATION>Directive 79/409/CEE (Directive européenne dite Directive Oiseaux)</SHORT_CITATION>
+    <URL><![CDATA[http://bd.eionet.europa.eu/activities/Natura_2000/reference_portal]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>3533</CD_NOM>
+    <NOM_COMPLET>Aegolius funereus (Linnaeus, 1758)</NOM_COMPLET>
+    <SHORT_CITATION>Liste des oiseaux protégés sur l'ensemble du territoire et les modalités de leur protection</SHORT_CITATION>
+    <URL><![CDATA[http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000021384277]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>3670</CD_NOM>
+    <NOM_COMPLET>Lullula arborea (Linnaeus, 1758)</NOM_COMPLET>
+    <SHORT_CITATION>Directive 79/409/CEE (Directive européenne dite Directive Oiseaux)</SHORT_CITATION>
+    <URL><![CDATA[http://bd.eionet.europa.eu/activities/Natura_2000/reference_portal]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>3670</CD_NOM>
+    <NOM_COMPLET>Lullula arborea (Linnaeus, 1758)</NOM_COMPLET>
+    <SHORT_CITATION>Liste des oiseaux protégés sur l'ensemble du territoire et les modalités de leur protection</SHORT_CITATION>
+    <URL><![CDATA[http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000021384277]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>3726</CD_NOM>
+    <NOM_COMPLET>Anthus pratensis (Linnaeus, 1758)</NOM_COMPLET>
+    <SHORT_CITATION>Liste des oiseaux protégés sur l'ensemble du territoire et les modalités de leur protection</SHORT_CITATION>
+    <URL><![CDATA[http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000021384277]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>3784</CD_NOM>
+    <NOM_COMPLET>Certhia familiaris Linnaeus, 1758</NOM_COMPLET>
+    <SHORT_CITATION>Liste des oiseaux protégés sur l'ensemble du territoire et les modalités de leur protection</SHORT_CITATION>
+    <URL><![CDATA[http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000021384277]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>4064</CD_NOM>
+    <NOM_COMPLET>Oenanthe oenanthe (Linnaeus, 1758)</NOM_COMPLET>
+    <SHORT_CITATION>Liste des oiseaux protégés sur l'ensemble du territoire et les modalités de leur protection</SHORT_CITATION>
+    <URL><![CDATA[http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000021384277]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>4064</CD_NOM>
+    <NOM_COMPLET>Oenanthe oenanthe (Linnaeus, 1758)</NOM_COMPLET>
+    <SHORT_CITATION>Liste des oiseaux représentés dans le département de la Guyane protégés sur l'ensemble du territoire et les modalités de leur protection</SHORT_CITATION>
+    <URL><![CDATA[https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000030439398]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>4084</CD_NOM>
+    <NOM_COMPLET>Monticola saxatilis (Linnaeus, 1758)</NOM_COMPLET>
+    <SHORT_CITATION>Liste des oiseaux protégés sur l'ensemble du territoire et les modalités de leur protection</SHORT_CITATION>
+    <URL><![CDATA[http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000021384277]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>4167</CD_NOM>
+    <NOM_COMPLET>Locustella naevia (Boddaert, 1783)</NOM_COMPLET>
+    <SHORT_CITATION>Liste des oiseaux protégés sur l'ensemble du territoire et les modalités de leur protection</SHORT_CITATION>
+    <URL><![CDATA[http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000021384277]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>4221</CD_NOM>
+    <NOM_COMPLET>Sylvia undata (Boddaert, 1783)</NOM_COMPLET>
+    <SHORT_CITATION>Directive 79/409/CEE (Directive européenne dite Directive Oiseaux)</SHORT_CITATION>
+    <URL><![CDATA[http://bd.eionet.europa.eu/activities/Natura_2000/reference_portal]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>4221</CD_NOM>
+    <NOM_COMPLET>Sylvia undata (Boddaert, 1783)</NOM_COMPLET>
+    <SHORT_CITATION>Liste des oiseaux protégés sur l'ensemble du territoire et les modalités de leur protection</SHORT_CITATION>
+    <URL><![CDATA[http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000021384277]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>4330</CD_NOM>
+    <NOM_COMPLET>Ficedula hypoleuca (Pallas, 1764)</NOM_COMPLET>
+    <SHORT_CITATION>Liste des oiseaux protégés sur l'ensemble du territoire et les modalités de leur protection</SHORT_CITATION>
+    <URL><![CDATA[http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000021384277]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>4510</CD_NOM>
+    <NOM_COMPLET>Corvus corax Linnaeus, 1758</NOM_COMPLET>
+    <SHORT_CITATION>Liste des oiseaux protégés sur l'ensemble du territoire et les modalités de leur protection</SHORT_CITATION>
+    <URL><![CDATA[http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000021384277]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>4568</CD_NOM>
+    <NOM_COMPLET>Fringilla montifringilla Linnaeus, 1758</NOM_COMPLET>
+    <SHORT_CITATION>Liste des oiseaux protégés sur l'ensemble du territoire et les modalités de leur protection</SHORT_CITATION>
+    <URL><![CDATA[http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000021384277]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>4586</CD_NOM>
+    <NOM_COMPLET>Carduelis spinus (Linnaeus, 1758)</NOM_COMPLET>
+    <SHORT_CITATION>Liste des oiseaux protégés sur l'ensemble du territoire et les modalités de leur protection</SHORT_CITATION>
+    <URL><![CDATA[http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000021384277]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>4663</CD_NOM>
+    <NOM_COMPLET>Emberiza cia Linnaeus, 1766</NOM_COMPLET>
+    <SHORT_CITATION>Liste des oiseaux protégés sur l'ensemble du territoire et les modalités de leur protection</SHORT_CITATION>
+    <URL><![CDATA[http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000021384277]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>4665</CD_NOM>
+    <NOM_COMPLET>Emberiza hortulana Linnaeus, 1758</NOM_COMPLET>
+    <SHORT_CITATION>Directive 79/409/CEE (Directive européenne dite Directive Oiseaux)</SHORT_CITATION>
+    <URL><![CDATA[http://bd.eionet.europa.eu/activities/Natura_2000/reference_portal]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Oiseaux</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>4665</CD_NOM>
+    <NOM_COMPLET>Emberiza hortulana Linnaeus, 1758</NOM_COMPLET>
+    <SHORT_CITATION>Liste des oiseaux protégés sur l'ensemble du territoire et les modalités de leur protection</SHORT_CITATION>
+    <URL><![CDATA[http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000021384277]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Poissons</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>69182</CD_NOM>
+    <NOM_COMPLET>Cottus gobio Linnaeus, 1758</NOM_COMPLET>
+    <SHORT_CITATION>Directive 92/43/CEE (Directive européenne dite Directive Habitats-Faune-Flore)</SHORT_CITATION>
+    <URL><![CDATA[http://bd.eionet.europa.eu/activities/Natura_2000/reference_portal]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Reptiles</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>77600</CD_NOM>
+    <NOM_COMPLET>Lacerta agilis Linnaeus, 1758</NOM_COMPLET>
+    <SHORT_CITATION>Directive 92/43/CEE (Directive européenne dite Directive Habitats-Faune-Flore)</SHORT_CITATION>
+    <URL><![CDATA[http://bd.eionet.europa.eu/activities/Natura_2000/reference_portal]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Reptiles</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>77600</CD_NOM>
+    <NOM_COMPLET>Lacerta agilis Linnaeus, 1758</NOM_COMPLET>
+    <SHORT_CITATION>Listes des amphibiens et des reptiles protégés sur l'ensemble du territoire français et les modalités de leur protection</SHORT_CITATION>
+    <URL><![CDATA[http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000017876248]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Animalia</REGNE>
+    <GROUPE>Reptiles</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>78141</CD_NOM>
+    <NOM_COMPLET>Vipera berus (Linnaeus, 1758)</NOM_COMPLET>
+    <SHORT_CITATION>Listes des amphibiens et des reptiles protégés sur l'ensemble du territoire français et les modalités de leur protection</SHORT_CITATION>
+    <URL><![CDATA[http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000017876248]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Angiospermes</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>80037</CD_NOM>
+    <NOM_COMPLET>Aconitum napellus L., 1753</NOM_COMPLET>
+    <SHORT_CITATION>Liste des espèces végétales sauvages pouvant faire l'objet d'une réglementation préfectorale permanente ou temporaire</SHORT_CITATION>
+    <URL><![CDATA[http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=19891210&numTexte=&pageDebut=15326&pageFin=]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Angiospermes</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>94728</CD_NOM>
+    <NOM_COMPLET>Dianthus deltoides L., 1753</NOM_COMPLET>
+    <SHORT_CITATION>Liste des espèces végétales sauvages pouvant faire l'objet d'une réglementation préfectorale permanente ou temporaire</SHORT_CITATION>
+    <URL><![CDATA[http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=19891210&numTexte=&pageDebut=15326&pageFin=]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Angiospermes</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>94755</CD_NOM>
+    <NOM_COMPLET>Dianthus graniticus Jord., 1849</NOM_COMPLET>
+    <SHORT_CITATION>Liste des espèces végétales sauvages pouvant faire l'objet d'une réglementation préfectorale permanente ou temporaire</SHORT_CITATION>
+    <URL><![CDATA[http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=19891210&numTexte=&pageDebut=15326&pageFin=]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Angiospermes</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>94765</CD_NOM>
+    <NOM_COMPLET>Dianthus hyssopifolius L., 1755</NOM_COMPLET>
+    <SHORT_CITATION>Liste des espèces végétales sauvages pouvant faire l'objet d'une réglementation préfectorale permanente ou temporaire</SHORT_CITATION>
+    <URL><![CDATA[http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=19891210&numTexte=&pageDebut=15326&pageFin=]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Angiospermes</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>95442</CD_NOM>
+    <NOM_COMPLET>Drosera rotundifolia L., 1753</NOM_COMPLET>
+    <SHORT_CITATION>Liste des espèces végétales protégées sur l'ensemble du territoire français métropolitain</SHORT_CITATION>
+    <URL><![CDATA[http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000865328&fastPos=1&fastReqId=1607863946&categorieLien=cid&oldAction=rechTexte]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Fougères</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>103034</CD_NOM>
+    <NOM_COMPLET>Huperzia selago (L.) Bernh. ex Schrank &amp; Mart., 1829</NOM_COMPLET>
+    <SHORT_CITATION>Directive 92/43/CEE (Directive européenne dite Directive Habitats-Faune-Flore)</SHORT_CITATION>
+    <URL><![CDATA[http://bd.eionet.europa.eu/activities/Natura_2000/reference_portal]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Fougères</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>107000</CD_NOM>
+    <NOM_COMPLET>Lycopodium annotinum L., 1753</NOM_COMPLET>
+    <SHORT_CITATION>Directive 92/43/CEE (Directive européenne dite Directive Habitats-Faune-Flore)</SHORT_CITATION>
+    <URL><![CDATA[http://bd.eionet.europa.eu/activities/Natura_2000/reference_portal]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Fougères</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>107000</CD_NOM>
+    <NOM_COMPLET>Lycopodium annotinum L., 1753</NOM_COMPLET>
+    <SHORT_CITATION>Liste des espèces végétales sauvages pouvant faire l'objet d'une réglementation préfectorale permanente ou temporaire</SHORT_CITATION>
+    <URL><![CDATA[http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=19891210&numTexte=&pageDebut=15326&pageFin=]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Fougères</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>107003</CD_NOM>
+    <NOM_COMPLET>Lycopodium clavatum L., 1753</NOM_COMPLET>
+    <SHORT_CITATION>Directive 92/43/CEE (Directive européenne dite Directive Habitats-Faune-Flore)</SHORT_CITATION>
+    <URL><![CDATA[http://bd.eionet.europa.eu/activities/Natura_2000/reference_portal]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Fougères</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>107003</CD_NOM>
+    <NOM_COMPLET>Lycopodium clavatum L., 1753</NOM_COMPLET>
+    <SHORT_CITATION>Liste des espèces végétales sauvages pouvant faire l'objet d'une réglementation préfectorale permanente ou temporaire</SHORT_CITATION>
+    <URL><![CDATA[http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=19891210&numTexte=&pageDebut=15326&pageFin=]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Mousses</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>3885</CD_NOM>
+    <NOM_COMPLET>Buxbaumia viridis (Moug. ex Lam. &amp; DC.) Brid. ex Moug. &amp; Nestl.</NOM_COMPLET>
+    <SHORT_CITATION>Directive 92/43/CEE (Directive européenne dite Directive Habitats-Faune-Flore)</SHORT_CITATION>
+    <URL><![CDATA[http://bd.eionet.europa.eu/activities/Natura_2000/reference_portal]]></URL>
+   </ESPECE_PROT_ROW>
+   <ESPECE_PROT_ROW>
+    <REGNE>Plantae</REGNE>
+    <GROUPE>Mousses</GROUPE>
+    <NM_SFFZN>820003420</NM_SFFZN>
+    <FG_ESP>D</FG_ESP>
+    <CD_NOM>3885</CD_NOM>
+    <NOM_COMPLET>Buxbaumia viridis (Moug. ex Lam. &amp; DC.) Brid. ex Moug. &amp; Nestl.</NOM_COMPLET>
+    <SHORT_CITATION>Liste des espèces végétales protégées sur l'ensemble du territoire français métropolitain</SHORT_CITATION>
+    <URL><![CDATA[http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000865328&fastPos=1&fastReqId=1607863946&categorieLien=cid&oldAction=rechTexte]]></URL>
+   </ESPECE_PROT_ROW>
+  </ESPECE_PROT>
+  <GRANULOMETRIE>
+  </GRANULOMETRIE>
+  <HYDRODYNAMISME>
+  </HYDRODYNAMISME>
+  <SOURCE_TOT>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>Agence Mosaïque Environnement</AUTEUR>
+    <AN_PUBLI>2003</AN_PUBLI>
+    <LB_SOURCE>Document d&apos;objectifs des rivières de la Beaume, de la Drobie et du vallon de Roubreau</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>BALIAN C.</AUTEUR>
+    <AN_PUBLI>2000</AN_PUBLI>
+    <LB_SOURCE>Inventaire et étude sur l&apos;écrevisse à pieds blancs (Austropotamobius pallipes)</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>BAYLE B.</AUTEUR>
+    <AN_PUBLI>1999</AN_PUBLI>
+    <LB_SOURCE>Inventaire des Orchidées d&apos;Ardèche - Bilan provisoire fin 99</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>BAYLE B.</AUTEUR>
+    <AN_PUBLI>1999</AN_PUBLI>
+    <LB_SOURCE>Inventaire des Orchidées d&apos;Ardèche - Bilan provisoire fin 99</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>BENDELE R.</AUTEUR>
+    <AN_PUBLI>2000</AN_PUBLI>
+    <LB_SOURCE>Répartition de la loutre (Lutra lutra L.) dans le bassin versant Rhône-Méditerranée du département de l&apos;Ardèche</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>Biotope</AUTEUR>
+    <AN_PUBLI>2003</AN_PUBLI>
+    <LB_SOURCE>Document d&apos;objectifs B20 Tome 1 - Milieux alluviaux et aquatiques de l&apos;Allier et ses affluents&quot; - Période 2004-2009</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>BOUCHARDY C.</AUTEUR>
+    <AN_PUBLI>2001</AN_PUBLI>
+    <LB_SOURCE>La loutre d&apos;Europe : histoire d&apos;une sauvegarde</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>BOUDRIE M., DESCOINGS B.M., MANDIN J.P.</AUTEUR>
+    <AN_PUBLI>2005</AN_PUBLI>
+    <LB_SOURCE>Les ptéridophytes du département de l&apos;Ardèche (France)</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>BOUDRIE M., DESCOINGS B.M., MANDIN J.P.</AUTEUR>
+    <AN_PUBLI>2005</AN_PUBLI>
+    <LB_SOURCE>Les ptéridophytes du département de l&apos;Ardèche (France)</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>Bulletin Français de la Pêche et de la Pisciculture</AUTEUR>
+    <AN_PUBLI>2004</AN_PUBLI>
+    <LB_SOURCE>Les écrevisses européennes autochtones en relation avec l&apos;occupation des sols et la détérioration de l&apos;habitat, plus spécialement Austropotamobius torrentium : CRAYNET meeting, Innsbruck, Autriche, 8-11septembre 2004 (volume 3)</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>CHABROL L., GAILLARD N., DELMAS S. et al.</AUTEUR>
+    <AN_PUBLI>2001</AN_PUBLI>
+    <LB_SOURCE>Préservation de Maculinea alcon (Lep., Lycaenidae) en Limousin : exemples de gestion écologique</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>CHOISNET G.</AUTEUR>
+    <AN_PUBLI>2005</AN_PUBLI>
+    <LB_SOURCE>Caractérisation des végétations du Parc naturel régional des Monts d&apos;Ardèche</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>CHOISNET G.</AUTEUR>
+    <AN_PUBLI>2005</AN_PUBLI>
+    <LB_SOURCE>Caractérisation des végétations du Parc naturel régional des Monts d&apos;Ardèche</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>CHOISNET G.</AUTEUR>
+    <AN_PUBLI>2005</AN_PUBLI>
+    <LB_SOURCE>Suivi des milieux sensibles de la région Rhône-Alpes</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>CHOISNET G.</AUTEUR>
+    <AN_PUBLI>2005</AN_PUBLI>
+    <LB_SOURCE>Suivi des milieux sensibles de la région Rhône-Alpes</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>Comité d&apos;étude pour la création du parc naturel régional de la châtaigneraie d&apos;Ardèche</AUTEUR>
+    <AN_PUBLI>1997</AN_PUBLI>
+    <LB_SOURCE>Contrat-environnement pour la création du Parc naturel régional de la châtaigneraie et des sucs d&apos;Ardèche.</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>CORA</AUTEUR>
+    <AN_PUBLI>2002</AN_PUBLI>
+    <LB_SOURCE>Reptiles et amphibiens de Rhône-Alpes : atlas préliminaire, hors série n°1</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>CORA</AUTEUR>
+    <AN_PUBLI>2003</AN_PUBLI>
+    <LB_SOURCE>Atlas des oiseaux nicheurs de Rhône-Alpes</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>DELPECH R.</AUTEUR>
+    <AN_PUBLI>1985</AN_PUBLI>
+    <LB_SOURCE>Apport de la phytosociologie à l&apos;élaboration d&apos;une typologie de stations potentiellement forestières : exemple des landes du Vivarais Cévenol</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>DELPECH R. </AUTEUR>
+    <AN_PUBLI>1985</AN_PUBLI>
+    <LB_SOURCE>Apport de la phytosociologie à l&apos;élaboration d&apos;une typologie de stations potentiellement forestières : exemple des landes du Vivarais Cévenol</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>DELPECH R., FOUCAULT B. de</AUTEUR>
+    <AN_PUBLI>1985</AN_PUBLI>
+    <LB_SOURCE>Comparaisons entre quelques mégaphorbiaies des Alpes du Nord et du Massif central</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>DELPECH R., FOUCAULT B. de</AUTEUR>
+    <AN_PUBLI>1985</AN_PUBLI>
+    <LB_SOURCE>Comparaisons entre quelques mégaphorbiaies des Alpes du Nord et du Massif central</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>DESCOINGS B.M.</AUTEUR>
+    <AN_PUBLI>1986</AN_PUBLI>
+    <LB_SOURCE>Quelques plantes nouvelles pour le département de l&apos;Ardèche</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>DESCOINGS B.M.</AUTEUR>
+    <AN_PUBLI>1986</AN_PUBLI>
+    <LB_SOURCE>Quelques plantes nouvelles pour le département de l&apos;Ardèche</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>DESCOINGS B.M., MANDIN J.P.</AUTEUR>
+    <AN_PUBLI>1984</AN_PUBLI>
+    <LB_SOURCE>Inventaire des espèces rares ou menacées du département de l&apos;Ardèche</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>DESCOINGS B.M., MANDIN J.P.</AUTEUR>
+    <AN_PUBLI>1984</AN_PUBLI>
+    <LB_SOURCE>Inventaire des espèces rares ou menacées du département de l&apos;Ardèche</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>DUMAS A.</AUTEUR>
+    <AN_PUBLI>1995</AN_PUBLI>
+    <LB_SOURCE>Sortie du 23 juillet 1995 au Rocher d&apos;Abraham (Ardèche)</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>DUMAS A.</AUTEUR>
+    <AN_PUBLI>1995</AN_PUBLI>
+    <LB_SOURCE>Sortie du 23 juillet 1995 au Rocher d&apos;Abraham (Ardèche)</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>DUMAS A., MANDIN J.P.</AUTEUR>
+    <AN_PUBLI>1994</AN_PUBLI>
+    <LB_SOURCE>Sortie du 19 juin 1994 à Jaujac (Ardèche)</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>DUMAS A., MANDIN J.P.</AUTEUR>
+    <AN_PUBLI>1994</AN_PUBLI>
+    <LB_SOURCE>Sortie du 19 juin 1994 à Jaujac (Ardèche)</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>ETIENNE P.</AUTEUR>
+    <AN_PUBLI>2005</AN_PUBLI>
+    <LB_SOURCE>La Loutre d&apos;Europe : description, répartition, habitat, moeurs, observation...</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>FAURE J.P.</AUTEUR>
+    <AN_PUBLI>2004</AN_PUBLI>
+    <LB_SOURCE>Suivi des populations d&apos;écrevisses à pieds blancs dans le PNR du Pilat</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>FOUCAULT B. de, DELPECH R.</AUTEUR>
+    <AN_PUBLI>1985</AN_PUBLI>
+    <LB_SOURCE>Quelques données sur les &quot;microphorbiaies&quot; à Viola biflora de Haute-Maurienne</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>FOUCAULT B. de, DELPECH R.</AUTEUR>
+    <AN_PUBLI>1985</AN_PUBLI>
+    <LB_SOURCE>Quelques données sur les &quot;microphorbiaies&quot; à Viola biflora de Haute-Maurienne</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>FROMENT B. ; PETIT-MARTENON V.</AUTEUR>
+    <AN_PUBLI>2001</AN_PUBLI>
+    <LB_SOURCE>Etat des populations d&apos;écrevisse à pieds blancs (Austropotamobius pallipes) - Ravins rhodaniens du Parc Naturel régional du Pilat</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>GRENIER E.</AUTEUR>
+    <AN_PUBLI>1992</AN_PUBLI>
+    <LB_SOURCE>Flore d&apos;Auvergne</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>GRENIER E.</AUTEUR>
+    <AN_PUBLI>1992</AN_PUBLI>
+    <LB_SOURCE>Flore d&apos;Auvergne</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>GRES P.</AUTEUR>
+    <AN_PUBLI>2004</AN_PUBLI>
+    <LB_SOURCE>Actualisation des données sur les sites à écrevisses à pieds blancs du Parc Naturel Régional du Pilat (Loire)</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>GROSSI J.L.</AUTEUR>
+    <AN_PUBLI>1998</AN_PUBLI>
+    <LB_SOURCE>Haut-Rhône - Chautagne - Lavours - Bourget - Document d&apos;objectifs - volume annexe</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>KERVYN A., BAYLE B., CHARRAIX J.</AUTEUR>
+    <AN_PUBLI>2000</AN_PUBLI>
+    <LB_SOURCE>Différentes communications sur certaines espèces</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>KERVYN A., BAYLE B., CHARRAIX J.</AUTEUR>
+    <AN_PUBLI>2000</AN_PUBLI>
+    <LB_SOURCE>Différentes communications sur certaines espèces</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>LAFRANCHIS T.</AUTEUR>
+    <AN_PUBLI>2000</AN_PUBLI>
+    <LB_SOURCE>Les papillons de jour de France, Belgique et Luxembourg et leurs chenilles</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>MANDIN J.P.</AUTEUR>
+    <AN_PUBLI>1995</AN_PUBLI>
+    <LB_SOURCE>On a trouvé...On a retrouvé</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>MANDIN J.P.</AUTEUR>
+    <AN_PUBLI>1995</AN_PUBLI>
+    <LB_SOURCE>On a trouvé...On a retrouvé</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>MANDIN J.P.</AUTEUR>
+    <AN_PUBLI>1996</AN_PUBLI>
+    <LB_SOURCE>On a trouvé ... On a retrouvé</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>MANDIN J.P.</AUTEUR>
+    <AN_PUBLI>1996</AN_PUBLI>
+    <LB_SOURCE>On a trouvé ... On a retrouvé</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>MANDIN J.P.</AUTEUR>
+    <AN_PUBLI>2002</AN_PUBLI>
+    <LB_SOURCE>On a trouvé... On a retrouvé</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>MICHAU D.</AUTEUR>
+    <AN_PUBLI>1997</AN_PUBLI>
+    <LB_SOURCE>Sortie du 8 juin 1997 sur le Tarnargue - Croix de Bauzon (Ardèche).</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>MICHAU D.</AUTEUR>
+    <AN_PUBLI>1997</AN_PUBLI>
+    <LB_SOURCE>Sortie du 8 juin 1997 sur le Tarnargue - Croix de Bauzon (Ardèche).</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>MICHAU D.</AUTEUR>
+    <AN_PUBLI>2000</AN_PUBLI>
+    <LB_SOURCE>On a trouvé... On a retrouvé</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>MICHAU D.</AUTEUR>
+    <AN_PUBLI>2006</AN_PUBLI>
+    <LB_SOURCE>Dalle rocheuse suintante dans la haute vallée de la Beaume, Valgorge, Ardèche</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>MICHAU D.</AUTEUR>
+    <AN_PUBLI>2006</AN_PUBLI>
+    <LB_SOURCE>Dalle rocheuse suintante dans la haute vallée de la Beaume, Valgorge, Ardèche</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>MICHAU D., BAUVET C.</AUTEUR>
+    <AN_PUBLI>2005</AN_PUBLI>
+    <LB_SOURCE>Sortie du dimanche 10 juillet 2005 : station de La Croix-de-Bauzon (Ardèche)</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>MICHAU D., BAUVET C.</AUTEUR>
+    <AN_PUBLI>2005</AN_PUBLI>
+    <LB_SOURCE>Sortie du dimanche 10 juillet 2005 : station de La Croix-de-Bauzon (Ardèche)</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>MICHELOT J.L. </AUTEUR>
+    <AN_PUBLI>1992</AN_PUBLI>
+    <LB_SOURCE>Le statut de la loutre dans le bassin du Rhône 1982-1992</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>MICHELOT J.L., BENDELE R.</AUTEUR>
+    <AN_PUBLI>1995</AN_PUBLI>
+    <LB_SOURCE>Statut de la loutre dans le bassin du Rhône et le département de l&apos;Ardèche</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>MONCEIX V., PIERRON V., JULLIAN L., COÏC B.</AUTEUR>
+    <AN_PUBLI>1900</AN_PUBLI>
+    <LB_SOURCE>Inventaire des tourbières de la région Rhône-Alpes : département de l&apos;Ardèche</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>MONCEIX V., PIERRON V., JULLIAN L., COÏC B.</AUTEUR>
+    <AN_PUBLI/>
+    <LB_SOURCE>Inventaire des tourbières de la région Rhône-Alpes : département de l&apos;Ardèche</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>Mosaïque Environnement</AUTEUR>
+    <AN_PUBLI>2003</AN_PUBLI>
+    <LB_SOURCE>Document d&apos;objectifs - Site Natura 2000 FR 8201670 &quot;Cévennes ardéchoises, partie Rivières de la Beaume, de la Drobie et du vallon du Roubreau&quot; (B26r)</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>ONF Agence Drôme Ardèche</AUTEUR>
+    <AN_PUBLI>2004</AN_PUBLI>
+    <LB_SOURCE>Document d&apos;objectifs - Site Natura 2000 FR 8201670 &quot;Zones humides, landes, pelouses, forêts et habitats rocheux des Cévennes Ardéchoises&quot; - Analyse, inventaire et programme d&apos;actions - 2004-2009</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>ONF Agence Drôme Ardèche</AUTEUR>
+    <AN_PUBLI>2004</AN_PUBLI>
+    <LB_SOURCE>Document d&apos;objectifs - Site Natura 2000 FR 8201670 &quot;Zones humides, landes, pelouses, forêts et habitats rocheux des Cévennes Ardéchoises&quot; - Analyse, inventaire et programme d&apos;actions 2004-2009</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>ONF Agence Drôme Ardèche</AUTEUR>
+    <AN_PUBLI>2004</AN_PUBLI>
+    <LB_SOURCE>Document d&apos;objectifs - Site Natura 2000 FR 8201670 &quot;Zones humides, landes, pelouses, forêts et habitats rocheux des Cévennes Ardéchoises&quot; - Complément d&apos;inventaires sur la zone d&apos;extension proposée - 2004-2009</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>ONF Agence Drôme Ardèche</AUTEUR>
+    <AN_PUBLI>2004</AN_PUBLI>
+    <LB_SOURCE>Document d&apos;objectifs : Site Natura 2000 FR 8201670 &quot;Zones humides, landes, pelouses, forêts et habitats rocheux des Cévennes Ardéchoises&quot; - Complément d&apos;inventaires sur la zone d&apos;extension proposée - 2004-2009</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>PETETIN A., HUGONNOT V.</AUTEUR>
+    <AN_PUBLI>1998</AN_PUBLI>
+    <LB_SOURCE>Etude diagnostic des sites B20, B21 et B26 pro parte inventoriés au titre de la Directive 92/43/CEE en Ardèche</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>PETETIN A., HUGONNOT V.</AUTEUR>
+    <AN_PUBLI>1998</AN_PUBLI>
+    <LB_SOURCE>Etude diagnostic des sites B20, B21 et B26 pro parte inventoriés au titre de la Directive 92/43/CEE en Ardèche</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>PNR Monts d&apos;Ardèche</AUTEUR>
+    <AN_PUBLI>1999</AN_PUBLI>
+    <LB_SOURCE>Projet de charte constitutive</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>PNR Monts d&apos;Ardèche</AUTEUR>
+    <AN_PUBLI>1999</AN_PUBLI>
+    <LB_SOURCE>Projet de charte constitutive. Document annexe 1 : liste des communes du périmètre d&apos;étude, statuts du syndicat mixte de gestion, marque du par cet emblème figuratif, fonctionnement des commissions thématiques, fonctionnement du conseil scientifique</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>PNR Monts d&apos;Ardèche</AUTEUR>
+    <AN_PUBLI>1999</AN_PUBLI>
+    <LB_SOURCE>Projet de charte constitutive. Document annexe 2 : convention d&apos;application avec l&apos;Etat</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>PNR Monts d&apos;Ardèche</AUTEUR>
+    <AN_PUBLI>1999</AN_PUBLI>
+    <LB_SOURCE>Projet de charte constitutive. Documents d&apos;accompagnement : moyens humains, moyens financiers, partenaires.</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>ROZIER Y.</AUTEUR>
+    <AN_PUBLI>1997</AN_PUBLI>
+    <LB_SOURCE>Suivi Maculinea - Marais des Bidonnes - été 1997</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>ROZIER Y.</AUTEUR>
+    <AN_PUBLI>1998</AN_PUBLI>
+    <LB_SOURCE>Les Maculinea (Lepidoptera, Lycaenidae) des zones humides : l&apos;exemple de la Réserve naturelle du Marais de Lavours (Ain, France)</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>TULLOCH B., CEBAL V.(traducteur)</AUTEUR>
+    <AN_PUBLI>1998</AN_PUBLI>
+    <LB_SOURCE>Loutres</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+   <SOURCE_TOT_ROW>
+    <TY_SOURCE>B</TY_SOURCE>
+    <AUTEUR>VIERON J.P., FATON J.M.</AUTEUR>
+    <AN_PUBLI>1998</AN_PUBLI>
+    <LB_SOURCE>Etude des écrevisses dans  les zones éligibles de la directive &quot;Habitats&quot; du département de la Drôme</LB_SOURCE>
+   </SOURCE_TOT_ROW>
+  </SOURCE_TOT>
+ </ZNIEFF>
+
+
