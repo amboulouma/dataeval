@@ -22,8 +22,8 @@ A web application that spots errors in databases
 
 # Authors
 
-* [Virgile Pesce](#https://github.com/Virgilus)
-* [Jonathan Khan](#https://github.com/johnkhansrc)
-* [Clément Allègre](#https://www.linkedin.com/in/cl%C3%A9ment-all%C3%A8gre-7360a478/)
-* [Guillaume Granjon De Lepiney](#https://www.linkedin.com/in/guillaume-granjon-de-lepiney-b53b73153/)
-* [Amine M. Boulouma](#https://www.linkedin.com/in/aminemboulouma/)
+* [Virgile Pesce](https://github.com/Virgilus)
+* [Jonathan Khan](https://github.com/johnkhansrc)
+* [Clément Allègre](https://www.linkedin.com/in/cl%C3%A9ment-all%C3%A8gre-7360a478/)
+* [Guillaume Granjon De Lepiney](https://www.linkedin.com/in/guillaume-granjon-de-lepiney-b53b73153/)
+* [Amine M. Boulouma](https://www.linkedin.com/in/aminemboulouma/)
