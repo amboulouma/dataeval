@@ -73,6 +73,23 @@ for _feature in data['features']:
             warnings_file.write(str(_feature['properties']))
             warnings_file.write("\",\n")
     
+    if not(algorithmes_test.test_telephone(str(_feature['properties']['telephone']))):
+        if _feature['properties']['telephone'] != None:
+            index_errors += 1
+            errors_file.write('"' + str(index_errors) + '":"')
+            errors_file.write('Il y a des chances pour que la donnée suivante soit erronée:\n')
+            errors_file.write('\'telephone\':\'' + str(_feature['properties']['telephone']) + '\'\nQu\'en pensez-vous ?\n\n')
+            errors_file.write('Voici des informations de contexte qui peuvent vous aider:\n')
+            errors_file.write(str(_feature['properties']))
+            errors_file.write("\",\n")
+        else:
+            index_warnings += 1
+            warnings_file.write('"' + str(index_warnings) + '":"')
+            warnings_file.write('Il y a des chances pour que la donnée suivante soit erronée:\n')
+            warnings_file.write('\'telephone\':\'' + str(_feature['properties']['telephone']) + '\'\nQu\'en pensez-vous ?\n\n')
+            warnings_file.write('Voici des informations de contexte qui peuvent vous aider:\n')
+            warnings_file.write(str(_feature['properties']))
+            warnings_file.write("\",\n")
 
 warnings_file.write('}\n')
 errors_file.write('}\n')

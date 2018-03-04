@@ -1,1 +1,81 @@
-{}
+{"1":"Il y a des chances pour que la donnée suivante soit erronée:
+'telephone':'04 75 30 04 39 (Mairie)'
+Qu'en pensez-vous ?
+
+Voici des informations de contexte qui peuvent vous aider:
+{'gid': 28, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Le Village', 'cod_postal': '07320', 'commune': 'ROCHEPAULE', 'telephone': '04 75 30 04 39 (Mairie)', 'courriel': 'mairie.rochepaule@inforoutes-ardeche.fr', 'site_inter': None, 'fonds': 'Livres', 'acces_net': 'Non', 'horaires': 'Vendredi : 15h00 - 18h00', 'epci': "Val'Eyrieux", 'type_bibli': 'Bibliothèque - médiathèque'}",
+"2":"Il y a des chances pour que la donnée suivante soit erronée:
+'telephone':'04 75 85 84 16 (Mairie)'
+Qu'en pensez-vous ?
+
+Voici des informations de contexte qui peuvent vous aider:
+{'gid': 107, 'nom_biblio': 'Bibliothèque Elsa Triolet', 'adresse': None, 'cod_postal': '07210', 'commune': 'BAIX', 'telephone': '04 75 85 84 16 (Mairie)', 'courriel': None, 'site_inter': None, 'fonds': 'Livres\nRessources numériques', 'acces_net': 'Non', 'horaires': 'Mercredi : 15h30 - 17h30\nVendredi : 17h00 - 18h00', 'epci': 'Barrès-Coiron', 'type_bibli': 'Bibliothèque - médiathèque'}",
+"3":"Il y a des chances pour que la donnée suivante soit erronée:
+'telephone':'04  75 94 23 08'
+Qu'en pensez-vous ?
+
+Voici des informations de contexte qui peuvent vous aider:
+{'gid': 114, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Agence postale Le village', 'cod_postal': '07170', 'commune': 'DARBRES', 'telephone': '04  75 94 23 08', 'courriel': None, 'site_inter': None, 'fonds': 'Livres', 'acces_net': 'Non', 'horaires': 'Lundi : 09h00 - 12h00\nMercredi : 09h00 - 12h00\nSamedi : 09h00 - 12h00', 'epci': 'Berg et Coiron', 'type_bibli': 'Bibliothèque - médiathèque'}",
+"4":"Il y a des chances pour que la donnée suivante soit erronée:
+'telephone':'04 75 66 80 70 (Mairie)'
+Qu'en pensez-vous ?
+
+Voici des informations de contexte qui peuvent vous aider:
+{'gid': 116, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Mairie La Planche', 'cod_postal': '07000', 'commune': 'GOURDON', 'telephone': '04 75 66 80 70 (Mairie)', 'courriel': None, 'site_inter': None, 'fonds': 'Livres', 'acces_net': 'Non', 'horaires': 'Mardi : 13h00 - 17h00\nJeudi : 13h00 - 17h00', 'epci': 'Privas Centre Ardèche', 'type_bibli': 'Bibliothèque - médiathèque'}",
+"5":"Il y a des chances pour que la donnée suivante soit erronée:
+'telephone':'04 75 63 80 44 (Mairie)'
+Qu'en pensez-vous ?
+
+Voici des informations de contexte qui peuvent vous aider:
+{'gid': 128, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Les Fonts du Pouzin', 'cod_postal': '07250', 'commune': 'ROMPON', 'telephone': '04 75 63 80 44 (Mairie)', 'courriel': 'bm-rompon@inforoutes-ardeche.fr', 'site_inter': None, 'fonds': 'Livres\nRessources numériques', 'acces_net': 'Oui', 'horaires': 'Lundi : 14h30 - 17h30\nJeudi : 08h45 - 11h45\nSamedi : 10h00- 12h00', 'epci': 'Privas Centre Ardèche', 'type_bibli': 'Bibliothèque - médiathèque'}",
+"6":"Il y a des chances pour que la donnée suivante soit erronée:
+'telephone':'04 75 65 92 68 (Mairie)'
+Qu'en pensez-vous ?
+
+Voici des informations de contexte qui peuvent vous aider:
+{'gid': 133, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Le Village', 'cod_postal': '07210', 'commune': 'SAINT-BAUZILE', 'telephone': '04 75 65 92 68 (Mairie)', 'courriel': 'bibliothequestbauzile@orange.fr', 'site_inter': None, 'fonds': 'Livres\nRessources numériques', 'acces_net': 'Oui', 'horaires': 'Mardi : 16h30 - 18h30\nVendredi : 10h00 - 12h00\n', 'epci': 'Barrès-Coiron', 'type_bibli': 'Bibliothèque - médiathèque'}",
+"7":"Il y a des chances pour que la donnée suivante soit erronée:
+'telephone':'04 75 65 73 76 (Mairie)'
+Qu'en pensez-vous ?
+
+Voici des informations de contexte qui peuvent vous aider:
+{'gid': 134, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Le Village', 'cod_postal': '07800', 'commune': 'SAINT-CIERGE-LA-SERRE', 'telephone': '04 75 65 73 76 (Mairie)', 'courriel': None, 'site_inter': None, 'fonds': 'Livres', 'acces_net': 'Non', 'horaires': 'Mardi : 16h30 - 17h30', 'epci': 'Privas Centre Ardèche', 'type_bibli': 'Bibliothèque - médiathèque'}",
+"8":"Il y a des chances pour que la donnée suivante soit erronée:
+'telephone':'04 75 65 13 02 (Mairie)'
+Qu'en pensez-vous ?
+
+Voici des informations de contexte qui peuvent vous aider:
+{'gid': 139, 'nom_biblio': 'Bibliothèque municipale', 'adresse': None, 'cod_postal': '07210', 'commune': 'SAINT-LAGER-BRESSAC', 'telephone': '04 75 65 13 02 (Mairie)', 'courriel': None, 'site_inter': None, 'fonds': 'Livres\nRessources numériques', 'acces_net': 'Non', 'horaires': 'Mercredi : 15h00 - 17h00\nSamedi : 09h30 - 11h30', 'epci': 'Barrès-Coiron', 'type_bibli': 'Bibliothèque - médiathèque'}",
+"9":"Il y a des chances pour que la donnée suivante soit erronée:
+'telephone':'04 75 52 98 48 (Mairie)'
+Qu'en pensez-vous ?
+
+Voici des informations de contexte qui peuvent vous aider:
+{'gid': 141, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Mairie', 'cod_postal': '07400', 'commune': 'SAINT-MARTIN-SUR-LAVEZON', 'telephone': '04 75 52 98 48 (Mairie)', 'courriel': None, 'site_inter': None, 'fonds': 'Livres', 'acces_net': 'Non', 'horaires': None, 'epci': 'Barrès-Coiron', 'type_bibli': 'Bibliothèque - médiathèque'}",
+"10":"Il y a des chances pour que la donnée suivante soit erronée:
+'telephone':'04 75 65 90 67 (Mairie)'
+Qu'en pensez-vous ?
+
+Voici des informations de contexte qui peuvent vous aider:
+{'gid': 145, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Quartier Liberne', 'cod_postal': '07210', 'commune': 'SAINT-SYMPHORIEN-SOUS-CHOMERAC', 'telephone': '04 75 65 90 67 (Mairie)', 'courriel': 'bm-stssc@inforoutes-ardeche.fr', 'site_inter': None, 'fonds': 'Livres', 'acces_net': 'Oui', 'horaires': 'Mercredi : 16h00 - 19h00', 'epci': 'Barrès-Coiron', 'type_bibli': 'Bibliothèque - médiathèque'}",
+"11":"Il y a des chances pour que la donnée suivante soit erronée:
+'telephone':'04 75 65 15 93 (Mairie)'
+Qu'en pensez-vous ?
+
+Voici des informations de contexte qui peuvent vous aider:
+{'gid': 147, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Le Village', 'cod_postal': '07210', 'commune': 'SAINT-VINCENT-DE-BARRES', 'telephone': '04 75 65 15 93 (Mairie)', 'courriel': None, 'site_inter': None, 'fonds': 'Livres\nRessources numériques', 'acces_net': 'Oui', 'horaires': 'Mercredi : 10h00 - 12h00\nDimanche : 10h00 - 12h00', 'epci': 'Barrès-Coiron', 'type_bibli': 'Bibliothèque - médiathèque'}",
+"12":"Il y a des chances pour que la donnée suivante soit erronée:
+'telephone':'04 75 35 01 94 
+'
+Qu'en pensez-vous ?
+
+Voici des informations de contexte qui peuvent vous aider:
+{'gid': 226, 'nom_biblio': 'Médiathèque Jean Ferrat\n', 'adresse': '1 rond-point des écoles', 'cod_postal': '07200', 'commune': 'AUBENAS', 'telephone': '04 75 35 01 94 \n', 'courriel': 'contact@bm-aubenas.fr', 'site_inter': 'http://bm-aubenas.fr', 'fonds': 'Livres\nCD\nDVD', 'acces_net': 'Oui', 'horaires': 'Mardi : 12h30 - 18h30\nMercredi : 10h00 - 12h00 & 14h00 - 18h00\nVendredi : 12h30 - 18h30\nSamedi : 9h00 - 12h30 & 14h00 - 17h00\n', 'epci': "Pays d'Aubenas Vals\n", 'type_bibli': 'Bibliothèque - médiathèque'}",
+"13":"Il y a des chances pour que la donnée suivante soit erronée:
+'telephone':'04 75 64 68 50 
+'
+Qu'en pensez-vous ?
+
+Voici des informations de contexte qui peuvent vous aider:
+{'gid': 103, 'nom_biblio': 'Médiathèque municpale Jean Dupin', 'adresse': 'Rue Elie Reynier', 'cod_postal': '07000', 'commune': 'PRIVAS\n', 'telephone': '04 75 64 68 50 \n', 'courriel': 'bmprivas@mairie-privas.fr', 'site_inter': 'http://www.bm-privas.fr', 'fonds': 'Livres\nCD\nDVD', 'acces_net': 'Oui', 'horaires': 'Mardi : 12h00 - 18h00 (Secteur jeunesse : 12h00 - 14h00 & 16h00 - 18h00)\nMercredi : 10h00 - 12h00 & 14h00 - 19h00\nVendredi : 14h00 - 18h00 (Secteur jeunesse : 16h00 - 18h00)\nSamedi : 10h00 - 12h00 & 14h00 - 17h00\n', 'epci': 'Privas centre Ardèche', 'type_bibli': 'Bibliothèque - médiathèque'}",
+}
