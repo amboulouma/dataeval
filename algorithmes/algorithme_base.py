@@ -22,7 +22,7 @@ for _feature in data['features']:
         if _feature['properties']['cod_postal'] != None:
             index_errors += 1
             errors_file.write('"' + str(index_errors) + '":"')
-            errors_file.write('\'cod_postal\':\'' + str(_feature['properties']['cod_postal']))
+            errors_file.write('\'cod_postal\':\'' + str(_feature['properties']['cod_postal']) + '<br>')
             errors_file.write('<br>Voici des informations de contexte qui peuvent vous aider:<br>')
             properties = str(_feature['properties'])[1:-1].replace('"','\'')
             errors_file.write(properties.replace(',', ',<br>').split(',')[1])
@@ -33,7 +33,7 @@ for _feature in data['features']:
         else:
             index_warnings += 1
             warnings_file.write('"' + str(index_warnings) + '":"')
-            warnings_file.write('\'cod_postal\':\'' + str(_feature['properties']['cod_postal']))
+            warnings_file.write('\'cod_postal\':\'' + str(_feature['properties']['cod_postal']) + '<br>')
             warnings_file.write('<br>Voici des informations de contexte qui peuvent vous aider:<br>')
             warnings_file.write(properties.replace(',', ',<br>').split(',')[1])
             warnings_file.write(properties.replace(',', ',<br>').split(',')[2])
@@ -45,7 +45,7 @@ for _feature in data['features']:
         if _feature['properties']['courriel'] != None:
             index_errors += 1
             errors_file.write('"' + str(index_errors) + '":"')
-            errors_file.write('\'courriel\':\'' + str(_feature['properties']['courriel']))
+            errors_file.write('\'courriel\':\'' + str(_feature['properties']['courriel']) + '<br>')
             errors_file.write('<br>Voici des informations de contexte qui peuvent vous aider:<br>')
             properties = str(_feature['properties'])[1:-1].replace('"','\'')
             errors_file.write(properties.replace(',', ',<br>').split(',')[1])
@@ -57,7 +57,7 @@ for _feature in data['features']:
         else:
             index_warnings += 1
             warnings_file.write('"' + str(index_warnings) + '":"')
-            warnings_file.write('\'courriel\':\'' + str(_feature['properties']['courriel']))
+            warnings_file.write('\'courriel\':\'' + str(_feature['properties']['courriel']) + '<br>')
             warnings_file.write('<br>Voici des informations de contexte qui peuvent vous aider:<br>')
             warnings_file.write(properties.replace(',', ',<br>').split(',')[1])
             warnings_file.write(properties.replace(',', ',<br>').split(',')[2])
@@ -70,7 +70,7 @@ for _feature in data['features']:
         if _feature['properties']['site_inter'] != None:
             index_errors += 1
             errors_file.write('"' + str(index_errors) + '":"')
-            errors_file.write('\'site_inter\':\'' + str(_feature['properties']['site_inter']))
+            errors_file.write('\'site_inter\':\'' + str(_feature['properties']['site_inter']) + '<br>')
             errors_file.write('<br>Voici des informations de contexte qui peuvent vous aider:<br>')
             properties = str(_feature['properties'])[1:-1].replace('"','\'')
             errors_file.write(properties.replace(',', ',<br>').split(',')[1])
@@ -82,7 +82,7 @@ for _feature in data['features']:
         else:
             index_warnings += 1
             warnings_file.write('"' + str(index_warnings) + '":"')
-            warnings_file.write('\'site_inter\':\'' + str(_feature['properties']['site_inter']))
+            warnings_file.write('\'site_inter\':\'' + str(_feature['properties']['site_inter']) + '<br>')
             warnings_file.write('<br>Voici des informations de contexte qui peuvent vous aider:<br>')
             warnings_file.write(properties.replace(',', ',<br>').split(',')[1])
             warnings_file.write(properties.replace(',', ',<br>').split(',')[2])
@@ -95,7 +95,7 @@ for _feature in data['features']:
         if _feature['properties']['telephone'] != None:
             index_errors += 1
             errors_file.write('"' + str(index_errors) + '":"')
-            errors_file.write('\'telephone\':\'' + str(_feature['properties']['telephone']).replace('\n',' '))
+            errors_file.write('\'telephone\':\'' + str(_feature['properties']['telephone']).replace('\n',' ')  + '<br>')
             errors_file.write('<br>Voici des informations de contexte qui peuvent vous aider:<br>')
             properties = str(_feature['properties'])[1:-1].replace('"','\'')
             errors_file.write(properties.replace(',', ',<br>').split(',')[1])
@@ -106,7 +106,7 @@ for _feature in data['features']:
         else:
             index_warnings += 1
             warnings_file.write('"' + str(index_warnings) + '":"')
-            warnings_file.write('\'telephone\':\'' + str(_feature['properties']['telephone']).replace('\n',' '))
+            warnings_file.write('\'telephone\':\'' + str(_feature['properties']['telephone']).replace('\n',' ')  + '<br>')
             warnings_file.write('<br>Voici des informations de contexte qui peuvent vous aider:<br>')
             warnings_file.write(properties.replace(',', ',<br>').split(',')[1])
             warnings_file.write(properties.replace(',', ',<br>').split(',')[2])
