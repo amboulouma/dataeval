@@ -76,7 +76,7 @@ for _feature in data['features']:
             index_errors += 1
             errors_file.write('"' + str(index_errors) + '":"')
             errors_file.write('Il y a des chances pour que la donnée suivante soit erronée:')
-            errors_file.write('\'telephone\':\'' + str(_feature['properties']['telephone']) + '\'Qu\'en pensez-vous ?')
+            errors_file.write('\'telephone\':\'' + str(_feature['properties']['telephone'])[:-1] + '\'Qu\'en pensez-vous ?')
             errors_file.write('Voici des informations de contexte qui peuvent vous aider:')
             errors_file.write(str(_feature['properties'])[1:-1].replace('"','\''))
             errors_file.write("\",")
@@ -84,7 +84,7 @@ for _feature in data['features']:
             index_warnings += 1
             warnings_file.write('"' + str(index_warnings) + '":"')
             warnings_file.write('Il y a des chances pour que la donnée suivante soit erronée:')
-            warnings_file.write('\'telephone\':\'' + str(_feature['properties']['telephone']) + '\'Qu\'en pensez-vous ?')
+            warnings_file.write('\'telephone\':\'' + str(_feature['properties']['telephone'])[:-1] + '\'Qu\'en pensez-vous ?')
             warnings_file.write('Voici des informations de contexte qui peuvent vous aider:')
             warnings_file.write(str(_feature['properties'])[1:-1].replace('"','\''))
             warnings_file.write("\",")
