@@ -70,14 +70,14 @@ for _feature in data['features']:
         if _feature['properties']['telephone'] != None:
             index_errors += 1
             errors_file.write('"' + str(index_errors) + '":"')
-            errors_file.write('\'telephone\':\'' + str(_feature['properties']['telephone']) + '\'Qu\'en pensez-vous ?')
+            errors_file.write('\'telephone\':\'' + str(_feature['properties']['telephone']).replace('\n',' ') + '\'Qu\'en pensez-vous ?')
             errors_file.write('<br>Voici des informations de contexte qui peuvent vous aider:')
             errors_file.write(str(_feature['properties'])[1:-1].replace('"','\''))
             errors_file.write("\",")
         else:
             index_warnings += 1
             warnings_file.write('"' + str(index_warnings) + '":"')
-            warnings_file.write('\'telephone\':\'' + str(_feature['properties']['telephone']) + '\'Qu\'en pensez-vous ?')
+            warnings_file.write('\'telephone\':\'' + str(_feature['properties']['telephone']).replace('\n',' ') + '\'Qu\'en pensez-vous ?')
             warnings_file.write('<br>Voici des informations de contexte qui peuvent vous aider:')
             warnings_file.write(str(_feature['properties'])[1:-1].replace('"','\''))
             warnings_file.write("\"")
