@@ -15,3 +15,13 @@ img {
 h1 {
     text-align: center;  
 }
+
+.box_prop2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.box_envoyer {
+    display: flex;
+    justify-content: center;    
+}

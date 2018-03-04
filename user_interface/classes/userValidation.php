@@ -88,9 +88,11 @@ function afficheForm() {
     echo '<div class="main">';
     $form = new Form_Manager('', 'form-group', 'POST', 'visitorValidation');
     
+    $form->retourChariot(1);
     $form->proposition($finalData);
-    
-    $form->TDBF_Display_radio(array(true => 'oui', false => 'non'), '', 'prop2', 'radio');
+    $form->retourChariot(1);
+    $form->TDBF_Display_radio(array(true => 'Oui, c\'est une erreur' , false => 'Non, ça ne l\'est pas'), '', 'prop2', 'radio');
+    $form->retourChariot(1);
     $form->TDBF_Display_text('Entrez votre commentaire', 'comment', 'form-control', '');
     
     $form->retourChariot(2);
