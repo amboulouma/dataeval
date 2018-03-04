@@ -22,7 +22,6 @@ for _feature in data['features']:
         if _feature['properties']['cod_postal'] != None:
             index_errors += 1
             errors_file.write('"' + str(index_errors) + '":"')
-            errors_file.write('Il y a des chances pour que la donnée suivante soit erronée:')
             errors_file.write('\'cod_postal\':\'' + str(_feature['properties']['cod_postal']) + '\'Qu\'en pensez-vous ?')
             errors_file.write('Voici des informations de contexte qui peuvent vous aider:')
             errors_file.write(str(_feature['properties'])[1:-1].replace('"','\''))
@@ -40,7 +39,6 @@ for _feature in data['features']:
         if _feature['properties']['courriel'] != None:
             index_errors += 1
             errors_file.write('"' + str(index_errors) + '":"')
-            errors_file.write('Il y a des chances pour que la donnée suivante soit erronée:')
             errors_file.write('\'courriel\':\'' + str(_feature['properties']['courriel']) + '\'Qu\'en pensez-vous ?')
             errors_file.write('Voici des informations de contexte qui peuvent vous aider:')
             errors_file.write(str(_feature['properties'])[1:-1].replace('"','\''))
@@ -58,7 +56,6 @@ for _feature in data['features']:
         if _feature['properties']['site_inter'] != None:
             index_errors += 1
             errors_file.write('"' + str(index_errors) + '":"')
-            errors_file.write('Il y a des chances pour que la donnée suivante soit erronée:')
             errors_file.write('\'site_inter\':\'' + str(_feature['properties']['site_inter']) + '\'Qu\'en pensez-vous ?')
             errors_file.write('Voici des informations de contexte qui peuvent vous aider:')
             errors_file.write(str(_feature['properties'])[1:-1].replace('"','\''))
@@ -76,7 +73,6 @@ for _feature in data['features']:
         if _feature['properties']['telephone'] != None:
             index_errors += 1
             errors_file.write('"' + str(index_errors) + '":"')
-            errors_file.write('Il y a des chances pour que la donnée suivante soit erronée:')
             errors_file.write('\'telephone\':\'' + str(_feature['properties']['telephone'])[:-1] + '\'Qu\'en pensez-vous ?')
             errors_file.write('Voici des informations de contexte qui peuvent vous aider:')
             errors_file.write(str(_feature['properties'])[1:-1].replace('"','\''))
