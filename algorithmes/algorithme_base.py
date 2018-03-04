@@ -3,7 +3,7 @@ import importlib
 
 algorithmes_test = __import__('algorithmes_test')
 
-input_file = open('../donnees/culture/bibliotheques.geojson')
+input_file = open('../donnees/culture/bibliotheques_erreurs.geojson')
 # input_file = open('../donnees/culture/college_prives.geojson')
 
 
@@ -74,7 +74,7 @@ for _feature in data['features']:
             warnings_file.write("\",\n")
     
     if not(algorithmes_test.test_telephone(str(_feature['properties']['telephone']))):
-        if _feature['properties']['telephone'] != None):
+        if _feature['properties']['telephone'] != None:
             index_errors += 1
             errors_file.write('"' + str(index_errors) + '":"')
             errors_file.write('Il y a des chances pour que la donnée suivante soit erronée:\n')

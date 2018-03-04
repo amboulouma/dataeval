@@ -3,13 +3,13 @@
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 31, 'nom_biblio': 'Bibliothèque des deux rivières', 'adresse': 'Grande rue', 'cod_postal': '07290', 'commune': 'SATILLIEU', 'telephone': '04 75 33 45 83', 'courriel': None, 'site_inter': None, 'fonds': 'Livres', 'acces_net': None, 'horaires': 'Mardi : 09h30 - 11h30\nMercredi : 10h00 - 12h00\nSamedi : 10h00 - 12h00', 'epci': "Val d'Ay", 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 31, 'nom_biblio': 'Bibliothèque des deux rivières', 'adresse': 'Grande rue', 'cod_postal': '0722390', 'commune': 'SATILLIEU', 'telephone': '04 75 33 45 8', 'courriel': None, 'site_inter': None, 'fonds': 'Livres', 'acces_net': None, 'horaires': 'Mardi : 09h30 - 11h30\nMercredi : 10h00 - 12h00\nSamedi : 10h00 - 12h00', 'epci': "Val d'Ay", 'type_bibli': 'Bibliothèque - médiathèque'}",
 "2":"Il y a des chances pour que la donnée suivante soit erronée:
 'site_inter':'None'
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 31, 'nom_biblio': 'Bibliothèque des deux rivières', 'adresse': 'Grande rue', 'cod_postal': '07290', 'commune': 'SATILLIEU', 'telephone': '04 75 33 45 83', 'courriel': None, 'site_inter': None, 'fonds': 'Livres', 'acces_net': None, 'horaires': 'Mardi : 09h30 - 11h30\nMercredi : 10h00 - 12h00\nSamedi : 10h00 - 12h00', 'epci': "Val d'Ay", 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 31, 'nom_biblio': 'Bibliothèque des deux rivières', 'adresse': 'Grande rue', 'cod_postal': '0722390', 'commune': 'SATILLIEU', 'telephone': '04 75 33 45 8', 'courriel': None, 'site_inter': None, 'fonds': 'Livres', 'acces_net': None, 'horaires': 'Mardi : 09h30 - 11h30\nMercredi : 10h00 - 12h00\nSamedi : 10h00 - 12h00', 'epci': "Val d'Ay", 'type_bibli': 'Bibliothèque - médiathèque'}",
 "3":"Il y a des chances pour que la donnée suivante soit erronée:
 'courriel':'None'
 Qu'en pensez-vous ?
@@ -51,7 +51,7 @@ Voici des informations de contexte qui peuvent vous aider:
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 1, 'nom_biblio': 'Lire à Andance', 'adresse': '2 place du cloître', 'cod_postal': '07340', 'commune': 'ANDANCE', 'telephone': '04 75 33 76 30\n', 'courriel': 'andance.bibliotheque@orange.fr', 'site_inter': None, 'fonds': 'Livres\nCD\nRessources numériques', 'acces_net': 'Oui', 'horaires': 'Mercredi : 09h30 - 11h30\nJeudi : 16h30 - 18h30\nSamedi : 09h30 - 11h30\n', 'epci': 'Porte de DrômArdèche', 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 1, 'nom_biblio': 'Lire à Andance', 'adresse': '2 place du cloître', 'cod_postal': '07340', 'commune': 'ANDANCE', 'telephone': '04 75 33 76 30\n', 'courriel': 'andance.bibliotheque@orangefr', 'site_inter': None, 'fonds': 'Livres\nCD\nRessources numériques', 'acces_net': 'Oui', 'horaires': 'Mercredi : 09h30 - 11h30\nJeudi : 16h30 - 18h30\nSamedi : 09h30 - 11h30\n', 'epci': 'Porte de DrômArdèche', 'type_bibli': 'Bibliothèque - médiathèque'}",
 "10":"Il y a des chances pour que la donnée suivante soit erronée:
 'site_inter':'None'
 Qu'en pensez-vous ?
@@ -111,13 +111,13 @@ Voici des informations de contexte qui peuvent vous aider:
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 8, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Mairie', 'cod_postal': '07340', 'commune': 'CHAMPAGNE', 'telephone': None, 'courriel': 'bm-champ@inforoutes-ardeche.fr', 'site_inter': None, 'fonds': 'Livres\nRessources numériques', 'acces_net': 'Oui', 'horaires': 'Mercredi : 16h30 - 18h30', 'epci': 'Porte de DrômArdèche', 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 8, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Mairie', 'cod_postal': '07340', 'commune': 'CHAMPAGNE', 'telephone': None, 'courriel': 'bm-champ@inforoutes-ardechefr', 'site_inter': None, 'fonds': 'Livres\nRessources numériques', 'acces_net': 'Oui', 'horaires': 'Mercredi : 16h30 - 18h30', 'epci': 'Porte de DrômArdèche', 'type_bibli': 'Bibliothèque - médiathèque'}",
 "20":"Il y a des chances pour que la donnée suivante soit erronée:
 'telephone':'None'
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 8, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Mairie', 'cod_postal': '07340', 'commune': 'CHAMPAGNE', 'telephone': None, 'courriel': 'bm-champ@inforoutes-ardeche.fr', 'site_inter': None, 'fonds': 'Livres\nRessources numériques', 'acces_net': 'Oui', 'horaires': 'Mercredi : 16h30 - 18h30', 'epci': 'Porte de DrômArdèche', 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 8, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Mairie', 'cod_postal': '07340', 'commune': 'CHAMPAGNE', 'telephone': None, 'courriel': 'bm-champ@inforoutes-ardechefr', 'site_inter': None, 'fonds': 'Livres\nRessources numériques', 'acces_net': 'Oui', 'horaires': 'Mercredi : 16h30 - 18h30', 'epci': 'Porte de DrômArdèche', 'type_bibli': 'Bibliothèque - médiathèque'}",
 "21":"Il y a des chances pour que la donnée suivante soit erronée:
 'courriel':'None'
 Qu'en pensez-vous ?
@@ -177,13 +177,13 @@ Voici des informations de contexte qui peuvent vous aider:
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 13, 'nom_biblio': 'Bibliothèque Municipale de Davézieux', 'adresse': 'Place des anciens combattants', 'cod_postal': '07430', 'commune': 'DAVEZIEUX', 'telephone': '04 75 34 32 97', 'courriel': 'bibliotheque@davezieux.fr', 'site_inter': None, 'fonds': 'Livres\nCD\nDVD\nRessources numériques', 'acces_net': 'Oui', 'horaires': 'Lundi : 15h00 - 18h00\nMardi : 15h00 - 18h00\nMercredi : 14h00 - 18h00\nVendredi : 15h00 - 18h00\nSamedi : 10h00 - 12h00', 'epci': "Bassin d'Annonay", 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 13, 'nom_biblio': 'Bibliothèque Municipale de Davézieux', 'adresse': 'Place des anciens combattants', 'cod_postal': '074530', 'commune': 'DAVEZIEUX', 'telephone': '04 75 34 32 97', 'courriel': 'bibliotheque@davezieux.fr', 'site_inter': None, 'fonds': 'Livres\nCD\nDVD\nRessources numériques', 'acces_net': 'Oui', 'horaires': 'Lundi : 15h00 - 18h00\nMardi : 15h00 - 18h00\nMercredi : 14h00 - 18h00\nVendredi : 15h00 - 18h00\nSamedi : 10h00 - 12h00', 'epci': "Bassin d'Annonay", 'type_bibli': 'Bibliothèque - médiathèque'}",
 "31":"Il y a des chances pour que la donnée suivante soit erronée:
 'site_inter':'None'
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 14, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Le Village', 'cod_postal': '07320', 'commune': 'DEVESSET', 'telephone': '04 75 30 58 51', 'courriel': 'bm.dev@inforoutes-ardeche.fr', 'site_inter': None, 'fonds': 'Livres', 'acces_net': 'Oui', 'horaires': 'Mardi : 16h00 - 18h00', 'epci': "Val'Eyrieux", 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 14, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Le Village', 'cod_postal': '07320', 'commune': 'DEVESSET', 'telephone': '04475 30 58 51', 'courriel': 'bm.dev@@inforoutes-ardeche.fr', 'site_inter': None, 'fonds': 'Livres', 'acces_net': 'Oui', 'horaires': 'Mardi : 16h00 - 18h00', 'epci': "Val'Eyrieux", 'type_bibli': 'Bibliothèque - médiathèque'}",
 "32":"Il y a des chances pour que la donnée suivante soit erronée:
 'courriel':'None'
 Qu'en pensez-vous ?
@@ -279,19 +279,19 @@ Voici des informations de contexte qui peuvent vous aider:
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 22, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'le Village', 'cod_postal': '07410', 'commune': 'PAILHARES', 'telephone': '04 75 06 11 16', 'courriel': None, 'site_inter': None, 'fonds': 'Livres', 'acces_net': 'Non', 'horaires': 'Mercredi : 16h00 - 17h30\nSamedi : 10h00 - 12h00', 'epci': 'Pays de St Félicien', 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 22, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'le Village', 'cod_postal': '07410', 'commune': 'PAILHARES', 'telephone': '04 ', 'courriel': None, 'site_inter': None, 'fonds': 'Livres', 'acces_net': 'Non', 'horaires': 'Mercredi : 16h00 - 17h30\nSamedi : 10h00 - 12h00', 'epci': 'Pays de St Félicien', 'type_bibli': 'Bibliothèque - médiathèque'}",
 "48":"Il y a des chances pour que la donnée suivante soit erronée:
 'site_inter':'None'
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 22, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'le Village', 'cod_postal': '07410', 'commune': 'PAILHARES', 'telephone': '04 75 06 11 16', 'courriel': None, 'site_inter': None, 'fonds': 'Livres', 'acces_net': 'Non', 'horaires': 'Mercredi : 16h00 - 17h30\nSamedi : 10h00 - 12h00', 'epci': 'Pays de St Félicien', 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 22, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'le Village', 'cod_postal': '07410', 'commune': 'PAILHARES', 'telephone': '04 ', 'courriel': None, 'site_inter': None, 'fonds': 'Livres', 'acces_net': 'Non', 'horaires': 'Mercredi : 16h00 - 17h30\nSamedi : 10h00 - 12h00', 'epci': 'Pays de St Félicien', 'type_bibli': 'Bibliothèque - médiathèque'}",
 "49":"Il y a des chances pour que la donnée suivante soit erronée:
 'site_inter':'None'
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 23, 'nom_biblio': 'Le Clos du lecteur', 'adresse': '342 Rue Centrale', 'cod_postal': '07340', 'commune': 'PEAUGRES', 'telephone': '09 65 29 72 77', 'courriel': 'bibliotheque.peaugres@gmail.com', 'site_inter': None, 'fonds': 'Livres\nRessources numériques', 'acces_net': 'Oui', 'horaires': 'Lundi : 16h30 - 18h30\nMercredi : 14h00 - 16h00\nSamedi : 10h00 - 12h00', 'epci': 'Vivarhône', 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 23, 'nom_biblio': 'Le Clos du lecteur', 'adresse': '342 Rue Centrale', 'cod_postal': '07340', 'commune': 'PEAUGRES', 'telephone': '09 65 29 72 77', 'courriel': 'bibliotheque.peaugres@gmailcom', 'site_inter': None, 'fonds': 'Livres\nRessources numériques', 'acces_net': 'Oui', 'horaires': 'Lundi : 16h30 - 18h30\nMercredi : 14h00 - 16h00\nSamedi : 10h00 - 12h00', 'epci': 'Vivarhône', 'type_bibli': 'Bibliothèque - médiathèque'}",
 "50":"Il y a des chances pour que la donnée suivante soit erronée:
 'site_inter':'None'
 Qu'en pensez-vous ?
@@ -333,13 +333,13 @@ Voici des informations de contexte qui peuvent vous aider:
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 27, 'nom_biblio': 'Le Relais du Livre', 'adresse': "Place de l'Eglise", 'cod_postal': '07290', 'commune': 'QUINTENAS', 'telephone': '04 75 32 15 61', 'courriel': 'ma-quint@inforoutes-ardeche.fr', 'site_inter': None, 'fonds': 'Livres\nRessources numériques', 'acces_net': 'Non', 'horaires': 'Mardi : 16h30 - 18h30\nMercredi : 14h00 - 16h00\nSamedi : 09h30 - 11h30', 'epci': "Val d'Ay", 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 27, 'nom_biblio': 'Le Relais du Livre', 'adresse': "Place de l'Eglise", 'cod_postal': '07290', 'commune': 'QUINTENAS', 'telephone': '04 75 32 15', 'courriel': 'ma-quint@inforoutes-ardeche.fr', 'site_inter': None, 'fonds': 'Livres\nRessources numériques', 'acces_net': 'Non', 'horaires': 'Mardi : 16h30 - 18h30\nMercredi : 14h00 - 16h00\nSamedi : 09h30 - 11h30', 'epci': "Val d'Ay", 'type_bibli': 'Bibliothèque - médiathèque'}",
 "57":"Il y a des chances pour que la donnée suivante soit erronée:
 'site_inter':'None'
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 28, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Le Village', 'cod_postal': '07320', 'commune': 'ROCHEPAULE', 'telephone': '04 75 30 04 39 (Mairie)', 'courriel': 'mairie.rochepaule@inforoutes-ardeche.fr', 'site_inter': None, 'fonds': 'Livres', 'acces_net': 'Non', 'horaires': 'Vendredi : 15h00 - 18h00', 'epci': "Val'Eyrieux", 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 28, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Le Village', 'cod_postal': '07320', 'commune': 'ROCHEPAULE', 'telephone': '04 75 30 04439 (Mairie)', 'courriel': 'mairie.rochepaule@inforoutes-ardeche.fr', 'site_inter': None, 'fonds': 'Livres', 'acces_net': 'Non', 'horaires': 'Vendredi : 15h00 - 18h00', 'epci': "Val'Eyrieux", 'type_bibli': 'Bibliothèque - médiathèque'}",
 "58":"Il y a des chances pour que la donnée suivante soit erronée:
 'site_inter':'None'
 Qu'en pensez-vous ?
@@ -819,13 +819,13 @@ Voici des informations de contexte qui peuvent vous aider:
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 72, 'nom_biblio': 'Bibliothèque intercommunale du pays du Cheylard', 'adresse': '7 rue du Couvent', 'cod_postal': '07160', 'commune': 'LE CHEYLARD', 'telephone': '04 75 29 18 34', 'courriel': 'mediatheque@paysducheylard.fr', 'site_inter': None, 'fonds': 'Livres\nCD\nDVD\nRessources numériques', 'acces_net': 'Oui', 'horaires': 'Lundi : 16h30 - 19h00\nMardi : 16h30 - 19h00\nMercredi : 09h30 - 11h30 & 15h00 - 18h00\nVendredi : 16h30 - 19h00', 'epci': "Val'Eyrieux", 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 72, 'nom_biblio': 'Bibliothèque intercommunale du pays du Cheylard', 'adresse': '7 rue du Couvent', 'cod_postal': '07160', 'commune': 'LE CHEYLARD', 'telephone': '04 75 29 18 34', 'courriel': 'mediathequepaysducheylard.fr', 'site_inter': None, 'fonds': 'Livres\nCD\nDVD\nRessources numériques', 'acces_net': 'Oui', 'horaires': 'Lundi : 16h30 - 19h00\nMardi : 16h30 - 19h00\nMercredi : 09h30 - 11h30 & 15h00 - 18h00\nVendredi : 16h30 - 19h00', 'epci': "Val'Eyrieux", 'type_bibli': 'Bibliothèque - médiathèque'}",
 "138":"Il y a des chances pour que la donnée suivante soit erronée:
 'site_inter':'None'
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 73, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Rue de la Poste', 'cod_postal': '07310', 'commune': 'SAINT-MARTIN-DE-VALAMAS', 'telephone': '04 75 30 63 95', 'courriel': 'bib.boutieres@wanadoo.fr', 'site_inter': None, 'fonds': 'Livres\nCD\nDVD\nRessources numériques', 'acces_net': 'Oui', 'horaires': 'Mardi : 16h30 - 18h30\nMercredi : 16h30 - 18h30\nJeudi : 10h00 - 12h00\nVendredi : 16h30 - 18h30\nSamedi : 10h00 - 12h00', 'epci': "Val'Eyrieux", 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 73, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Rue de la Poste', 'cod_postal': '07310', 'commune': 'SAINT-MARTIN-DE-VALAMAS', 'telephone': '04 75 30 63 95', 'courriel': 'bib.boutieres@wanadoo.fr07', 'site_inter': None, 'fonds': 'Livres\nCD\nDVD\nRessources numériques', 'acces_net': 'Oui', 'horaires': 'Mardi : 16h30 - 18h30\nMercredi : 16h30 - 18h30\nJeudi : 10h00 - 12h00\nVendredi : 16h30 - 18h30\nSamedi : 10h00 - 12h00', 'epci': "Val'Eyrieux", 'type_bibli': 'Bibliothèque - médiathèque'}",
 "139":"Il y a des chances pour que la donnée suivante soit erronée:
 'courriel':'None'
 Qu'en pensez-vous ?
@@ -849,7 +849,7 @@ Voici des informations de contexte qui peuvent vous aider:
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 75, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Mairie Place du Clos', 'cod_postal': '07190', 'commune': 'SAINT-PIERREVILLE', 'telephone': '04 75 65 78 40', 'courriel': 'bm-stpie@inforoutes-ardeche.fr', 'site_inter': None, 'fonds': 'Livres', 'acces_net': 'Oui', 'horaires': 'Mardi : 14h00 - 16h00\nVendredi : 17h30 - 18h30\nSamedi : 10h00 - 12h30\nDimanche : 10h00 - 12h30', 'epci': "Val'Eyrieux", 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 75, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Mairie Place du Clos', 'cod_postal': '07190', 'commune': 'SAINT-PIERREVILLE', 'telephone': '04 75765 78 40', 'courriel': 'bm-stpie@inforoutes-ardeche.fr', 'site_inter': None, 'fonds': 'Livres', 'acces_net': 'Oui', 'horaires': 'Mardi : 14h00 - 16h00\nVendredi : 17h30 - 18h30\nSamedi : 10h00 - 12h30\nDimanche : 10h00 - 12h30', 'epci': "Val'Eyrieux", 'type_bibli': 'Bibliothèque - médiathèque'}",
 "143":"Il y a des chances pour que la donnée suivante soit erronée:
 'courriel':'None'
 Qu'en pensez-vous ?
@@ -1167,7 +1167,7 @@ Voici des informations de contexte qui peuvent vous aider:
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 101, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Mairie', 'cod_postal': '07240', 'commune': 'SAINT-APOLLINAIRE-DE-RIAS', 'telephone': '04 75 58 09 57', 'courriel': 'bm-stapo@inforoutes-ardeche.fr', 'site_inter': None, 'fonds': 'Livres', 'acces_net': 'Oui', 'horaires': 'Mardi : 16h00 - 19h30\nVendredi : 17h30 - 20h00', 'epci': 'Pays de Vernoux', 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 101, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Mairie', 'cod_postal': '07240', 'commune': 'SAINT-APOLLINAIRE-DE-RIAS', 'telephone': '04 75 58 09 57890', 'courriel': 'bm-stapo@inforoutes-ardeche.fr', 'site_inter': None, 'fonds': 'Livres', 'acces_net': 'Oui', 'horaires': 'Mardi : 16h00 - 19h30\nVendredi : 17h30 - 20h00', 'epci': 'Pays de Vernoux', 'type_bibli': 'Bibliothèque - médiathèque'}",
 "196":"Il y a des chances pour que la donnée suivante soit erronée:
 'site_inter':'None'
 Qu'en pensez-vous ?
@@ -1269,7 +1269,7 @@ Voici des informations de contexte qui peuvent vous aider:
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 113, 'nom_biblio': 'Bibliothèque Louis Aragon', 'adresse': 'Espace Mandela', 'cod_postal': '07350', 'commune': 'CRUAS', 'telephone': '04 75 49 59 25', 'courriel': 'bibliotheque.cruas@orange.fr', 'site_inter': None, 'fonds': 'Livres\nRessources numériques', 'acces_net': 'Oui', 'horaires': 'Mardi : 16h00 - 18h30\nMercredi : 16h00 - 18h30\nVendredi : 09h30 - 12h00 & 16h00 - 18h30\nSamedi : 09h00 - 12h00', 'epci': 'Barrès-Coiron', 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 113, 'nom_biblio': 'Bibliothèque Louis Aragon', 'adresse': 'Espace Mandela', 'cod_postal': '07350', 'commune': 'CRUAS', 'telephone': '04 75 49 59 25', 'courriel': 'bibliotheque.cruasorange.fr', 'site_inter': None, 'fonds': 'Livres\nRessources numériques', 'acces_net': 'Oui', 'horaires': 'Mardi : 16h00 - 18h30\nMercredi : 16h00 - 18h30\nVendredi : 09h30 - 12h00 & 16h00 - 18h30\nSamedi : 09h00 - 12h00', 'epci': 'Barrès-Coiron', 'type_bibli': 'Bibliothèque - médiathèque'}",
 "213":"Il y a des chances pour que la donnée suivante soit erronée:
 'courriel':'None'
 Qu'en pensez-vous ?
@@ -1791,19 +1791,19 @@ Voici des informations de contexte qui peuvent vous aider:
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 164, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Le village', 'cod_postal': '07380', 'commune': 'CHIROLS', 'telephone': None, 'courriel': 'bibliochirols@yahoo.fr', 'site_inter': None, 'fonds': 'Livres', 'acces_net': 'Non', 'horaires': 'Mardi : 14h00 - 16h30', 'epci': 'Ardèche des Sources et des Volcans', 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 164, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Le village', 'cod_postal': '07380', 'commune': 'CHIROLS', 'telephone': None, 'courriel': 'bibliochirolsyahoo.fr', 'site_inter': None, 'fonds': 'Livres', 'acces_net': 'Non', 'horaires': 'Mardi : 14h00 - 16h30', 'epci': 'Ardèche des Sources et des Volcans', 'type_bibli': 'Bibliothèque - médiathèque'}",
 "300":"Il y a des chances pour que la donnée suivante soit erronée:
 'telephone':'None'
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 164, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Le village', 'cod_postal': '07380', 'commune': 'CHIROLS', 'telephone': None, 'courriel': 'bibliochirols@yahoo.fr', 'site_inter': None, 'fonds': 'Livres', 'acces_net': 'Non', 'horaires': 'Mardi : 14h00 - 16h30', 'epci': 'Ardèche des Sources et des Volcans', 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 164, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Le village', 'cod_postal': '07380', 'commune': 'CHIROLS', 'telephone': None, 'courriel': 'bibliochirolsyahoo.fr', 'site_inter': None, 'fonds': 'Livres', 'acces_net': 'Non', 'horaires': 'Mardi : 14h00 - 16h30', 'epci': 'Ardèche des Sources et des Volcans', 'type_bibli': 'Bibliothèque - médiathèque'}",
 "301":"Il y a des chances pour que la donnée suivante soit erronée:
 'site_inter':'None'
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 165, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Espace Eyraud', 'cod_postal': '07470', 'commune': 'COUCOURON', 'telephone': '04 66 46 29 94', 'courriel': 'bm-couco@inforoutes.fr', 'site_inter': None, 'fonds': 'Livres\nRessources numériques', 'acces_net': None, 'horaires': 'Mardi : 16h30 - 18h30\nMercredi : 09h30 - 11h30\nSamedi : 10h30 - 11h30', 'epci': 'Entre Loire et Allier', 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 165, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Espace Eyraud', 'cod_postal': '07470M', 'commune': 'COUCOURON', 'telephone': '04 66 46 29 94', 'courriel': 'bm-couco@inforoutes.fr', 'site_inter': None, 'fonds': 'Livres\nRessources numériques', 'acces_net': None, 'horaires': 'Mardi : 16h30 - 18h30\nMercredi : 09h30 - 11h30\nSamedi : 10h30 - 11h30', 'epci': 'Entre Loire et Allier', 'type_bibli': 'Bibliothèque - médiathèque'}",
 "302":"Il y a des chances pour que la donnée suivante soit erronée:
 'courriel':'None'
 Qu'en pensez-vous ?
@@ -1875,7 +1875,7 @@ Voici des informations de contexte qui peuvent vous aider:
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 171, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Quartier Soulège', 'cod_postal': '07260', 'commune': 'JOYEUSE', 'telephone': '04 75 39 56 45', 'courriel': 'bibliotheque-municipale.joyeuse@orange.fr', 'site_inter': None, 'fonds': 'Livres\nCD\nDVD\nRessources numériques', 'acces_net': 'Oui', 'horaires': 'Mardi : 16h00 - 18h00\nMercredi : 09h30 - 12h30 & 14h00 - 18h00\nVendredi : 16h00 - 18h30\nSamedi : 09h30 - 12h30', 'epci': 'Beaume-Drobie', 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 171, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Quartier Soulège', 'cod_postal': '07260', 'commune': 'JOYEUSE', 'telephone': '04 75 39 56 45', 'courriel': 'bibliotheque-municipale.joyeuse@orange.', 'site_inter': None, 'fonds': 'Livres\nCD\nDVD\nRessources numériques', 'acces_net': 'Oui', 'horaires': 'Mardi : 16h00 - 18h00\nMercredi : 09h30 - 12h30 & 14h00 - 18h00\nVendredi : 16h00 - 18h30\nSamedi : 09h30 - 12h30', 'epci': 'Beaume-Drobie', 'type_bibli': 'Bibliothèque - médiathèque'}",
 "314":"Il y a des chances pour que la donnée suivante soit erronée:
 'courriel':'None'
 Qu'en pensez-vous ?
@@ -1953,7 +1953,7 @@ Voici des informations de contexte qui peuvent vous aider:
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 176, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Place de la Mairie', 'cod_postal': '07230', 'commune': 'LABLACHERE', 'telephone': '04 75 93 49 12', 'courriel': 'lab.blio@wanadoo.fr', 'site_inter': None, 'fonds': 'Livres\nRessources numériques', 'acces_net': 'Oui', 'horaires': 'Jeudi : 15h30 - 18h00\nDimanche : 09h30 - 12h00', 'epci': 'Beaume-Drobie', 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 176, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Place de la Mairie', 'cod_postal': '07230', 'commune': 'LABLACHERE', 'telephone': '04 75 93 49 12', 'courriel': 'lab.blio@@wanadoo.fr', 'site_inter': None, 'fonds': 'Livres\nRessources numériques', 'acces_net': 'Oui', 'horaires': 'Jeudi : 15h30 - 18h00\nDimanche : 09h30 - 12h00', 'epci': 'Beaume-Drobie', 'type_bibli': 'Bibliothèque - médiathèque'}",
 "327":"Il y a des chances pour que la donnée suivante soit erronée:
 'courriel':'None'
 Qu'en pensez-vous ?
@@ -2457,7 +2457,7 @@ Voici des informations de contexte qui peuvent vous aider:
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 210, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Mairie Le village', 'cod_postal': '07590', 'commune': 'SAINT-LAURENT-LES-BAINS', 'telephone': '04 66 46 00 71', 'courriel': 'ma-stllb@inforoutes-ardeche.fr', 'site_inter': None, 'fonds': 'Livres', 'acces_net': 'Non', 'horaires': 'Lundi : 14h00 - 18h00\nMercredi : 14h00 - 18h00\nJeudi : 14h00 - 18h00\nVendredi : 09h00 - 12h00\nSamedi : 09h00 - 12h00', 'epci': 'Cévenne et Montagne Ardèchoise', 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 210, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Mairie Le village', 'cod_postal': 'M07590', 'commune': 'SAINT-LAURENT-LES-BAINS', 'telephone': '04 66 46 00 71', 'courriel': 'ma-stllbinforoutes-ardeche.fr', 'site_inter': None, 'fonds': 'Livres', 'acces_net': 'Non', 'horaires': 'Lundi : 14h00 - 18h00\nMercredi : 14h00 - 18h00\nJeudi : 14h00 - 18h00\nVendredi : 09h00 - 12h00\nSamedi : 09h00 - 12h00', 'epci': 'Cévenne et Montagne Ardèchoise', 'type_bibli': 'Bibliothèque - médiathèque'}",
 "411":"Il y a des chances pour que la donnée suivante soit erronée:
 'courriel':'None'
 Qu'en pensez-vous ?
@@ -2547,7 +2547,7 @@ Voici des informations de contexte qui peuvent vous aider:
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 217, 'nom_biblio': "Médiathèque du Val d'Ardèche", 'adresse': 'Parc du Château de Blou', 'cod_postal': '07330', 'commune': 'THUEYTS', 'telephone': '04 75 36 40 00', 'courriel': 'ccm.thueyts@inforoutes-ardeche.fr', 'site_inter': None, 'fonds': 'Livres\nRessources numériques', 'acces_net': 'Oui', 'horaires': 'Mercredi : 16h00 - 19h00\nVendredi : 10h00 - 12h00', 'epci': 'Ardèche des Sources et des Volcans', 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 217, 'nom_biblio': "Médiathèque du Val d'Ardèche", 'adresse': 'Parc du Château de Blou', 'cod_postal': '07330', 'commune': 'THUEYTS', 'telephone': '04 75 36 40 00', 'courriel': 'ccm.thueyts@inforoutes-ardeche.fr5678', 'site_inter': None, 'fonds': 'Livres\nRessources numériques', 'acces_net': 'Oui', 'horaires': 'Mercredi : 16h00 - 19h00\nVendredi : 10h00 - 12h00', 'epci': 'Ardèche des Sources et des Volcans', 'type_bibli': 'Bibliothèque - médiathèque'}",
 "426":"Il y a des chances pour que la donnée suivante soit erronée:
 'site_inter':'None'
 Qu'en pensez-vous ?
@@ -2625,13 +2625,13 @@ Voici des informations de contexte qui peuvent vous aider:
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 224, 'nom_biblio': 'Les Amis de la bibliohtèque', 'adresse': 'Place de la Mairie', 'cod_postal': '07110', 'commune': 'VINEZAC', 'telephone': None, 'courriel': 'bibliotheque.vinezac@orange.fr', 'site_inter': None, 'fonds': 'Livres\nRessources numériques', 'acces_net': 'Non', 'horaires': 'Mercredi : 14h30 - 17h00\nJeudi : 15h45 - 18h15\nSamedi : 11h00 - 12h00', 'epci': 'Vinobre', 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 224, 'nom_biblio': 'Les Amis de la bibliohtèque', 'adresse': 'Place de la Mairie', 'cod_postal': '071100', 'commune': 'VINEZAC', 'telephone': None, 'courriel': 'bibliotheque.vinezac@orange@fr', 'site_inter': None, 'fonds': 'Livres\nRessources numériques', 'acces_net': 'Non', 'horaires': 'Mercredi : 14h30 - 17h00\nJeudi : 15h45 - 18h15\nSamedi : 11h00 - 12h00', 'epci': 'Vinobre', 'type_bibli': 'Bibliothèque - médiathèque'}",
 "439":"Il y a des chances pour que la donnée suivante soit erronée:
 'telephone':'None'
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 224, 'nom_biblio': 'Les Amis de la bibliohtèque', 'adresse': 'Place de la Mairie', 'cod_postal': '07110', 'commune': 'VINEZAC', 'telephone': None, 'courriel': 'bibliotheque.vinezac@orange.fr', 'site_inter': None, 'fonds': 'Livres\nRessources numériques', 'acces_net': 'Non', 'horaires': 'Mercredi : 14h30 - 17h00\nJeudi : 15h45 - 18h15\nSamedi : 11h00 - 12h00', 'epci': 'Vinobre', 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 224, 'nom_biblio': 'Les Amis de la bibliohtèque', 'adresse': 'Place de la Mairie', 'cod_postal': '071100', 'commune': 'VINEZAC', 'telephone': None, 'courriel': 'bibliotheque.vinezac@orange@fr', 'site_inter': None, 'fonds': 'Livres\nRessources numériques', 'acces_net': 'Non', 'horaires': 'Mercredi : 14h30 - 17h00\nJeudi : 15h45 - 18h15\nSamedi : 11h00 - 12h00', 'epci': 'Vinobre', 'type_bibli': 'Bibliothèque - médiathèque'}",
 "440":"Il y a des chances pour que la donnée suivante soit erronée:
 'courriel':'None'
 Qu'en pensez-vous ?
