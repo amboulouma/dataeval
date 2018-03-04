@@ -12,6 +12,9 @@ and open the template in the editor.
     </head>
     <body>
         <?php
+        include './classes/Form_Manager.php';
+        include './classes/Data_Validation.php';
+
         require './classes/userValidation.php';
         ?>
     </body>

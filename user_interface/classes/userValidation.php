@@ -1,7 +1,4 @@
 <?php
-include './Form_Manager.php';
-include './Data_Validation.php';
-
 
 class loadProperties {
     
@@ -11,7 +8,7 @@ class loadProperties {
     
     function __construct() {
         //$this->index = stream_get_contents(fopen('index.txt', 'r'));
-        $this->error = json_decode(file_get_contents('../../errors/errors.json'), TRUE);
+        $this->error = json_decode(file_get_contents('../errors/errors.json'), TRUE);
         $this->capcha = json_decode(file_get_contents('../json/capcha.json'), TRUE);
         $this->index = rand(1, (count($this->getError()) - 1));
     }
@@ -92,20 +89,20 @@ function afficheForm() {
     $form = new Form_Manager('', 'form', 'POST', 'visitorValidation');
     
     $form->proposition($finalData);
+    
     $form->TDBF_Display_radio(array(true => 'oui', false => 'non'), '', 'prop2', 'radio');
     $form->TDBF_Display_text('Entrez votre commentaire', 'comment', 'textZone', '');
     
     $form->retourChariot(2);
-//   
-//    $form->proposition($finalData);
-//    $form->TDBF_Display_radio(['oui','non'], '', 'prop1', 'radio');
-//    $form->TDBF_Display_text('Entrez votre commentaire', 'fauxComment', 'textZone', '');
-//    
-//    $form->retourChariot(2);
+    //   
+    //    $form->proposition($finalData);
+    //    $form->TDBF_Display_radio(['oui','non'], '', 'prop1', 'radio');
+    //    $form->TDBF_Display_text('Entrez votre commentaire', 'fauxComment', 'textZone', '');
+    //    
+    //    $form->retourChariot(2);
     
     $form->TDBF_Display_button('envoyer', 'envoyer', 'envoyer', 'submit');
     $form->display();
     echo '</div>';
 }
-
 afficheForm();
