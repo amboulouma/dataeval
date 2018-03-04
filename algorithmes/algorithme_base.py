@@ -4,8 +4,6 @@ import importlib
 algorithmes_test = __import__('algorithmes_test')
 
 input_file = open('../donnees/culture/bibliotheques_erreurs.geojson')
-# input_file = open('../donnees/culture/college_prives.geojson')
-
 
 warnings_file = open('../errors/warnings.json', 'w')
 errors_file = open('../errors/errors.json', 'w')
@@ -26,7 +24,7 @@ for _feature in data['features']:
             errors_file.write('Il y a des chances pour que la donnée suivante soit erronée:')
             errors_file.write('\'cod_postal\':\'' + str(_feature['properties']['cod_postal']) + '\'Qu\'en pensez-vous ?')
             errors_file.write('Voici des informations de contexte qui peuvent vous aider:')
-            errors_file.write(str(_feature['properties']))
+            errors_file.write(str(_feature['properties'])[1:-1].replace('"','\''))
             errors_file.write("\",")
         else:
             index_warnings += 1
@@ -34,7 +32,7 @@ for _feature in data['features']:
             warnings_file.write('Il y a des chances pour que la donnée suivante soit erronée:')
             warnings_file.write('\'cod_postal\':\'' + str(_feature['properties']['cod_postal']) + '\'Qu\'en pensez-vous ?')
             warnings_file.write('Voici des informations de contexte qui peuvent vous aider:')
-            warnings_file.write(str(_feature['properties']))
+            warnings_file.write(str(_feature['properties'])[1:-1].replace('"','\''))
             warnings_file.write("\",")
 
     if not(algorithmes_test.test_mail(str(_feature['properties']['courriel']))):
@@ -44,7 +42,7 @@ for _feature in data['features']:
             errors_file.write('Il y a des chances pour que la donnée suivante soit erronée:')
             errors_file.write('\'courriel\':\'' + str(_feature['properties']['courriel']) + '\'Qu\'en pensez-vous ?')
             errors_file.write('Voici des informations de contexte qui peuvent vous aider:')
-            errors_file.write(str(_feature['properties']))
+            errors_file.write(str(_feature['properties'])[1:-1].replace('"','\''))
             errors_file.write("\",")
         else:
             index_warnings += 1
@@ -52,7 +50,7 @@ for _feature in data['features']:
             warnings_file.write('Il y a des chances pour que la donnée suivante soit erronée:')
             warnings_file.write('\'courriel\':\'' + str(_feature['properties']['courriel']) + '\'Qu\'en pensez-vous ?')
             warnings_file.write('Voici des informations de contexte qui peuvent vous aider:')
-            warnings_file.write(str(_feature['properties']))
+            warnings_file.write(str(_feature['properties'])[1:-1].replace('"','\''))
             warnings_file.write("\",")
     
     if not(algorithmes_test.test_url(str(_feature['properties']['site_inter']))):
@@ -62,7 +60,7 @@ for _feature in data['features']:
             errors_file.write('Il y a des chances pour que la donnée suivante soit erronée:')
             errors_file.write('\'site_inter\':\'' + str(_feature['properties']['site_inter']) + '\'Qu\'en pensez-vous ?')
             errors_file.write('Voici des informations de contexte qui peuvent vous aider:')
-            errors_file.write(str(_feature['properties']))
+            errors_file.write(str(_feature['properties'])[1:-1].replace('"','\''))
             errors_file.write("\",")
         else:
             index_warnings += 1
@@ -70,7 +68,7 @@ for _feature in data['features']:
             warnings_file.write('Il y a des chances pour que la donnée suivante soit erronée:')
             warnings_file.write('\'site_inter\':\'' + str(_feature['properties']['site_inter']) + '\'Qu\'en pensez-vous ?')
             warnings_file.write('Voici des informations de contexte qui peuvent vous aider:')
-            warnings_file.write(str(_feature['properties']))
+            warnings_file.write(str(_feature['properties'])[1:-1].replace('"','\''))
             warnings_file.write("\",")
     
     if not(algorithmes_test.test_telephone(str(_feature['properties']['telephone']))):
@@ -80,7 +78,7 @@ for _feature in data['features']:
             errors_file.write('Il y a des chances pour que la donnée suivante soit erronée:')
             errors_file.write('\'telephone\':\'' + str(_feature['properties']['telephone']) + '\'Qu\'en pensez-vous ?')
             errors_file.write('Voici des informations de contexte qui peuvent vous aider:')
-            errors_file.write(str(_feature['properties']))
+            errors_file.write(str(_feature['properties'])[1:-1].replace('"','\''))
             errors_file.write("\",")
         else:
             index_warnings += 1
@@ -88,7 +86,7 @@ for _feature in data['features']:
             warnings_file.write('Il y a des chances pour que la donnée suivante soit erronée:')
             warnings_file.write('\'telephone\':\'' + str(_feature['properties']['telephone']) + '\'Qu\'en pensez-vous ?')
             warnings_file.write('Voici des informations de contexte qui peuvent vous aider:')
-            warnings_file.write(str(_feature['properties']))
+            warnings_file.write(str(_feature['properties'])[1:-1].replace('"','\''))
             warnings_file.write("\",")
 
 warnings_file.write('}')
