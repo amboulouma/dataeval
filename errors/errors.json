@@ -3,13 +3,13 @@
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 31, 'nom_biblio': 'Bibliothèque des deux rivières', 'adresse': 'Grande rue', 'cod_postal': '0722390', 'commune': 'SATILLIEU', 'telephone': '04 75 33 45 8', 'courriel': None, 'site_inter': None, 'fonds': 'Livres', 'acces_net': None, 'horaires': 'Mardi : 09h30 - 11h30\nMercredi : 10h00 - 12h00\nSamedi : 10h00 - 12h00', 'epci': "Val d'Ay", 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 31, 'nom_biblio': 'Bibliothèque des deux rivières', 'adresse': 'Grande rue', 'cod_postal': '0722390', 'commune': 'SATILLIEU', 'telephone': '04 75 33 45 8', 'courriel': None, 'site_inter': None, 'fonds': 'Livres', 'acces_net': None, 'horaires': 'Mardi : 09h30 - 11h30\nMercredi : 10h00 - 12h00\nSamedi : 10h00 - 12h00', 'epci': 'Val d'Ay', 'type_bibli': 'Bibliothèque - médiathèque'}",
 "2":"Il y a des chances pour que la donnée suivante soit erronée:
 'telephone':'04 75 33 45 8'
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 31, 'nom_biblio': 'Bibliothèque des deux rivières', 'adresse': 'Grande rue', 'cod_postal': '0722390', 'commune': 'SATILLIEU', 'telephone': '04 75 33 45 8', 'courriel': None, 'site_inter': None, 'fonds': 'Livres', 'acces_net': None, 'horaires': 'Mardi : 09h30 - 11h30\nMercredi : 10h00 - 12h00\nSamedi : 10h00 - 12h00', 'epci': "Val d'Ay", 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 31, 'nom_biblio': 'Bibliothèque des deux rivières', 'adresse': 'Grande rue', 'cod_postal': '0722390', 'commune': 'SATILLIEU', 'telephone': '04 75 33 45 8', 'courriel': None, 'site_inter': None, 'fonds': 'Livres', 'acces_net': None, 'horaires': 'Mardi : 09h30 - 11h30\nMercredi : 10h00 - 12h00\nSamedi : 10h00 - 12h00', 'epci': 'Val d'Ay', 'type_bibli': 'Bibliothèque - médiathèque'}",
 "3":"Il y a des chances pour que la donnée suivante soit erronée:
 'courriel':'andance.bibliotheque@orangefr'
 Qu'en pensez-vous ?
@@ -27,19 +27,19 @@ Voici des informations de contexte qui peuvent vous aider:
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 13, 'nom_biblio': 'Bibliothèque Municipale de Davézieux', 'adresse': 'Place des anciens combattants', 'cod_postal': '074530', 'commune': 'DAVEZIEUX', 'telephone': '04 75 34 32 97', 'courriel': 'bibliotheque@davezieux.fr', 'site_inter': None, 'fonds': 'Livres\nCD\nDVD\nRessources numériques', 'acces_net': 'Oui', 'horaires': 'Lundi : 15h00 - 18h00\nMardi : 15h00 - 18h00\nMercredi : 14h00 - 18h00\nVendredi : 15h00 - 18h00\nSamedi : 10h00 - 12h00', 'epci': "Bassin d'Annonay", 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 13, 'nom_biblio': 'Bibliothèque Municipale de Davézieux', 'adresse': 'Place des anciens combattants', 'cod_postal': '074530', 'commune': 'DAVEZIEUX', 'telephone': '04 75 34 32 97', 'courriel': 'bibliotheque@davezieux.fr', 'site_inter': None, 'fonds': 'Livres\nCD\nDVD\nRessources numériques', 'acces_net': 'Oui', 'horaires': 'Lundi : 15h00 - 18h00\nMardi : 15h00 - 18h00\nMercredi : 14h00 - 18h00\nVendredi : 15h00 - 18h00\nSamedi : 10h00 - 12h00', 'epci': 'Bassin d'Annonay', 'type_bibli': 'Bibliothèque - médiathèque'}",
 "6":"Il y a des chances pour que la donnée suivante soit erronée:
 'courriel':'bm.dev@@inforoutes-ardeche.fr'
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 14, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Le Village', 'cod_postal': '07320', 'commune': 'DEVESSET', 'telephone': '04475 30 58 51', 'courriel': 'bm.dev@@inforoutes-ardeche.fr', 'site_inter': None, 'fonds': 'Livres', 'acces_net': 'Oui', 'horaires': 'Mardi : 16h00 - 18h00', 'epci': "Val'Eyrieux", 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 14, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Le Village', 'cod_postal': '07320', 'commune': 'DEVESSET', 'telephone': '04475 30 58 51', 'courriel': 'bm.dev@@inforoutes-ardeche.fr', 'site_inter': None, 'fonds': 'Livres', 'acces_net': 'Oui', 'horaires': 'Mardi : 16h00 - 18h00', 'epci': 'Val'Eyrieux', 'type_bibli': 'Bibliothèque - médiathèque'}",
 "7":"Il y a des chances pour que la donnée suivante soit erronée:
 'telephone':'04475 30 58 51'
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 14, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Le Village', 'cod_postal': '07320', 'commune': 'DEVESSET', 'telephone': '04475 30 58 51', 'courriel': 'bm.dev@@inforoutes-ardeche.fr', 'site_inter': None, 'fonds': 'Livres', 'acces_net': 'Oui', 'horaires': 'Mardi : 16h00 - 18h00', 'epci': "Val'Eyrieux", 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 14, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Le Village', 'cod_postal': '07320', 'commune': 'DEVESSET', 'telephone': '04475 30 58 51', 'courriel': 'bm.dev@@inforoutes-ardeche.fr', 'site_inter': None, 'fonds': 'Livres', 'acces_net': 'Oui', 'horaires': 'Mardi : 16h00 - 18h00', 'epci': 'Val'Eyrieux', 'type_bibli': 'Bibliothèque - médiathèque'}",
 "8":"Il y a des chances pour que la donnée suivante soit erronée:
 'telephone':'04 '
 Qu'en pensez-vous ?
@@ -57,25 +57,25 @@ Voici des informations de contexte qui peuvent vous aider:
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 27, 'nom_biblio': 'Le Relais du Livre', 'adresse': "Place de l'Eglise", 'cod_postal': '07290', 'commune': 'QUINTENAS', 'telephone': '04 75 32 15', 'courriel': 'ma-quint@inforoutes-ardeche.fr', 'site_inter': None, 'fonds': 'Livres\nRessources numériques', 'acces_net': 'Non', 'horaires': 'Mardi : 16h30 - 18h30\nMercredi : 14h00 - 16h00\nSamedi : 09h30 - 11h30', 'epci': "Val d'Ay", 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 27, 'nom_biblio': 'Le Relais du Livre', 'adresse': 'Place de l'Eglise', 'cod_postal': '07290', 'commune': 'QUINTENAS', 'telephone': '04 75 32 15', 'courriel': 'ma-quint@inforoutes-ardeche.fr', 'site_inter': None, 'fonds': 'Livres\nRessources numériques', 'acces_net': 'Non', 'horaires': 'Mardi : 16h30 - 18h30\nMercredi : 14h00 - 16h00\nSamedi : 09h30 - 11h30', 'epci': 'Val d'Ay', 'type_bibli': 'Bibliothèque - médiathèque'}",
 "11":"Il y a des chances pour que la donnée suivante soit erronée:
 'telephone':'04 75 30 04439 (Mairie)'
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 28, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Le Village', 'cod_postal': '07320', 'commune': 'ROCHEPAULE', 'telephone': '04 75 30 04439 (Mairie)', 'courriel': 'mairie.rochepaule@inforoutes-ardeche.fr', 'site_inter': None, 'fonds': 'Livres', 'acces_net': 'Non', 'horaires': 'Vendredi : 15h00 - 18h00', 'epci': "Val'Eyrieux", 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 28, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Le Village', 'cod_postal': '07320', 'commune': 'ROCHEPAULE', 'telephone': '04 75 30 04439 (Mairie)', 'courriel': 'mairie.rochepaule@inforoutes-ardeche.fr', 'site_inter': None, 'fonds': 'Livres', 'acces_net': 'Non', 'horaires': 'Vendredi : 15h00 - 18h00', 'epci': 'Val'Eyrieux', 'type_bibli': 'Bibliothèque - médiathèque'}",
 "12":"Il y a des chances pour que la donnée suivante soit erronée:
 'courriel':'mediathequepaysducheylard.fr'
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 72, 'nom_biblio': 'Bibliothèque intercommunale du pays du Cheylard', 'adresse': '7 rue du Couvent', 'cod_postal': '07160', 'commune': 'LE CHEYLARD', 'telephone': '04 75 29 18 34', 'courriel': 'mediathequepaysducheylard.fr', 'site_inter': None, 'fonds': 'Livres\nCD\nDVD\nRessources numériques', 'acces_net': 'Oui', 'horaires': 'Lundi : 16h30 - 19h00\nMardi : 16h30 - 19h00\nMercredi : 09h30 - 11h30 & 15h00 - 18h00\nVendredi : 16h30 - 19h00', 'epci': "Val'Eyrieux", 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 72, 'nom_biblio': 'Bibliothèque intercommunale du pays du Cheylard', 'adresse': '7 rue du Couvent', 'cod_postal': '07160', 'commune': 'LE CHEYLARD', 'telephone': '04 75 29 18 34', 'courriel': 'mediathequepaysducheylard.fr', 'site_inter': None, 'fonds': 'Livres\nCD\nDVD\nRessources numériques', 'acces_net': 'Oui', 'horaires': 'Lundi : 16h30 - 19h00\nMardi : 16h30 - 19h00\nMercredi : 09h30 - 11h30 & 15h00 - 18h00\nVendredi : 16h30 - 19h00', 'epci': 'Val'Eyrieux', 'type_bibli': 'Bibliothèque - médiathèque'}",
 "13":"Il y a des chances pour que la donnée suivante soit erronée:
 'telephone':'04 75765 78 40'
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 75, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Mairie Place du Clos', 'cod_postal': '07190', 'commune': 'SAINT-PIERREVILLE', 'telephone': '04 75765 78 40', 'courriel': 'bm-stpie@inforoutes-ardeche.fr', 'site_inter': None, 'fonds': 'Livres', 'acces_net': 'Oui', 'horaires': 'Mardi : 14h00 - 16h00\nVendredi : 17h30 - 18h30\nSamedi : 10h00 - 12h30\nDimanche : 10h00 - 12h30', 'epci': "Val'Eyrieux", 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 75, 'nom_biblio': 'Bibliothèque municipale', 'adresse': 'Mairie Place du Clos', 'cod_postal': '07190', 'commune': 'SAINT-PIERREVILLE', 'telephone': '04 75765 78 40', 'courriel': 'bm-stpie@inforoutes-ardeche.fr', 'site_inter': None, 'fonds': 'Livres', 'acces_net': 'Oui', 'horaires': 'Mardi : 14h00 - 16h00\nVendredi : 17h30 - 18h30\nSamedi : 10h00 - 12h30\nDimanche : 10h00 - 12h30', 'epci': 'Val'Eyrieux', 'type_bibli': 'Bibliothèque - médiathèque'}",
 "14":"Il y a des chances pour que la donnée suivante soit erronée:
 'telephone':'04 75 58 09 57890'
 Qu'en pensez-vous ?
@@ -202,7 +202,7 @@ Voici des informations de contexte qui peuvent vous aider:
 Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
-{'gid': 226, 'nom_biblio': 'Médiathèque Jean Ferrat\n', 'adresse': '1 rond-point des écoles', 'cod_postal': '07200', 'commune': 'AUBENAS', 'telephone': '04 75 35 01 94 \n', 'courriel': 'contact@bm-aubenas.fr', 'site_inter': 'http://bm-aubenas.fr', 'fonds': 'Livres\nCD\nDVD', 'acces_net': 'Oui', 'horaires': 'Mardi : 12h30 - 18h30\nMercredi : 10h00 - 12h00 & 14h00 - 18h00\nVendredi : 12h30 - 18h30\nSamedi : 9h00 - 12h30 & 14h00 - 17h00\n', 'epci': "Pays d'Aubenas Vals\n", 'type_bibli': 'Bibliothèque - médiathèque'}",
+{'gid': 226, 'nom_biblio': 'Médiathèque Jean Ferrat\n', 'adresse': '1 rond-point des écoles', 'cod_postal': '07200', 'commune': 'AUBENAS', 'telephone': '04 75 35 01 94 \n', 'courriel': 'contact@bm-aubenas.fr', 'site_inter': 'http://bm-aubenas.fr', 'fonds': 'Livres\nCD\nDVD', 'acces_net': 'Oui', 'horaires': 'Mardi : 12h30 - 18h30\nMercredi : 10h00 - 12h00 & 14h00 - 18h00\nVendredi : 12h30 - 18h30\nSamedi : 9h00 - 12h30 & 14h00 - 17h00\n', 'epci': 'Pays d'Aubenas Vals\n', 'type_bibli': 'Bibliothèque - médiathèque'}",
 "35":"Il y a des chances pour que la donnée suivante soit erronée:
 'telephone':'04 75 64 68 50 
 '
