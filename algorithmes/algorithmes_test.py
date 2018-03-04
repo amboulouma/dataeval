@@ -12,5 +12,5 @@ def test_mail(mail):
 
 def test_url(url):
     match = re.match(r'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+',url)
-    return (match)
+    return bool(match)
 
