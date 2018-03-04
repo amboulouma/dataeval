@@ -8,20 +8,27 @@ errors_file = open('../errors/errors.json', 'w')
 
 data = json.load(input_file)
 
-errors_counter = 0
-
+index = 0
+errors_file.write('{')
 for _feature in data['features']:
     
     if not(algorithmes_test.test_code_postal(_feature['properties']['cod_postal'])):
-        errors_file.write(_feature['properties']['cod_postal'])
+        index += 1
+        errors_file.write('"' + str(index) + '":"')
         errors_file.write('Warning in "cod_postal" in property with gid: ' + _feature['properties']['gid'] + '\n\n')
-        errors_counter += 1
+        errors_file.write('Warning "cod_postal": ' + _feature['properties']['cod_postal'] + '\n\n')
+        errors_file.write('},')
 
     if not(algorithmes_test.test_mail(str(_feature['properties']['courriel']))):
-        errors_file.write('Warning in "courriel" in property with gid: ' + str(_feature['properties']['gid']) + '\n')
-        errors_file.write('Warning "courriel": ' + str(_feature['properties']['courriel'])+'\n\n')
-        errors_counter += 1
+        index += 1
+        errors_file.write('"' + str(index) + '":"')
+        errors_file.write('Il y a des chances pour que la donnée suivante soit erronée:\n')
+        errors_file.write('\'courriel\':\'' + str(_feature['properties']['courriel']) + '\'\nQu\'en pensez-vous ?\n\n')
+        errors_file.write('Voici des informations de contexte qui peuvent vous aider:\n')
+        errors_file.write(str(_feature['properties']))
+        errors_file.write("\",\n")
 
-errors_file.write('Total warnings found: ' + str(errors_counter) + '\n')
+errors_file.write('},\n')
+    
 input_file.close()
 errors_file.close()
