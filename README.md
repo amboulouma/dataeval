@@ -1,6 +1,6 @@
 # Data Eval
 
-[I'm an inline-style link](./open_data_hackathon_dataeval_team.jpg)
+[The Team !](./open_data_hackathon_dataeval_team.jpg)
 
 A web application that spots errors in databases
 
