@@ -39,6 +39,8 @@ for _feature in data['features']:
         errors_file.write(str(_feature['properties']))
         errors_file.write("\",\n")
 
+    
+
 errors_file.write('}\n')
     
 input_file.close()

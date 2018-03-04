@@ -2020,4 +2020,4 @@ Qu'en pensez-vous ?
 
 Voici des informations de contexte qui peuvent vous aider:
 {'gid': 47, 'nom_biblio': 'Au Fil des Pages', 'adresse': '105 rue du Centre', 'cod_postal': '07430', 'commune': 'VERNOSC-LES-ANNONAY', 'telephone': '04 75 67 94 88', 'courriel': 'bibliotheque@vernosc.fr', 'site_inter': None, 'fonds': 'Livres', 'acces_net': 'Oui', 'horaires': 'Mardi : 16h30 - 17h30\nMercredi : 14h00 - 16h00\nVendredi : 17h30 - 19h00\nDimanche : 10h00 - 11h00', 'epci': "Bassin d'Annonay", 'type_bibli': 'Bibliothèque - médiathèque'}",
-},
+}
