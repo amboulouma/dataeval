@@ -1,5 +1,6 @@
 import json
 import importlib
+import os
 
 algorithmes_test = __import__('algorithmes_test')
 
@@ -87,9 +88,11 @@ for _feature in data['features']:
             warnings_file.write('\'telephone\':\'' + str(_feature['properties']['telephone'])[:-1] + '\'Qu\'en pensez-vous ?')
             warnings_file.write('Voici des informations de contexte qui peuvent vous aider:')
             warnings_file.write(str(_feature['properties'])[1:-1].replace('"','\''))
-            warnings_file.write("\",")
+            warnings_file.write("\"")
 
+warnings_file.write('"0":""')
 warnings_file.write('}')
+errors_file.write('"0":""')
 errors_file.write('}')
     
 input_file.close()
