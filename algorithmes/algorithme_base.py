@@ -23,76 +23,76 @@ for _feature in data['features']:
         if _feature['properties']['cod_postal'] != None:
             index_errors += 1
             errors_file.write('"' + str(index_errors) + '":"')
-            errors_file.write('Il y a des chances pour que la donnée suivante soit erronée:\n')
-            errors_file.write('\'cod_postal\':\'' + str(_feature['properties']['cod_postal']) + '\'\nQu\'en pensez-vous ?\n\n')
-            errors_file.write('Voici des informations de contexte qui peuvent vous aider:\n')
+            errors_file.write('Il y a des chances pour que la donnée suivante soit erronée:')
+            errors_file.write('\'cod_postal\':\'' + str(_feature['properties']['cod_postal']) + '\'Qu\'en pensez-vous ?')
+            errors_file.write('Voici des informations de contexte qui peuvent vous aider:')
             errors_file.write(str(_feature['properties']))
-            errors_file.write("\",\n")
+            errors_file.write("\",")
         else:
             index_warnings += 1
             warnings_file.write('"' + str(index_warnings) + '":"')
-            warnings_file.write('Il y a des chances pour que la donnée suivante soit erronée:\n')
-            warnings_file.write('\'cod_postal\':\'' + str(_feature['properties']['cod_postal']) + '\'\nQu\'en pensez-vous ?\n\n')
-            warnings_file.write('Voici des informations de contexte qui peuvent vous aider:\n')
+            warnings_file.write('Il y a des chances pour que la donnée suivante soit erronée:')
+            warnings_file.write('\'cod_postal\':\'' + str(_feature['properties']['cod_postal']) + '\'Qu\'en pensez-vous ?')
+            warnings_file.write('Voici des informations de contexte qui peuvent vous aider:')
             warnings_file.write(str(_feature['properties']))
-            warnings_file.write("\",\n")
+            warnings_file.write("\",")
 
     if not(algorithmes_test.test_mail(str(_feature['properties']['courriel']))):
         if _feature['properties']['courriel'] != None:
             index_errors += 1
             errors_file.write('"' + str(index_errors) + '":"')
-            errors_file.write('Il y a des chances pour que la donnée suivante soit erronée:\n')
-            errors_file.write('\'courriel\':\'' + str(_feature['properties']['courriel']) + '\'\nQu\'en pensez-vous ?\n\n')
-            errors_file.write('Voici des informations de contexte qui peuvent vous aider:\n')
+            errors_file.write('Il y a des chances pour que la donnée suivante soit erronée:')
+            errors_file.write('\'courriel\':\'' + str(_feature['properties']['courriel']) + '\'Qu\'en pensez-vous ?')
+            errors_file.write('Voici des informations de contexte qui peuvent vous aider:')
             errors_file.write(str(_feature['properties']))
-            errors_file.write("\",\n")
+            errors_file.write("\",")
         else:
             index_warnings += 1
             warnings_file.write('"' + str(index_warnings) + '":"')
-            warnings_file.write('Il y a des chances pour que la donnée suivante soit erronée:\n')
-            warnings_file.write('\'courriel\':\'' + str(_feature['properties']['courriel']) + '\'\nQu\'en pensez-vous ?\n\n')
-            warnings_file.write('Voici des informations de contexte qui peuvent vous aider:\n')
+            warnings_file.write('Il y a des chances pour que la donnée suivante soit erronée:')
+            warnings_file.write('\'courriel\':\'' + str(_feature['properties']['courriel']) + '\'Qu\'en pensez-vous ?')
+            warnings_file.write('Voici des informations de contexte qui peuvent vous aider:')
             warnings_file.write(str(_feature['properties']))
-            warnings_file.write("\",\n")
+            warnings_file.write("\",")
     
     if not(algorithmes_test.test_url(str(_feature['properties']['site_inter']))):
         if _feature['properties']['site_inter'] != None:
             index_errors += 1
             errors_file.write('"' + str(index_errors) + '":"')
-            errors_file.write('Il y a des chances pour que la donnée suivante soit erronée:\n')
-            errors_file.write('\'site_inter\':\'' + str(_feature['properties']['site_inter']) + '\'\nQu\'en pensez-vous ?\n\n')
-            errors_file.write('Voici des informations de contexte qui peuvent vous aider:\n')
+            errors_file.write('Il y a des chances pour que la donnée suivante soit erronée:')
+            errors_file.write('\'site_inter\':\'' + str(_feature['properties']['site_inter']) + '\'Qu\'en pensez-vous ?')
+            errors_file.write('Voici des informations de contexte qui peuvent vous aider:')
             errors_file.write(str(_feature['properties']))
-            errors_file.write("\",\n")
+            errors_file.write("\",")
         else:
             index_warnings += 1
             warnings_file.write('"' + str(index_warnings) + '":"')
-            warnings_file.write('Il y a des chances pour que la donnée suivante soit erronée:\n')
-            warnings_file.write('\'site_inter\':\'' + str(_feature['properties']['site_inter']) + '\'\nQu\'en pensez-vous ?\n\n')
-            warnings_file.write('Voici des informations de contexte qui peuvent vous aider:\n')
+            warnings_file.write('Il y a des chances pour que la donnée suivante soit erronée:')
+            warnings_file.write('\'site_inter\':\'' + str(_feature['properties']['site_inter']) + '\'Qu\'en pensez-vous ?')
+            warnings_file.write('Voici des informations de contexte qui peuvent vous aider:')
             warnings_file.write(str(_feature['properties']))
-            warnings_file.write("\",\n")
+            warnings_file.write("\",")
     
     if not(algorithmes_test.test_telephone(str(_feature['properties']['telephone']))):
         if _feature['properties']['telephone'] != None:
             index_errors += 1
             errors_file.write('"' + str(index_errors) + '":"')
-            errors_file.write('Il y a des chances pour que la donnée suivante soit erronée:\n')
-            errors_file.write('\'telephone\':\'' + str(_feature['properties']['telephone']) + '\'\nQu\'en pensez-vous ?\n\n')
-            errors_file.write('Voici des informations de contexte qui peuvent vous aider:\n')
+            errors_file.write('Il y a des chances pour que la donnée suivante soit erronée:')
+            errors_file.write('\'telephone\':\'' + str(_feature['properties']['telephone']) + '\'Qu\'en pensez-vous ?')
+            errors_file.write('Voici des informations de contexte qui peuvent vous aider:')
             errors_file.write(str(_feature['properties']))
-            errors_file.write("\",\n")
+            errors_file.write("\",")
         else:
             index_warnings += 1
             warnings_file.write('"' + str(index_warnings) + '":"')
-            warnings_file.write('Il y a des chances pour que la donnée suivante soit erronée:\n')
-            warnings_file.write('\'telephone\':\'' + str(_feature['properties']['telephone']) + '\'\nQu\'en pensez-vous ?\n\n')
-            warnings_file.write('Voici des informations de contexte qui peuvent vous aider:\n')
+            warnings_file.write('Il y a des chances pour que la donnée suivante soit erronée:')
+            warnings_file.write('\'telephone\':\'' + str(_feature['properties']['telephone']) + '\'Qu\'en pensez-vous ?')
+            warnings_file.write('Voici des informations de contexte qui peuvent vous aider:')
             warnings_file.write(str(_feature['properties']))
-            warnings_file.write("\",\n")
+            warnings_file.write("\",")
 
-warnings_file.write('}\n')
-errors_file.write('}\n')
+warnings_file.write('}')
+errors_file.write('}')
     
 input_file.close()
 errors_file.close()
