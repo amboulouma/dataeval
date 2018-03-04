@@ -30,7 +30,7 @@ class Form_Manager {
 
     public function proposition($data) {
         
-        $r = 'Cette donnée est peut-être érronée, quand pensez-vous? <br>'.$data.'<br>';
+        $r = 'Cette donnée est peut-être érronée, qu\'en pensez-vous? <br>'.$data.'<br>';
         array_push ( $this->formulaire_element, $r );
     }
     

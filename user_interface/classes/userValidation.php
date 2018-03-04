@@ -85,23 +85,16 @@ function afficheForm() {
 
     }
     
-    echo '<div>';
-    $form = new Form_Manager('', 'form', 'POST', 'visitorValidation');
+    echo '<div class="main">';
+    $form = new Form_Manager('', 'form-group', 'POST', 'visitorValidation');
     
     $form->proposition($finalData);
     
     $form->TDBF_Display_radio(array(true => 'oui', false => 'non'), '', 'prop2', 'radio');
-    $form->TDBF_Display_text('Entrez votre commentaire', 'comment', 'textZone', '');
+    $form->TDBF_Display_text('Entrez votre commentaire', 'comment', 'form-control', '');
     
     $form->retourChariot(2);
-    //   
-    //    $form->proposition($finalData);
-    //    $form->TDBF_Display_radio(['oui','non'], '', 'prop1', 'radio');
-    //    $form->TDBF_Display_text('Entrez votre commentaire', 'fauxComment', 'textZone', '');
-    //    
-    //    $form->retourChariot(2);
-    
-    $form->TDBF_Display_button('envoyer', 'envoyer', 'envoyer', 'submit');
+    $form->TDBF_Display_button('envoyer', 'btn btn-default', 'envoyer', 'submit');
     $form->display();
     echo '</div>';
 }

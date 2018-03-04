@@ -1,0 +1,17 @@
+img {
+    margin: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main {
+    padding: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+}
+
+h1 {
+    text-align: center;  
+}

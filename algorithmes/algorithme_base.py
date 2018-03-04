@@ -1,5 +1,6 @@
 import json
 import importlib
+import random
 
 algorithmes_test = __import__('algorithmes_test')
 
@@ -24,14 +25,20 @@ for _feature in data['features']:
             errors_file.write('\'cod_postal\':\'' + str(_feature['properties']['cod_postal']))
             errors_file.write('<br>Voici des informations de contexte qui peuvent vous aider:<br>')
             properties = str(_feature['properties'])[1:-1].replace('"','\'')
-            errors_file.write(properties.replace(',', ',<br>'))
+            errors_file.write(properties.replace(',', ',<br>').split(',')[1])
+            errors_file.write(properties.replace(',', ',<br>').split(',')[2])
+            errors_file.write(properties.replace(',', ',<br>').split(',')[4])
+            errors_file.write(properties.replace(',', ',<br>').split(',')[5])
             errors_file.write("\",")
         else:
             index_warnings += 1
             warnings_file.write('"' + str(index_warnings) + '":"')
             warnings_file.write('\'cod_postal\':\'' + str(_feature['properties']['cod_postal']))
             warnings_file.write('<br>Voici des informations de contexte qui peuvent vous aider:<br>')
-            warnings_file.write(str(_feature['properties'])[1:-1].replace('"','\''))
+            warnings_file.write(properties.replace(',', ',<br>').split(',')[1])
+            warnings_file.write(properties.replace(',', ',<br>').split(',')[2])
+            warnings_file.write(properties.replace(',', ',<br>').split(',')[4])
+            warnings_file.write(properties.replace(',', ',<br>').split(',')[5])
             warnings_file.write("\",")
 
     if not(algorithmes_test.test_mail(str(_feature['properties']['courriel']))):
@@ -41,14 +48,22 @@ for _feature in data['features']:
             errors_file.write('\'courriel\':\'' + str(_feature['properties']['courriel']))
             errors_file.write('<br>Voici des informations de contexte qui peuvent vous aider:<br>')
             properties = str(_feature['properties'])[1:-1].replace('"','\'')
-            errors_file.write(properties.replace(',', ',<br>'))
+            errors_file.write(properties.replace(',', ',<br>').split(',')[1])
+            errors_file.write(properties.replace(',', ',<br>').split(',')[2])
+            errors_file.write(properties.replace(',', ',<br>').split(',')[3])
+            errors_file.write(properties.replace(',', ',<br>').split(',')[4])
+            errors_file.write(properties.replace(',', ',<br>').split(',')[5])
             errors_file.write("\",")
         else:
             index_warnings += 1
             warnings_file.write('"' + str(index_warnings) + '":"')
             warnings_file.write('\'courriel\':\'' + str(_feature['properties']['courriel']))
             warnings_file.write('<br>Voici des informations de contexte qui peuvent vous aider:<br>')
-            warnings_file.write(str(_feature['properties'])[1:-1].replace('"','\''))
+            warnings_file.write(properties.replace(',', ',<br>').split(',')[1])
+            warnings_file.write(properties.replace(',', ',<br>').split(',')[2])
+            warnings_file.write(properties.replace(',', ',<br>').split(',')[3])
+            warnings_file.write(properties.replace(',', ',<br>').split(',')[4])
+            warnings_file.write(properties.replace(',', ',<br>').split(',')[5])
             warnings_file.write("\",")
     
     if not(algorithmes_test.test_url(str(_feature['properties']['site_inter']))):
@@ -58,14 +73,22 @@ for _feature in data['features']:
             errors_file.write('\'site_inter\':\'' + str(_feature['properties']['site_inter']))
             errors_file.write('<br>Voici des informations de contexte qui peuvent vous aider:<br>')
             properties = str(_feature['properties'])[1:-1].replace('"','\'')
-            errors_file.write(properties.replace(',', ',<br>'))
+            errors_file.write(properties.replace(',', ',<br>').split(',')[1])
+            errors_file.write(properties.replace(',', ',<br>').split(',')[2])
+            errors_file.write(properties.replace(',', ',<br>').split(',')[3])
+            errors_file.write(properties.replace(',', ',<br>').split(',')[4])
+            errors_file.write(properties.replace(',', ',<br>').split(',')[5])
             errors_file.write("\",")
         else:
             index_warnings += 1
             warnings_file.write('"' + str(index_warnings) + '":"')
             warnings_file.write('\'site_inter\':\'' + str(_feature['properties']['site_inter']))
             warnings_file.write('<br>Voici des informations de contexte qui peuvent vous aider:<br>')
-            warnings_file.write(str(_feature['properties'])[1:-1].replace('"','\''))
+            warnings_file.write(properties.replace(',', ',<br>').split(',')[1])
+            warnings_file.write(properties.replace(',', ',<br>').split(',')[2])
+            warnings_file.write(properties.replace(',', ',<br>').split(',')[3])
+            warnings_file.write(properties.replace(',', ',<br>').split(',')[4])
+            warnings_file.write(properties.replace(',', ',<br>').split(',')[5])
             warnings_file.write("\",")
     
     if not(algorithmes_test.test_telephone(str(_feature['properties']['telephone']))):
@@ -75,14 +98,20 @@ for _feature in data['features']:
             errors_file.write('\'telephone\':\'' + str(_feature['properties']['telephone']).replace('\n',' '))
             errors_file.write('<br>Voici des informations de contexte qui peuvent vous aider:<br>')
             properties = str(_feature['properties'])[1:-1].replace('"','\'')
-            errors_file.write(properties.replace(',', ',<br>'))
+            errors_file.write(properties.replace(',', ',<br>').split(',')[1])
+            errors_file.write(properties.replace(',', ',<br>').split(',')[2])
+            errors_file.write(properties.replace(',', ',<br>').split(',')[3])
+            errors_file.write(properties.replace(',', ',<br>').split(',')[4])
             errors_file.write("\",")
         else:
             index_warnings += 1
             warnings_file.write('"' + str(index_warnings) + '":"')
             warnings_file.write('\'telephone\':\'' + str(_feature['properties']['telephone']).replace('\n',' '))
             warnings_file.write('<br>Voici des informations de contexte qui peuvent vous aider:<br>')
-            warnings_file.write(str(_feature['properties'])[1:-1].replace('"','\''))
+            warnings_file.write(properties.replace(',', ',<br>').split(',')[1])
+            warnings_file.write(properties.replace(',', ',<br>').split(',')[2])
+            warnings_file.write(properties.replace(',', ',<br>').split(',')[3])
+            warnings_file.write(properties.replace(',', ',<br>').split(',')[4])
             warnings_file.write("\"")
 
 warnings_file.write('"0":""')
