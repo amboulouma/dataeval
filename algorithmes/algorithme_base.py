@@ -1,6 +1,5 @@
 import json
 import importlib
-import os
 
 algorithmes_test = __import__('algorithmes_test')
 
