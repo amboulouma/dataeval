@@ -2,6 +2,8 @@
 
 [The Team !](./open_data_hackathon_dataeval_team.jpg)
 
+[Project winner of the 3rd prize in the Hackathon Hack'en Ardèche](https://www.hackathon.com/event/hacken-ardeche-42895806512)
+
 A web application that spots errors in databases
 
 # Pre-requisites
