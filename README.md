@@ -1,6 +1,6 @@
 # Data Eval
 
-[The Team !](./open_data_hackathon_dataeval_team.jpg)
+![The Team !](./open_data_hackathon_dataeval_team.jpg?raw=true)
 
 [Project winner of the 3rd prize in the Hackathon Hack'en Ardèche](https://www.hackathon.com/event/hacken-ardeche-42895806512)
 
